@@ -1,0 +1,10 @@
+{
+    "title": "Example",
+    "description": "This is the default example pack for Emoji Hats!",
+    "llm_description": "default pack with no special properties",
+    "icon": "icon.png",
+    "tags": [
+        "default",
+        "18+"
+    ]
+}
