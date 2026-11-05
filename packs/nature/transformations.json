@@ -1,0 +1,124 @@
+{
+  "acorn": {
+    "x": 9,
+    "y": 36
+  },
+  "bark_fragment": {
+    "x": 3,
+    "y": 14
+  },
+  "bumpy_log": {
+    "x": 2,
+    "y": 14
+  },
+  "caterpillar": {
+    "x": -2,
+    "y": 13
+  },
+  "cracked_shell": {
+    "x": 7,
+    "y": 6
+  },
+  "curved_leaf": {
+    "x": 161,
+    "y": -1
+  },
+  "damp_root": {
+    "x": 6,
+    "y": 36
+  },
+  "dewkissed_blade": {
+    "x": -119,
+    "y": 112
+  },
+  "driftwood": {
+    "x": -11,
+    "y": -22,
+    "r": -49
+  },
+  "fern_frond": {
+    "x": 28,
+    "y": -8
+  },
+  "fuzzy_bloom": {
+    "x": 2,
+    "y": 51,
+    "s": 0.75
+  },
+  "glistening_lichen": {
+    "x": -1,
+    "y": 8
+  },
+  "hidden_frond": {
+    "x": 14,
+    "y": 17
+  },
+  "hollow_stem": {
+    "y": -7,
+    "r": -12,
+    "s": 1.05
+  },
+  "lichen": {
+    "y": 21
+  },
+  "morning_dew": {
+    "x": 4,
+    "y": 26
+  },
+  "moss": {
+    "x": 7,
+    "y": 39
+  },
+  "mossy_root": {
+    "x": 1,
+    "y": 29,
+    "r": -3
+  },
+  "oak_leaf": {
+    "x": -14,
+    "y": 51
+  },
+  "pinecone": {
+    "y": 29
+  },
+  "river_stone": {
+    "x": 8,
+    "y": 43
+  },
+  "sand_dune": {
+    "x": 3,
+    "y": 17
+  },
+  "shadowed_petal": {
+    "x": -41,
+    "y": 42
+  },
+  "silken_thread": {
+    "x": 36,
+    "y": 21
+  },
+  "stinging_pod": {
+    "x": -5,
+    "y": 26
+  },
+  "twisted_root": {
+    "x": 5,
+    "y": 11
+  },
+  "twisted_vine": {
+    "x": 11,
+    "y": -4
+  },
+  "waterfall": {
+    "x": -4,
+    "y": 22
+  },
+  "waving_frond": {
+    "x": 89,
+    "y": -10
+  },
+  "wildflower": {
+    "x": 7,
+    "y": -6
+  }
+}

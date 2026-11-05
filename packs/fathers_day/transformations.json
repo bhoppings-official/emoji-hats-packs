@@ -1,0 +1,166 @@
+{
+  "backpack": {
+    "x": 12,
+    "y": 18
+  },
+  "baseball_cap": {
+    "x": -4,
+    "y": 33
+  },
+  "baseball_glove": {
+    "x": 15,
+    "y": 17
+  },
+  "bbq_apron_set": {
+    "x": -25,
+    "y": 6
+  },
+  "bbq_grill": {
+    "x": 12,
+    "y": 17
+  },
+  "bbq_smoker": {
+    "x": 3,
+    "y": 1
+  },
+  "bbq_thermometer": {
+    "x": 11,
+    "y": 4
+  },
+  "beer_stein": {
+    "x": 23,
+    "y": 16
+  },
+  "bookcase": {
+    "x": 10,
+    "y": 12
+  },
+  "candle_holder": {
+    "x": 29,
+    "y": 5
+  },
+  "coffee_mug": {
+    "x": 23,
+    "y": 25
+  },
+  "denim_jacket": {
+    "x": 17,
+    "y": 16
+  },
+  "engraved_bottle_opener": {
+    "x": -19,
+    "y": 75,
+    "r": 27
+  },
+  "engraved_cufflinks": {
+    "x": 15,
+    "y": 54
+  },
+  "engraved_hammer": {
+    "x": 91,
+    "y": 39,
+    "r": -43
+  },
+  "engraved_keychain": {
+    "x": 12,
+    "y": 33
+  },
+  "fathers_watch": {
+    "x": 11,
+    "y": -35,
+    "r": -88
+  },
+  "fishing_rod": {
+    "x": -12,
+    "y": 26
+  },
+  "golf_bag": {
+    "x": 9,
+    "y": 24
+  },
+  "golf_club": {
+    "x": 58,
+    "y": 7
+  },
+  "grilling_tongs": {
+    "x": 13,
+    "y": 18
+  },
+  "leather_belt": {
+    "x": 19,
+    "y": 66
+  },
+  "leather_wallet": {
+    "x": 17,
+    "y": 28
+  },
+  "mirror": {
+    "x": 10,
+    "y": 41
+  },
+  "personalized_photo_frame": {
+    "x": 12,
+    "y": 20
+  },
+  "pocket_knife": {
+    "x": 56,
+    "y": 78,
+    "r": 49
+  },
+  "portable_hammock": {
+    "x": 11,
+    "y": 18
+  },
+  "puzzles": {
+    "x": 13,
+    "y": 18
+  },
+  "sunglasses": {
+    "x": 17,
+    "y": 47
+  },
+  "sunglasses_case": {
+    "x": 19,
+    "y": 19
+  },
+  "tassels": {
+    "x": 16,
+    "y": 14
+  },
+  "tool_belt": {
+    "x": 4,
+    "y": 21
+  },
+  "toy_shovel": {
+    "x": 74,
+    "y": 19
+  },
+  "toy_truck": {
+    "x": 1,
+    "y": 22
+  },
+  "travel_toiletry_bag": {
+    "y": 16
+  },
+  "veils": {
+    "x": 11,
+    "y": 20
+  },
+  "whiskey_decanter": {
+    "x": 7,
+    "y": 19
+  },
+  "wireless_charging_dock": {
+    "x": 23,
+    "y": 35
+  },
+  "wooden_airplane": {
+    "x": 44,
+    "y": -10
+  },
+  "wooden_spoon": {
+    "x": -1,
+    "y": 80,
+    "r": 47
+  }
+}

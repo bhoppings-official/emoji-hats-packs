@@ -1,0 +1,84 @@
+{
+  "ginseng_root": {
+    "x": -1,
+    "y": 41
+  },
+  "ginseng_tea_leaf": {
+    "x": 15,
+    "y": 11
+  },
+  "hanbok_flower": {
+    "x": 1,
+    "y": 16
+  },
+  "hanbok_hairpin": {
+    "x": -11,
+    "y": 19
+  },
+  "hanbok_jacket": {
+    "x": 2,
+    "y": 12
+  },
+  "hanbok_robe": {
+    "y": 15
+  },
+  "hanbok_sash": {
+    "x": 2,
+    "y": 5
+  },
+  "hanbok_skirt": {
+    "y": 22
+  },
+  "jangdok": {
+    "x": 2,
+    "y": 1
+  },
+  "jangseung": {
+    "x": 3,
+    "y": 8
+  },
+  "kimchi_bowl": {
+    "x": 4,
+    "y": 2
+  },
+  "kimchi_jar": {
+    "x": 1,
+    "y": 32
+  },
+  "kimchi_spoon": {
+    "x": 55,
+    "y": 12
+  },
+  "soju_bottle": {
+    "x": 10,
+    "y": 1
+  },
+  "soju_glass": {
+    "x": 37,
+    "y": 2
+  },
+  "taekwondo_belt": {
+    "x": 5,
+    "y": 123
+  },
+  "taekwondo_glove": {
+    "x": 22,
+    "y": -3
+  },
+  "taekwondo_pole": {
+    "x": 8,
+    "y": -5
+  },
+  "taekwondo_uniform": {
+    "x": 6,
+    "y": 12
+  },
+  "traditional_hanbok": {
+    "x": 6,
+    "y": 15
+  },
+  "traditional_mask": {
+    "x": 4,
+    "y": 6
+  }
+}

@@ -1,0 +1,156 @@
+{
+  "action_figure": {
+    "x": 5,
+    "y": 24
+  },
+  "building_blocks": {
+    "x": 8,
+    "y": 60
+  },
+  "car_toy_2": {
+    "x": 1,
+    "y": 5
+  },
+  "carrot_puppet_2": {
+    "x": 21,
+    "y": -13
+  },
+  "doll": {
+    "x": 4,
+    "y": 1
+  },
+  "fishing_rod": {
+    "x": 93,
+    "y": -7
+  },
+  "jump_rope": {
+    "x": 3,
+    "y": -23
+  },
+  "marble_maze": {
+    "x": 2,
+    "y": 8
+  },
+  "puzzle_box_2": {
+    "x": 5,
+    "y": 54
+  },
+  "puzzle_cube": {
+    "x": 7,
+    "y": 55
+  },
+  "puzzle_ring": {
+    "x": -12,
+    "y": 47
+  },
+  "puzzle_ring_2": {
+    "x": 84,
+    "y": 126,
+    "r": -104
+  },
+  "rc_race_car": {
+    "y": 52
+  },
+  "remote_control": {
+    "x": 12,
+    "y": 19
+  },
+  "remote_control_2": {
+    "x": 27,
+    "y": 23
+  },
+  "rope_toy": {
+    "x": 5,
+    "y": 2,
+    "r": -77
+  },
+  "rubber_duck": {
+    "x": 13,
+    "y": 1
+  },
+  "spinning_top": {
+    "x": 7,
+    "y": 22
+  },
+  "stuffed_dinosaur": {
+    "x": 15,
+    "y": 9
+  },
+  "stuffed_fox_2": {
+    "x": 6,
+    "y": 11
+  },
+  "teddy_bear": {
+    "x": 6,
+    "y": 10
+  },
+  "toy_airplane": {
+    "x": 15,
+    "y": 35
+  },
+  "toy_boat": {
+    "x": 14,
+    "y": 9
+  },
+  "toy_car": {
+    "y": 16
+  },
+  "toy_castle": {
+    "x": 4,
+    "y": 17
+  },
+  "toy_crane": {
+    "x": 36,
+    "y": -9
+  },
+  "toy_drum": {
+    "x": 11,
+    "y": 46
+  },
+  "toy_hat": {
+    "x": 3,
+    "y": 29
+  },
+  "toy_hat_2": {
+    "x": -1,
+    "y": 33
+  },
+  "toy_helicopter": {
+    "x": 35,
+    "y": -6
+  },
+  "toy_piano": {
+    "x": 15,
+    "y": -1
+  },
+  "toy_robot": {
+    "x": 9,
+    "y": 2
+  },
+  "toy_submarine": {
+    "x": 2,
+    "y": 4
+  },
+  "toy_sword_2": {
+    "x": 8,
+    "y": -19,
+    "r": 134
+  },
+  "toy_truck": {
+    "x": 1,
+    "y": 14
+  },
+  "train_set": {
+    "x": 5,
+    "y": 67
+  },
+  "water_gun": {
+    "x": -125,
+    "y": -21,
+    "r": 36
+  },
+  "yoyo": {
+    "x": 8,
+    "y": 45
+  }
+}

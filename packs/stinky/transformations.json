@@ -1,0 +1,116 @@
+{
+  "compost_heap": {
+    "x": 2,
+    "y": 38
+  },
+  "dirty_boot_sole": {
+    "x": 53,
+    "y": 26
+  },
+  "dirty_gym_towel": {
+    "x": 4,
+    "y": 35
+  },
+  "fermented_garlic_clove": {
+    "x": 7,
+    "y": 21
+  },
+  "festered_apple_core": {
+    "x": 3,
+    "y": 10
+  },
+  "moldy_bread_crust": {
+    "x": 3,
+    "y": 10
+  },
+  "moldy_lettuce_leaf": {
+    "x": 6,
+    "y": 40
+  },
+  "moldy_tortilla_chip": {
+    "x": -3,
+    "y": 39
+  },
+  "overcooked_onions": {
+    "x": 1,
+    "y": 27
+  },
+  "refrigerated_fish_pack": {
+    "x": 4,
+    "y": 22
+  },
+  "rotten_banana_peel": {
+    "y": 9
+  },
+  "rotten_cheese_rind": {
+    "x": 5,
+    "y": 68
+  },
+  "rotting_broccoli": {
+    "x": 5,
+    "y": 11
+  },
+  "rotting_cabbage": {
+    "y": 19
+  },
+  "rotting_eggplant": {
+    "x": 15,
+    "y": 24
+  },
+  "rotting_grapefruit": {
+    "x": -1,
+    "y": 24
+  },
+  "rotting_onion": {
+    "x": 9,
+    "y": -4
+  },
+  "rotting_potato": {
+    "x": 19,
+    "y": 18
+  },
+  "rotting_squid_tentacle": {
+    "x": -32,
+    "y": 14,
+    "r": 93
+  },
+  "skunk_carcass": {
+    "x": 5,
+    "y": 13
+  },
+  "smelly_backpack": {
+    "x": 3,
+    "y": -21,
+    "s": 1.38
+  },
+  "spoiled_yogurt_cup": {
+    "x": 2,
+    "y": 30
+  },
+  "stale_cereal_box": {
+    "x": -2,
+    "y": 17
+  },
+  "stale_fish_guts": {
+    "x": -5,
+    "y": 13
+  },
+  "stale_milk_carton": {
+    "x": 7,
+    "y": 19
+  },
+  "sulfur_chunk": {
+    "x": 6,
+    "y": 3
+  },
+  "sweaty_sock": {
+    "x": 31,
+    "y": 24,
+    "r": 27,
+    "s": 1.24
+  },
+  "wet_dog_collar": {
+    "x": 5,
+    "y": 96
+  }
+}

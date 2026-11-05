@@ -1,0 +1,166 @@
+{
+  "arc_welder": {
+    "x": 9,
+    "y": 5
+  },
+  "battery": {
+    "x": 10,
+    "y": 38
+  },
+  "biofuel_stove": {
+    "x": 7,
+    "y": 9
+  },
+  "capacitor": {
+    "x": 9,
+    "y": 63,
+    "s": 0.63
+  },
+  "compressor": {
+    "x": 7,
+    "y": 8
+  },
+  "crystalline_flux": {
+    "x": 7,
+    "y": 18
+  },
+  "dynamo": {
+    "x": 27,
+    "y": -5
+  },
+  "electric_generator": {
+    "x": 11,
+    "y": 8
+  },
+  "energy_conduit": {
+    "x": 152,
+    "y": -9
+  },
+  "energy_crystal": {
+    "x": 8,
+    "y": 20
+  },
+  "energy_meter": {
+    "x": 6,
+    "y": 16
+  },
+  "energy_sphere": {
+    "x": 4,
+    "y": -36
+  },
+  "energy_torch": {
+    "x": 6,
+    "y": 11
+  },
+  "flux_regulator": {
+    "x": -2,
+    "y": 22
+  },
+  "flywheel": {
+    "x": 2,
+    "y": 32
+  },
+  "fuel_pellet": {
+    "x": 4,
+    "y": -25
+  },
+  "fuel_rod": {
+    "x": 11,
+    "y": 12
+  },
+  "fusion_reactor": {
+    "x": 6,
+    "y": 21
+  },
+  "gasoline_canister": {
+    "x": -11,
+    "y": 19
+  },
+  "geothermal_pump": {
+    "x": 2,
+    "y": 14
+  },
+  "glowstick": {
+    "x": 97,
+    "y": -32,
+    "r": -29
+  },
+  "heat_lamp": {
+    "x": 4,
+    "y": 5,
+    "r": -180,
+    "s": 0.82
+  },
+  "hydroelectric_generator": {
+    "x": 3,
+    "y": 12
+  },
+  "hydrogen_tank": {
+    "x": 3,
+    "y": 17
+  },
+  "kinetic_thread": {
+    "x": 47,
+    "y": 5
+  },
+  "light_prism": {
+    "x": 11,
+    "y": 25
+  },
+  "nuclear_core": {
+    "x": 11,
+    "y": 39
+  },
+  "oil_drum": {
+    "x": 15,
+    "y": 41
+  },
+  "plasma_coil": {
+    "x": 5,
+    "y": 16
+  },
+  "power_cell": {
+    "x": 6,
+    "y": 42
+  },
+  "power_transformer": {
+    "x": 9,
+    "y": 14
+  },
+  "radiant_coil": {
+    "x": 4,
+    "y": 25
+  },
+  "radiant_heater": {
+    "x": 7,
+    "y": 4
+  },
+  "solar_ember": {
+    "x": 8,
+    "y": 18
+  },
+  "solar_panel": {
+    "x": 9,
+    "y": -5
+  },
+  "steam_engine": {
+    "x": 8,
+    "y": 14
+  },
+  "thermal_bloom": {
+    "x": 5,
+    "y": 66
+  },
+  "thermal_filament": {
+    "x": 3,
+    "y": 19
+  },
+  "wind_sock": {
+    "x": 87,
+    "y": -15
+  },
+  "wind_turbine": {
+    "x": 5,
+    "y": 8
+  }
+}

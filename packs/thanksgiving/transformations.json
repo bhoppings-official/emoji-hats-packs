@@ -1,0 +1,156 @@
+{
+  "acorn": {
+    "x": 9,
+    "y": 46
+  },
+  "autumn_blanket": {
+    "x": 7,
+    "y": 34
+  },
+  "basket": {
+    "x": 10,
+    "y": 11
+  },
+  "blanket": {
+    "x": 13,
+    "y": 23
+  },
+  "blanket_2": {
+    "x": 22,
+    "y": 10
+  },
+  "bottle": {
+    "x": 10,
+    "y": 23
+  },
+  "bread": {
+    "x": -16,
+    "y": 36
+  },
+  "candle": {
+    "y": 8
+  },
+  "carving_knife": {
+    "x": 9,
+    "y": 23
+  },
+  "cinnamon_stick": {
+    "x": -136,
+    "y": 126
+  },
+  "cloth": {
+    "x": -2,
+    "y": 15
+  },
+  "corn_cob": {
+    "x": -1,
+    "y": 34
+  },
+  "cornucopia": {
+    "x": -3,
+    "y": 16
+  },
+  "cranberry_sauce_dish": {
+    "x": -1,
+    "y": 12
+  },
+  "feather": {
+    "x": -121,
+    "y": 112
+  },
+  "firestarter": {
+    "x": 38,
+    "y": -11
+  },
+  "gravy_boat": {
+    "x": 1,
+    "y": 18
+  },
+  "jar": {
+    "x": 11,
+    "y": 31
+  },
+  "leaf": {
+    "x": 1,
+    "y": 38
+  },
+  "mashed_potato_bowl": {
+    "y": 19
+  },
+  "napkin": {
+    "x": -773,
+    "y": 599
+  },
+  "pecan_pie": {
+    "x": 11,
+    "y": 20
+  },
+  "pie_server": {
+    "x": -42,
+    "y": 42
+  },
+  "pilgrim_hat": {
+    "x": 2,
+    "y": 20
+  },
+  "pot": {
+    "y": 14
+  },
+  "pumpkin": {
+    "x": 2,
+    "y": 9
+  },
+  "pumpkin_carving_tools": {
+    "x": -3,
+    "y": 62,
+    "s": 0.7
+  },
+  "pumpkin_pie": {
+    "x": -9,
+    "y": 26
+  },
+  "roasting_fork": {
+    "x": 36,
+    "y": 72,
+    "r": 36
+  },
+  "roasting_pan": {
+    "x": -1,
+    "y": 14
+  },
+  "scarf": {
+    "x": -3,
+    "y": 80
+  },
+  "spice": {
+    "x": 9,
+    "y": 21
+  },
+  "spoon": {
+    "x": 44,
+    "y": 20
+  },
+  "stuffing": {
+    "x": 7,
+    "y": 3
+  },
+  "table_centerpiece": {
+    "x": 8,
+    "y": 26
+  },
+  "turkey": {
+    "x": 3,
+    "y": 18
+  },
+  "turkey_baster": {
+    "y": 18
+  },
+  "twig": {
+    "x": 4,
+    "y": 28
+  },
+  "wishbone": {
+    "x": 2,
+    "y": 28
+  }
+}

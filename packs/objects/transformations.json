@@ -1,0 +1,149 @@
+{
+  "a_metallic_spool": {
+    "x": 1,
+    "y": 31
+  },
+  "basket": {
+    "x": 6,
+    "y": 17
+  },
+  "bicycle": {
+    "x": 2,
+    "y": 17
+  },
+  "binoculars": {
+    "x": 4,
+    "y": 20
+  },
+  "bookend": {
+    "x": 2,
+    "y": 16
+  },
+  "candlestick": {
+    "x": 20,
+    "y": 8
+  },
+  "chair": {
+    "x": 9,
+    "y": 53
+  },
+  "clock": {
+    "x": 4,
+    "y": 31
+  },
+  "compass": {
+    "x": -1,
+    "y": 18
+  },
+  "crystalline_shard": {
+    "x": -3,
+    "y": 143,
+    "s": 0.5
+  },
+  "doorhandle": {
+    "x": 7,
+    "y": 18
+  },
+  "doorknob": {
+    "x": -1,
+    "y": 17
+  },
+  "fire_extinguisher": {
+    "x": 13,
+    "y": 3
+  },
+  "goblet": {
+    "x": 4,
+    "y": 12
+  },
+  "hammer": {
+    "x": 76,
+    "y": 32,
+    "r": -45
+  },
+  "helmet": {
+    "x": -111,
+    "y": 37,
+    "r": -16,
+    "s": 1.31
+  },
+  "ladder": {
+    "x": 3,
+    "y": 17
+  },
+  "lantern": {
+    "x": 6,
+    "y": 34
+  },
+  "magnetic_orb": {
+    "x": 6,
+    "y": 9
+  },
+  "paperweight": {
+    "x": 5,
+    "y": 24
+  },
+  "scissors": {
+    "x": 21,
+    "y": 51
+  },
+  "sewing_machine": {
+    "x": 5,
+    "y": 9
+  },
+  "sofa": {
+    "y": 7
+  },
+  "spoon": {
+    "x": 53,
+    "y": 7
+  },
+  "stapler": {
+    "x": -66,
+    "y": 55
+  },
+  "suitcase": {
+    "y": 15
+  },
+  "table": {
+    "y": 34
+  },
+  "teapot": {
+    "y": 12
+  },
+  "telescope": {
+    "x": 5,
+    "y": 16
+  },
+  "toaster": {
+    "x": 10,
+    "y": 40
+  },
+  "typewriter": {
+    "y": 17
+  },
+  "umbrella": {
+    "x": -4,
+    "y": -41,
+    "r": 40
+  },
+  "vase": {
+    "x": 9,
+    "y": 39,
+    "s": 0.82
+  },
+  "watering_can": {
+    "x": 91,
+    "y": -9
+  },
+  "wheelbarrow": {
+    "x": 30,
+    "y": 7
+  },
+  "wrench": {
+    "x": -5,
+    "y": 78,
+    "r": 36,
+    "s": 0.47
+  }
+}

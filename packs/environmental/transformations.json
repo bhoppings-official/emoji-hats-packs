@@ -1,0 +1,161 @@
+{
+  "air_quality_monitor": {
+    "x": 1,
+    "y": 9
+  },
+  "bamboo": {
+    "x": 71,
+    "y": -3
+  },
+  "bat_house": {
+    "x": 42,
+    "y": -11
+  },
+  "beehive": {
+    "x": 14,
+    "y": -4
+  },
+  "bird_nest": {
+    "x": 8,
+    "y": 14
+  },
+  "birdhouse": {
+    "x": 103,
+    "y": -17
+  },
+  "compost_bin": {
+    "x": 10,
+    "y": 15
+  },
+  "compost_tumbler": {
+    "x": 16,
+    "y": 27
+  },
+  "coral_fragment": {
+    "x": 6,
+    "y": 1
+  },
+  "dam_structure": {
+    "x": 2,
+    "y": 10
+  },
+  "erosion_control_mat": {
+    "x": 1,
+    "y": 10
+  },
+  "fallen_branch": {
+    "x": 11,
+    "y": 16
+  },
+  "fossil": {
+    "x": 3,
+    "y": 17
+  },
+  "garden_hose": {
+    "x": -10,
+    "y": 14
+  },
+  "geothermal_vent": {
+    "x": 8,
+    "y": 23
+  },
+  "greenhouse": {
+    "x": 4,
+    "y": 11
+  },
+  "hedgerow": {
+    "x": -1,
+    "y": 5
+  },
+  "leaf_litter": {
+    "x": 10,
+    "y": 16
+  },
+  "log_pile": {
+    "x": 9,
+    "y": 20
+  },
+  "moss": {
+    "y": 7
+  },
+  "mudflats": {
+    "x": 7,
+    "y": 6
+  },
+  "nesting_box": {
+    "x": 5,
+    "y": -4
+  },
+  "pollutant": {
+    "x": -1,
+    "y": 17
+  },
+  "rain_barrel": {
+    "x": -2,
+    "y": 20
+  },
+  "rain_gauge": {
+    "x": 6,
+    "y": 35
+  },
+  "rainforest_canopy": {
+    "x": 2,
+    "y": 17
+  },
+  "recycling_bin": {
+    "x": 5,
+    "y": 8
+  },
+  "sapling": {
+    "x": 7,
+    "y": 20
+  },
+  "soil_microbe": {
+    "x": 7,
+    "y": 31
+  },
+  "solar_panel": {
+    "x": 13
+  },
+  "tree_root": {
+    "x": 9,
+    "y": 22
+  },
+  "tree_stump": {
+    "x": 8,
+    "y": 33
+  },
+  "water_filter": {
+    "x": 80,
+    "y": -9
+  },
+  "watering_can": {
+    "x": 76,
+    "y": -10
+  },
+  "watering_trough": {
+    "x": -43,
+    "y": 62
+  },
+  "weather_vane": {
+    "x": 10,
+    "y": -8
+  },
+  "wetland_boardwalk": {
+    "x": 3,
+    "y": 22
+  },
+  "wind_chime": {
+    "x": 2,
+    "y": 173,
+    "s": 0.61
+  },
+  "wind_sock": {
+    "x": 2,
+    "y": 12
+  },
+  "wind_turbine": {
+    "x": 4,
+    "y": 15
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "bamboo_flute": {
+    "x": -4,
+    "y": -33,
+    "r": -47
+  },
+  "ceramic_bowl": {
+    "x": 5,
+    "y": 15
+  },
+  "cherry_blossom_bloom": {
+    "x": 20,
+    "y": 17
+  },
+  "cherry_blossom_petal": {
+    "x": 5,
+    "y": 34
+  },
+  "cherry_blossom_vase": {
+    "x": 6,
+    "y": 7
+  },
+  "folding_fan": {
+    "x": -5,
+    "y": 49
+  },
+  "japanese_maple_leaf": {
+    "x": 4,
+    "y": 17
+  },
+  "kimono_fabric": {
+    "x": 1,
+    "y": 14
+  },
+  "shuriken": {
+    "x": 2,
+    "y": 15
+  },
+  "silk_kimono_sleeve": {
+    "x": 83,
+    "y": -16
+  },
+  "tea_set": {
+    "y": 13
+  },
+  "torii_gate": {
+    "y": 6
+  },
+  "wooden_tray": {
+    "x": 4,
+    "y": 40
+  }
+}

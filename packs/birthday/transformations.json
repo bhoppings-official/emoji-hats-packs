@@ -1,0 +1,184 @@
+{
+  "balloon": {
+    "x": 2,
+    "y": 33,
+    "s": 0.64
+  },
+  "balloon_pump": {
+    "x": 24,
+    "y": 47,
+    "r": 27
+  },
+  "bell": {
+    "x": 6,
+    "y": 21
+  },
+  "birthday": {
+    "x": 3,
+    "y": 13
+  },
+  "birthday_balloon_weight": {
+    "x": 3,
+    "y": 20
+  },
+  "birthday_banner": {
+    "x": 3,
+    "y": 63
+  },
+  "birthday_candle_holder": {
+    "x": 2,
+    "y": 38
+  },
+  "birthday_card": {
+    "x": -2,
+    "y": 36
+  },
+  "birthday_centerpiece": {
+    "x": 6,
+    "y": 14
+  },
+  "birthday_chair": {
+    "x": -1,
+    "y": 8
+  },
+  "birthday_crown": {
+    "x": 2,
+    "y": 17
+  },
+  "birthday_cupcake_stand": {
+    "x": 3,
+    "y": 26
+  },
+  "birthday_figurine": {
+    "x": 2,
+    "y": 11
+  },
+  "birthday_garland": {
+    "x": 4,
+    "y": 23
+  },
+  "birthday_mug": {
+    "x": 34,
+    "y": 31
+  },
+  "birthday_pillow": {
+    "x": 250
+  },
+  "birthday_plate": {
+    "x": 9,
+    "y": 23
+  },
+  "birthday_sign": {
+    "x": 7,
+    "y": 9
+  },
+  "birthday_tablecloth": {
+    "x": 6,
+    "y": 4
+  },
+  "birthday_tiara": {
+    "x": 10,
+    "y": 5
+  },
+  "book": {
+    "x": 7,
+    "y": 41,
+    "s": 0.75
+  },
+  "bookmark_2": {
+    "x": 6,
+    "y": 212
+  },
+  "bunting": {
+    "x": 78,
+    "y": -28,
+    "s": 1.49
+  },
+  "cake": {
+    "x": 15,
+    "y": 33
+  },
+  "cake_topper": {
+    "x": 10,
+    "y": 36
+  },
+  "candle": {
+    "x": 11,
+    "y": 20
+  },
+  "confetti": {
+    "x": 3,
+    "y": 126
+  },
+  "cup": {
+    "x": 24,
+    "y": 3
+  },
+  "cupcake": {
+    "x": 7,
+    "y": 63,
+    "s": 0.66
+  },
+  "flower": {
+    "x": 4,
+    "y": 44
+  },
+  "gift": {
+    "x": 4,
+    "y": 56
+  },
+  "hat": {
+    "x": 3,
+    "y": 31
+  },
+  "music_box": {
+    "x": 6,
+    "y": 31
+  },
+  "necklace": {
+    "x": 6,
+    "y": 104
+  },
+  "party_blower": {
+    "x": 17,
+    "y": 50,
+    "r": 27
+  },
+  "party_favor_bag": {
+    "x": 4,
+    "y": 26
+  },
+  "party_horn": {
+    "x": -7,
+    "y": 3,
+    "r": -49,
+    "s": 0.94
+  },
+  "party_popper": {
+    "x": 1,
+    "y": -5,
+    "r": -47
+  },
+  "photo_frame": {
+    "y": 27
+  },
+  "pinata": {
+    "y": 26
+  },
+  "present_box": {
+    "x": -3,
+    "y": 22
+  },
+  "ribbon": {
+    "x": 9,
+    "y": 65
+  },
+  "streamer": {
+    "x": 2,
+    "y": 20
+  },
+  "toy": {
+    "x": 6,
+    "y": 16
+  }
+}

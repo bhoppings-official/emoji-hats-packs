@@ -1,0 +1,160 @@
+{
+  "apartment_complex": {
+    "x": 2,
+    "y": 14
+  },
+  "archery_range": {
+    "x": 7,
+    "y": 8
+  },
+  "barn": {
+    "x": 4,
+    "y": 4
+  },
+  "bridge": {
+    "x": 6,
+    "y": 16
+  },
+  "building": {
+    "x": 7,
+    "y": 14
+  },
+  "bungalow": {
+    "x": 5,
+    "y": 10
+  },
+  "casino": {
+    "x": 1,
+    "y": 20
+  },
+  "cathedral": {
+    "y": 17
+  },
+  "church": {
+    "x": 2,
+    "y": 17
+  },
+  "clock_face": {
+    "x": 5,
+    "y": 49
+  },
+  "clock_tower": {
+    "x": 8,
+    "y": 10
+  },
+  "cottage": {
+    "x": 1,
+    "y": 19
+  },
+  "elevated_garden": {
+    "x": 3
+  },
+  "elevated_plaza": {
+    "x": 3,
+    "y": 16
+  },
+  "elevated_walkway": {
+    "x": 10,
+    "y": 23
+  },
+  "factory": {
+    "x": 5,
+    "y": 11
+  },
+  "fire_station": {
+    "x": 10,
+    "y": 10
+  },
+  "fort": {
+    "x": 4,
+    "y": 15
+  },
+  "garage": {
+    "x": 6,
+    "y": 10
+  },
+  "gazebo": {
+    "x": 8,
+    "y": 20
+  },
+  "greenhouse": {
+    "x": 7,
+    "y": 11
+  },
+  "hangar": {
+    "x": 5,
+    "y": 12
+  },
+  "hospital": {
+    "x": 6,
+    "y": 12
+  },
+  "library": {
+    "x": 7,
+    "y": 13
+  },
+  "lighthouse": {
+    "x": 52,
+    "y": -4
+  },
+  "monastery": {
+    "x": 5,
+    "y": 6
+  },
+  "motel": {
+    "x": 2,
+    "y": 18
+  },
+  "observatory": {
+    "x": 12,
+    "y": 14
+  },
+  "office_complex": {
+    "x": 5,
+    "y": 19
+  },
+  "pagoda": {
+    "x": 1,
+    "y": 13
+  },
+  "restaurant": {
+    "x": 5,
+    "y": 10
+  },
+  "school": {
+    "x": 14,
+    "y": 15
+  },
+  "skyscraper": {
+    "x": 7,
+    "y": 8
+  },
+  "stadium": {
+    "x": 15,
+    "y": 60
+  },
+  "synagogue": {
+    "x": 9,
+    "y": 20
+  },
+  "tower": {
+    "x": 5,
+    "y": 26
+  },
+  "townhouse": {
+    "x": 7,
+    "y": 16
+  },
+  "villa": {
+    "x": 8,
+    "y": 10
+  },
+  "warehouse": {
+    "x": 4,
+    "y": 16
+  },
+  "wind_chime": {
+    "x": 5,
+    "y": 191
+  }
+}
