@@ -22,7 +22,8 @@ formatted as follows:
         "r": -3,
         "s": 1
     }
-}```
+}
+```
 where x is horizontal translation in px, y is vertical translation in px from the top (positive values move it down), "r" is rotation in degrees, and "s" is a scale value (default 1)
 each property is optional and should default to 0 for rotation and translation, and 1 for scale if not present
 only emojis that need transformations will be specified in transformations.json, use defaults if emoji not present
