@@ -1,0 +1,23 @@
+{
+    "ballista": "a wooden ballista siege engine with a loaded bolt and a drawn bow",
+    "battleaxe": "a battle axe with a broad steel head on a long wooden handle",
+    "bayonet": "a rifle with a long bayonet blade fixed to its muzzle",
+    "catapult": "a wooden catapult on spoked wheels, its arm pulled back with a stone loaded",
+    "chariot": "a wooden chariot with a cloth canopy and spoked wheels",
+    "combat_boots": "a pair of tall black leather combat boots, laced up",
+    "crossbow": "a wooden crossbow with its string drawn back and a bolt ready",
+    "grenade": "a green fragmentation grenade with a metal pin and lever",
+    "helmet": "a camouflage combat helmet with a chin strap",
+    "howitzer": "a green field howitzer with a long barrel and two large wheels",
+    "landmine": "a green anti-tank landmine, a round disc with a fuse prong on top",
+    "machine_gun": "an assault rifle with a curved magazine and a wooden stock",
+    "mortar": "a green mortar tube mounted on a round base plate",
+    "rifle": "a long slim rifle with a wooden stock and a thin barrel",
+    "shield": "a round wooden shield with a metal boss at its centre",
+    "speartip": "a leaf-shaped steel spearhead on a hollow socket",
+    "sword": "a sword with a golden hilt and a blade wreathed in flames",
+    "tank": "a green camouflage tank with a long gun barrel and treads",
+    "torpedo": "a grey torpedo with a red nose and tail fins",
+    "trenchknife": "a short trench knife with brass knuckles forming its grip",
+    "warship": "a grey naval destroyer sailing on blue water"
+}
