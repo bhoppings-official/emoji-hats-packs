@@ -1,0 +1,7 @@
+{
+    "title": "Food",
+    "description": "Pies, bagels, roasts and jams, all the good stuff from the kitchen counter.",
+    "llm_description": "a cooking and food pack of baked goods, fruits, vegetables, spices, condiments, preserves and cooked dishes; homey, appetizing, rustic and gourmet",
+    "icon": "icon.png",
+    "tags": ["cooking", "kitchen", "tasty"]
+}
