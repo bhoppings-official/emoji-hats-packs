@@ -1,0 +1,30 @@
+# Keeps guys/pack_list.json and guys/*/guys.json up to date by itself.
+# You only ever drop pictures into guys/<your_pack>/ - this does the boring part.
+name: Update guy pack lists
+on:
+  push:
+    branches: [main]
+    paths: ['guys/**']
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  manifests:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+      - run: node scripts/build-guys-manifests.mjs
+      - name: Commit changes
+        run: |
+          if [ -n "$(git status --porcelain)" ]; then
+            git config user.name "guy-pack-bot"
+            git config user.email "guy-pack-bot@users.noreply.github.com"
+            git add -A
+            git commit -m "Update guy pack lists"
+            git push
+          else
+            echo "Nothing to update"
+          fi
