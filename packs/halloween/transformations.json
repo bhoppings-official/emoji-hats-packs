@@ -1,0 +1,61 @@
+{
+  "bats": {
+    "x": 11,
+    "y": 22
+  },
+  "black_cat_plush": {
+    "x": 4,
+    "y": 24
+  },
+  "bones": {
+    "x": -2,
+    "y": 30
+  },
+  "candy_corn": {
+    "y": 5
+  },
+  "cauldron": {
+    "x": 3
+  },
+  "coffin": {
+    "x": -101,
+    "y": 73
+  },
+  "scarves": {
+    "x": 2,
+    "y": 33
+  },
+  "skull_candle": {
+    "y": 14
+  },
+  "spider_traps": {
+    "x": 5,
+    "y": 8
+  },
+  "spider_webs": {
+    "x": -31,
+    "y": 54
+  },
+  "spiders": {
+    "x": -2,
+    "y": 51
+  },
+  "tombstone": {
+    "x": 1,
+    "y": 14
+  },
+  "trickortreat_bags": {
+    "x": -1,
+    "y": 13
+  },
+  "witch_broom": {
+    "x": 133,
+    "y": 29,
+    "r": -14,
+    "s": 0.82
+  },
+  "witch_hats": {
+    "x": -3,
+    "y": 25
+  }
+}

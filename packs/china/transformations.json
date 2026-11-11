@@ -1,0 +1,162 @@
+{
+  "ancient_pottery": {
+    "x": 11,
+    "y": 9
+  },
+  "bamboo_steamer": {
+    "x": 7,
+    "y": 43
+  },
+  "book": {
+    "x": 7,
+    "y": 40
+  },
+  "bronze_tripod": {
+    "x": 8,
+    "y": 10
+  },
+  "calligraphy_brush": {
+    "x": 60
+  },
+  "ceramic_incense_holder": {
+    "x": 10,
+    "y": 18
+  },
+  "ceramic_teapot": {
+    "x": 6,
+    "y": 7
+  },
+  "chopsticks": {
+    "x": 44,
+    "y": 13
+  },
+  "clay_bowl": {
+    "x": 10,
+    "y": 8
+  },
+  "clay_vase": {
+    "x": 18,
+    "y": 7
+  },
+  "clock": {
+    "x": 8,
+    "y": 7
+  },
+  "compass": {
+    "x": 7,
+    "y": 8
+  },
+  "dragon_lantern": {
+    "x": 27,
+    "y": 46
+  },
+  "dragon_trap": {
+    "x": 11,
+    "y": 24
+  },
+  "gong": {
+    "x": 9,
+    "y": 14
+  },
+  "incense_burner": {
+    "x": 4,
+    "y": 3
+  },
+  "jade_bracelet": {
+    "x": 7,
+    "y": 43
+  },
+  "jade_pendant": {
+    "x": 3,
+    "y": 49
+  },
+  "jade_seal": {
+    "x": 11,
+    "y": 45
+  },
+  "lantern_base": {
+    "x": 7,
+    "y": -8
+  },
+  "lion_statue": {
+    "x": 4,
+    "y": 15
+  },
+  "mountain_peak": {
+    "x": 5,
+    "y": 6
+  },
+  "pagoda": {
+    "x": 8
+  },
+  "paper_fan": {
+    "x": 6,
+    "y": 36
+  },
+  "porcelain_plate": {
+    "x": 6,
+    "y": 62
+  },
+  "porcelain_vase": {
+    "x": 8,
+    "y": 7
+  },
+  "rice_paper": {
+    "x": 6,
+    "y": 45
+  },
+  "rice_sack": {
+    "x": 1,
+    "y": 26
+  },
+  "rickshaw": {
+    "x": 9,
+    "y": 23
+  },
+  "silk_banner": {
+    "x": 3,
+    "y": 52
+  },
+  "silk_robe": {
+    "x": 3,
+    "y": 28
+  },
+  "silk_scroll": {
+    "x": 5,
+    "y": 34
+  },
+  "silk_thread": {
+    "x": 14,
+    "y": 23
+  },
+  "stone_ingot": {
+    "x": -114,
+    "y": 98
+  },
+  "sword": {
+    "x": -1,
+    "y": 21,
+    "r": 134
+  },
+  "table": {
+    "x": 4,
+    "y": 39
+  },
+  "tea_kettle": {
+    "x": -7,
+    "y": 11
+  },
+  "terracotta_warrior": {
+    "x": 2,
+    "y": 16
+  },
+  "water_jar": {
+    "x": 2,
+    "y": 47
+  },
+  "wooden_flute": {
+    "x": 1,
+    "y": -37,
+    "r": -47
+  }
+}

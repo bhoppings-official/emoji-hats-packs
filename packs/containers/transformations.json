@@ -1,0 +1,161 @@
+{
+  "aluminum_can": {
+    "x": 2,
+    "y": 31
+  },
+  "brass_urn": {
+    "x": 7,
+    "y": 9
+  },
+  "bronze_amphora": {
+    "x": 9,
+    "y": 10
+  },
+  "canvas_duffel": {
+    "x": 2,
+    "y": 21
+  },
+  "cardboard_box": {
+    "x": 9,
+    "y": 57
+  },
+  "ceramic_jug": {
+    "x": 19,
+    "y": 20
+  },
+  "ceramic_pot": {
+    "x": 13,
+    "y": 19
+  },
+  "clay_vessel": {
+    "x": 7,
+    "y": 25
+  },
+  "copper_kettle": {
+    "x": -8,
+    "y": 16
+  },
+  "fabric_tote": {
+    "x": 8,
+    "y": 28
+  },
+  "glass_jar": {
+    "x": 7,
+    "y": 47
+  },
+  "glass_tube": {
+    "x": 1,
+    "y": 54
+  },
+  "glass_vial": {
+    "y": 38
+  },
+  "iron_lockbox": {
+    "x": -3,
+    "y": 35
+  },
+  "lacquered_casket": {
+    "x": -89,
+    "y": 70
+  },
+  "leather_case": {
+    "x": 1,
+    "y": 15
+  },
+  "metal_canister": {
+    "x": 5,
+    "y": 24
+  },
+  "metal_flask": {
+    "x": 9,
+    "y": 5
+  },
+  "metal_toolbox": {
+    "x": 4,
+    "y": 8
+  },
+  "oak_barrel": {
+    "x": 7,
+    "y": 24
+  },
+  "paper_envelope": {
+    "x": 11,
+    "y": 4
+  },
+  "plastic_barrel": {
+    "x": 2,
+    "y": 19
+  },
+  "plastic_bucket": {
+    "x": 3,
+    "y": 18
+  },
+  "plastic_container": {
+    "x": 8,
+    "y": 12
+  },
+  "plastic_tub": {
+    "x": 6,
+    "y": 21
+  },
+  "porcelain_canister": {
+    "x": 6,
+    "y": 31
+  },
+  "rubber_bin": {
+    "x": 4,
+    "y": 16
+  },
+  "silicone_pouch": {
+    "x": 11,
+    "y": 8
+  },
+  "steel_canteen": {
+    "x": 5,
+    "y": 11
+  },
+  "steel_drum": {
+    "x": 38,
+    "y": 14
+  },
+  "stone_chest": {
+    "x": 6,
+    "y": 7
+  },
+  "stone_pouch": {
+    "x": 3,
+    "y": 17
+  },
+  "straw_container": {
+    "x": 10,
+    "y": 19
+  },
+  "tin_shell": {
+    "x": 7,
+    "y": 16
+  },
+  "wicker_basket": {
+    "x": 9,
+    "y": 21
+  },
+  "wooden_box": {
+    "x": 2,
+    "y": 20
+  },
+  "wooden_crate": {
+    "x": 11,
+    "y": 10
+  },
+  "woven_bag": {
+    "x": 2,
+    "y": 14
+  },
+  "woven_pouch": {
+    "x": 4,
+    "y": 12
+  },
+  "woven_sack": {
+    "x": 4,
+    "y": 15
+  }
+}

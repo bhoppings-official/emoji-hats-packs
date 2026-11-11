@@ -1,0 +1,161 @@
+{
+  "a_bicycle_frame": {
+    "x": 3,
+    "y": 17
+  },
+  "a_bicycle_wheel": {
+    "x": 13,
+    "y": 26
+  },
+  "a_ceramic_teapot": {
+    "x": 8,
+    "y": 11
+  },
+  "a_clay_pot": {
+    "x": 16,
+    "y": 18
+  },
+  "a_fleurdelis": {
+    "x": 9,
+    "y": 24
+  },
+  "a_handcarved_spoon": {
+    "x": 47,
+    "y": 19
+  },
+  "a_lavender_jar": {
+    "x": 12,
+    "y": 33
+  },
+  "a_leather_satchel": {
+    "x": 9,
+    "y": 19
+  },
+  "a_metal_rod": {
+    "x": 36,
+    "y": -40,
+    "r": -40
+  },
+  "a_porcelain_vase": {
+    "x": 10,
+    "y": 3
+  },
+  "a_rope_basket": {
+    "x": 10,
+    "y": 14
+  },
+  "a_silk_scarf": {
+    "x": -1,
+    "y": 57
+  },
+  "a_stone_bowl": {
+    "x": 11,
+    "y": 12
+  },
+  "a_stone_mortar": {
+    "x": 10,
+    "y": 22
+  },
+  "a_vintage_baguette": {
+    "x": 40,
+    "y": 68,
+    "r": 60
+  },
+  "a_vintage_pocket_watch": {
+    "x": 6,
+    "y": 15
+  },
+  "a_woven_basket": {
+    "x": 4,
+    "y": 17
+  },
+  "a_wrought_iron_bench": {
+    "x": 9,
+    "y": 23
+  },
+  "a_wrought_iron_fence": {
+    "x": 1,
+    "y": 9
+  },
+  "a_wrought_iron_gate": {
+    "x": 8,
+    "y": 12
+  },
+  "baguette_basket": {
+    "x": 4,
+    "y": 12
+  },
+  "beret": {
+    "x": 9,
+    "y": 11
+  },
+  "boule_de_petanque": {
+    "x": -4,
+    "y": 22
+  },
+  "brie_wheel": {
+    "x": 1,
+    "y": 39
+  },
+  "butter_churn": {
+    "x": 14,
+    "y": 25
+  },
+  "cafe_table": {
+    "x": 10,
+    "y": -10
+  },
+  "candle_snuffer": {
+    "x": 86,
+    "y": -11
+  },
+  "cast_iron_skillet": {
+    "x": 32,
+    "y": 15
+  },
+  "copper_saucepan": {
+    "x": 41,
+    "y": 3
+  },
+  "crepe_pan": {
+    "x": 33,
+    "y": 37
+  },
+  "croissant": {
+    "x": 6,
+    "y": 15
+  },
+  "eiffel_tower_figurine": {
+    "x": 7,
+    "y": 9
+  },
+  "french_press": {
+    "x": 25,
+    "y": 5
+  },
+  "gargoyle": {
+    "x": 9,
+    "y": -1
+  },
+  "guillotine": {
+    "x": 2,
+    "y": 55,
+    "s": 0.66
+  },
+  "macaron": {
+    "x": 5,
+    "y": 55
+  },
+  "perfume_bottle": {
+    "x": 4,
+    "y": 24
+  },
+  "truffle_slicer": {
+    "x": 4,
+    "y": 16
+  },
+  "wine_bottle": {
+    "x": 2,
+    "y": 23
+  }
+}

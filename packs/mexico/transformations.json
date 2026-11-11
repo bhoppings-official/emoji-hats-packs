@@ -1,0 +1,77 @@
+{
+  "churro": {
+    "x": 3,
+    "y": 20
+  },
+  "clay_bowl": {
+    "x": -2,
+    "y": 24
+  },
+  "clay_flute": {
+    "x": 62,
+    "y": -34,
+    "r": -38
+  },
+  "clay_jug": {
+    "x": 2,
+    "y": 7
+  },
+  "clay_pot": {
+    "x": 2,
+    "y": 3
+  },
+  "marijuana_leaf": {
+    "x": 4,
+    "y": -11
+  },
+  "metal_drum": {
+    "x": 3,
+    "y": 19
+  },
+  "molkito_jar": {
+    "x": 10,
+    "y": 19
+  },
+  "rope_bracelet": {
+    "x": 10,
+    "y": 75
+  },
+  "serpiente_figurine": {
+    "x": 4,
+    "y": 67
+  },
+  "sombrero": {
+    "x": 10,
+    "y": -12,
+    "s": 3
+  },
+  "stone_axe": {
+    "x": 165,
+    "y": 63,
+    "r": -60
+  },
+  "stone_flute": {
+    "x": 16,
+    "y": -40,
+    "r": -43
+  },
+  "stone_whistle": {
+    "x": -134,
+    "y": 120
+  },
+  "wooden_flute": {
+    "x": -124,
+    "y": 130
+  },
+  "woven_basket": {
+    "y": 20
+  },
+  "woven_cloth": {
+    "x": -2,
+    "y": 14
+  },
+  "woven_strap": {
+    "y": -24,
+    "r": 134
+  }
+}

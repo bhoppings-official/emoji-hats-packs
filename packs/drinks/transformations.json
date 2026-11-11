@@ -1,0 +1,86 @@
+{
+  "bamboo_cup": {
+    "x": 6,
+    "y": 25
+  },
+  "beer_stein": {
+    "x": 25,
+    "y": 8
+  },
+  "ceramic_coffee_mug": {
+    "x": 24,
+    "y": 4
+  },
+  "ceramic_espresso_cup": {
+    "x": 27,
+    "y": 1
+  },
+  "ceramic_mug": {
+    "x": 27,
+    "y": 5
+  },
+  "ceramic_sake_bottle": {
+    "x": 6,
+    "y": 28
+  },
+  "ceramic_teacup": {
+    "x": 20,
+    "y": 2
+  },
+  "champagne_bottle": {
+    "x": 173,
+    "y": 41
+  },
+  "cocktail_shaker": {
+    "x": 1,
+    "y": 26
+  },
+  "cooler_pouch": {
+    "x": 5,
+    "y": 31
+  },
+  "crystal_tumbler": {
+    "x": 1,
+    "y": 23
+  },
+  "glass_bottle": {
+    "x": 3,
+    "y": 34
+  },
+  "glass_decanter": {
+    "x": 6,
+    "y": 26
+  },
+  "goblet": {
+    "x": 5,
+    "y": 18
+  },
+  "growler": {
+    "x": 8,
+    "y": 20
+  },
+  "iced_latte": {
+    "x": 23,
+    "y": 12
+  },
+  "juice_box": {
+    "x": -53,
+    "y": 58
+  },
+  "keg": {
+    "x": 3,
+    "y": 36
+  },
+  "martini_glass": {
+    "x": 9,
+    "y": 3
+  },
+  "mason_jar": {
+    "x": 32,
+    "y": 5
+  },
+  "metal_tumbler": {
+    "x": 15,
+    "y": 4
+  }
+}

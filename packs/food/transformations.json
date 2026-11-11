@@ -1,0 +1,151 @@
+{
+  "apple_pie": {
+    "x": 13,
+    "y": 53
+  },
+  "bagel": {
+    "x": 7,
+    "y": 36
+  },
+  "banana": {
+    "x": -3,
+    "y": 35
+  },
+  "blueberry_tart": {
+    "x": 17,
+    "y": 38
+  },
+  "burrito": {
+    "x": -25,
+    "y": -12,
+    "r": -51
+  },
+  "buttery_corn_pudding": {
+    "x": 8,
+    "y": 51
+  },
+  "charred_garlic_cloves": {
+    "x": 16,
+    "y": 39
+  },
+  "charred_jalapeno_slices": {
+    "x": 6,
+    "y": 20
+  },
+  "cheddar_cheese_block": {
+    "x": 14,
+    "y": 43
+  },
+  "cherry_tomato": {
+    "x": 7,
+    "y": 31
+  },
+  "chocolate_brownie": {
+    "x": 8,
+    "y": 60
+  },
+  "chocolate_croissant": {
+    "x": 5,
+    "y": 17
+  },
+  "coconut_milk_dessert": {
+    "x": 8,
+    "y": 11
+  },
+  "creamy_avocado_mousse": {
+    "x": 2,
+    "y": 21
+  },
+  "crisp_apple_ribbons": {
+    "x": 3,
+    "y": 34
+  },
+  "crushed_mint_leaves": {
+    "x": 4,
+    "y": 26
+  },
+  "crusty_tortilla": {
+    "x": 2,
+    "y": 23
+  },
+  "fermented_mango_chunks": {
+    "x": 7,
+    "y": 29
+  },
+  "fermented_peach_compote": {
+    "x": 19,
+    "y": 28
+  },
+  "freshly_ground_cumin_powder": {
+    "x": 9,
+    "y": 26
+  },
+  "freshly_sliced_cucumber": {
+    "x": 17,
+    "y": 39
+  },
+  "gingerbread_cookie": {
+    "x": 10,
+    "y": 4
+  },
+  "grilled_salmon": {
+    "x": 1,
+    "y": 11
+  },
+  "grilled_zucchini": {
+    "x": 1,
+    "y": 14
+  },
+  "molten_chocolate_truffle": {
+    "x": 12,
+    "y": 34
+  },
+  "pickled_fennel_spears": {
+    "x": 5,
+    "y": 18
+  },
+  "pineapple": {
+    "x": 6,
+    "y": 12
+  },
+  "pretzel": {
+    "x": 7,
+    "y": 18
+  },
+  "roast_turkey": {
+    "x": 4,
+    "y": 28
+  },
+  "roasted_chickpeas": {
+    "x": 7,
+    "y": 23
+  },
+  "savory_herbinfused_oil": {
+    "x": 5,
+    "y": 14
+  },
+  "sourdough_bread": {
+    "x": 3,
+    "y": 19
+  },
+  "spiced_carrot_ribbons": {
+    "x": 4,
+    "y": 30
+  },
+  "spicy_mango_salsa": {
+    "x": 5,
+    "y": 21
+  },
+  "steamed_artichoke_hearts": {
+    "x": 30,
+    "y": 35
+  },
+  "strawberry_crumble": {
+    "x": 8,
+    "y": 15
+  },
+  "sweet_fig_jam": {
+    "x": 26,
+    "y": 27
+  }
+}

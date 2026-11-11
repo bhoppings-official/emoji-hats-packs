@@ -1,0 +1,159 @@
+{
+  "ancient_tool": {
+    "x": 24,
+    "y": 58,
+    "r": 73
+  },
+  "bronze_anklet": {
+    "x": 4,
+    "y": 76
+  },
+  "bronze_dagger": {
+    "x": -36,
+    "y": 91,
+    "r": 25
+  },
+  "bronze_scepter": {
+    "x": -1,
+    "y": 163,
+    "s": 0.56
+  },
+  "canopic_jar": {
+    "x": 7,
+    "y": 18
+  },
+  "carved_palm_frond": {
+    "x": 59,
+    "y": -20,
+    "r": -29,
+    "s": 0.82
+  },
+  "carved_wooden_flute": {
+    "x": -7,
+    "y": -37,
+    "r": -49
+  },
+  "ceremonial_crook": {
+    "x": 7,
+    "y": 72,
+    "r": -121
+  },
+  "copper_chisel": {
+    "x": 44,
+    "y": 3
+  },
+  "cracked_pottery_rim": {
+    "x": 1,
+    "y": 24
+  },
+  "desert_beetle_2": {
+    "x": 2,
+    "y": 24
+  },
+  "desert_gourd": {
+    "x": 5,
+    "y": 35
+  },
+  "desert_lantern": {
+    "x": 3,
+    "y": 34
+  },
+  "dry_palm_frond_2": {
+    "x": -112,
+    "y": -20,
+    "r": -77
+  },
+  "egyptian_scarab_beetle": {
+    "x": 5,
+    "y": 27
+  },
+  "golden_pharaoh_mask": {
+    "x": 6,
+    "y": 23
+  },
+  "golden_sarcophagus": {
+    "y": 15
+  },
+  "hieroglyphic_stone_slab": {
+    "y": 22
+  },
+  "hollow_gourd_2": {
+    "x": 5,
+    "y": 41
+  },
+  "lotus_column": {
+    "x": 8,
+    "y": 11
+  },
+  "mosscovered_rock": {
+    "x": 3,
+    "y": 28
+  },
+  "mossy_stone_pillar": {
+    "x": 1,
+    "y": 23
+  },
+  "obsidian_amulet": {
+    "x": 5,
+    "y": 12
+  },
+  "papyrus_scroll": {
+    "x": 2,
+    "y": 17
+  },
+  "sandstone_obelisk": {
+    "y": 24
+  },
+  "scarab_pendant": {
+    "x": 6,
+    "y": 22
+  },
+  "shabti_figurine": {
+    "x": 5,
+    "y": 10
+  },
+  "stone_incense_burner": {
+    "y": 8
+  },
+  "sunbaked_clay_flute": {
+    "x": 9,
+    "y": -36,
+    "r": -45
+  },
+  "sunbaked_clay_shard": {
+    "x": 2,
+    "y": 19
+  },
+  "sunbleached_stone_shard": {
+    "x": -5,
+    "y": 14
+  },
+  "suncracked_clay_vessel_2": {
+    "x": 7,
+    "y": 6
+  },
+  "sunken_papyrus_scroll": {
+    "x": 7,
+    "y": 41
+  },
+  "sunlit_sandstone_shard": {
+    "x": 7,
+    "y": 14
+  },
+  "sunwarmed_stone_block": {
+    "x": 9,
+    "y": 41
+  },
+  "twisted_vine_root": {
+    "x": -1,
+    "y": 11
+  },
+  "twisted_vine_root_2": {
+    "x": 7,
+    "y": 13
+  },
+  "woven_basket": {
+    "x": 4,
+    "y": 27
+  }
+}

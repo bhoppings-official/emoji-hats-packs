@@ -1,0 +1,161 @@
+{
+  "bell": {
+    "x": 4,
+    "y": 33
+  },
+  "boot": {
+    "x": -15,
+    "y": 1,
+    "r": 3
+  },
+  "bottle": {
+    "x": 28,
+    "y": 7
+  },
+  "candle": {
+    "x": 5,
+    "y": 17
+  },
+  "candy_cane": {
+    "x": -33,
+    "y": 186,
+    "r": -62
+  },
+  "christmas_lights": {
+    "x": 2,
+    "y": -31
+  },
+  "christmas_tree": {
+    "x": 6,
+    "y": 2
+  },
+  "christmas_village": {
+    "x": -1,
+    "y": -8
+  },
+  "clock": {
+    "x": 13,
+    "y": 2
+  },
+  "cookie": {
+    "y": 5
+  },
+  "feather": {
+    "x": -1,
+    "y": -41,
+    "r": -45
+  },
+  "fireplace": {
+    "x": 1,
+    "y": 14
+  },
+  "frost_trail": {
+    "x": 5,
+    "y": 10
+  },
+  "frost_trail_2": {
+    "x": 6,
+    "y": 14
+  },
+  "garland": {
+    "x": 7,
+    "y": 74
+  },
+  "gingerbread_house": {
+    "x": 4,
+    "y": 13
+  },
+  "hat": {
+    "x": 24,
+    "y": -3
+  },
+  "holly": {
+    "x": 150,
+    "y": -3,
+    "r": -1
+  },
+  "lantern": {
+    "x": 7,
+    "y": 15
+  },
+  "mittens": {
+    "x": 3,
+    "y": 11
+  },
+  "nutcracker": {
+    "x": 5,
+    "y": 13
+  },
+  "ornament": {
+    "x": 9,
+    "y": 20
+  },
+  "pinecone": {
+    "x": 6,
+    "y": 47
+  },
+  "present": {
+    "x": 4,
+    "y": 15
+  },
+  "reindeer": {
+    "x": 5,
+    "y": 32
+  },
+  "rope": {
+    "x": 6,
+    "y": 18
+  },
+  "santa_figurine": {
+    "x": 17,
+    "y": 9
+  },
+  "scarf": {
+    "x": 14,
+    "y": 198
+  },
+  "sled": {
+    "x": -2,
+    "y": 5
+  },
+  "snow_globe": {
+    "x": 10,
+    "y": 16
+  },
+  "snowdrift": {
+    "x": 7,
+    "y": 29
+  },
+  "snowflake": {
+    "x": 6,
+    "y": 93
+  },
+  "snowman": {
+    "x": 8,
+    "y": 3
+  },
+  "stocking": {
+    "x": -4,
+    "y": 10
+  },
+  "toy_soldier": {
+    "x": 31,
+    "y": 7
+  },
+  "tree_topper": {
+    "x": 8,
+    "y": 1
+  },
+  "wooden_sleigh": {
+    "x": 2,
+    "y": 12
+  },
+  "wrapping_paper": {
+    "x": 2,
+    "y": 7
+  },
+  "wreath": {
+    "x": 2,
+    "y": 41
+  }
+}

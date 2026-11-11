@@ -1,0 +1,159 @@
+{
+  "arcade_cabinet": {
+    "x": 3,
+    "y": 7
+  },
+  "console": {
+    "x": -1,
+    "y": 48
+  },
+  "controller": {
+    "x": 4,
+    "y": 27
+  },
+  "game_cartridge": {
+    "x": 1,
+    "y": 10
+  },
+  "game_disc": {
+    "x": 3,
+    "y": 68
+  },
+  "gaming_capture_card": {
+    "x": -5,
+    "y": 73
+  },
+  "gaming_chair": {
+    "x": 9,
+    "y": 33
+  },
+  "gaming_console_stand": {
+    "x": 5,
+    "y": 18
+  },
+  "gaming_controller_charging_dock": {
+    "x": 7,
+    "y": 11
+  },
+  "gaming_desk": {
+    "y": 12
+  },
+  "gaming_desk_mat": {
+    "x": -3,
+    "y": 11
+  },
+  "gaming_dice": {
+    "y": 48
+  },
+  "gaming_figurine": {
+    "x": 8,
+    "y": 9
+  },
+  "gaming_figurine_display_case": {
+    "y": 12
+  },
+  "gaming_handheld": {
+    "x": 4,
+    "y": 11
+  },
+  "gaming_headset": {
+    "x": 1,
+    "y": 68
+  },
+  "gaming_headset_holder": {
+    "x": 3,
+    "y": 7
+  },
+  "gaming_headset_stand": {
+    "x": -1,
+    "y": 8
+  },
+  "gaming_keyboard": {
+    "x": -1,
+    "y": 10
+  },
+  "gaming_keyboard_wrist_rest": {
+    "x": 2,
+    "y": 15
+  },
+  "gaming_laptop": {
+    "x": 4,
+    "y": 17
+  },
+  "gaming_locker": {
+    "x": 7,
+    "y": 9
+  },
+  "gaming_monitor": {
+    "x": 4,
+    "y": -7
+  },
+  "gaming_mouse": {
+    "x": -8,
+    "y": 114,
+    "s": 0.42
+  },
+  "gaming_mouse_pad": {
+    "x": -3,
+    "y": 34
+  },
+  "gaming_projector": {
+    "x": 8,
+    "y": 7
+  },
+  "gaming_router": {
+    "x": 1,
+    "y": 3
+  },
+  "gaming_sd_card": {
+    "x": 6,
+    "y": 77,
+    "s": 0.38
+  },
+  "gaming_shelf": {
+    "x": 9,
+    "y": 8
+  },
+  "gaming_speaker": {
+    "x": 2,
+    "y": 7
+  },
+  "gaming_steering_wheel": {
+    "x": 1,
+    "y": 34
+  },
+  "gaming_thumb_grip": {
+    "y": 28
+  },
+  "gaming_token": {
+    "x": 5,
+    "y": 25
+  },
+  "gaming_tower_pc": {
+    "x": 5,
+    "y": 22
+  },
+  "joystick": {
+    "x": 3,
+    "y": 10
+  },
+  "kinetic_dice_tower": {
+    "x": 10,
+    "y": 27
+  },
+  "laser_dart_launcher": {
+    "x": -57,
+    "y": -12
+  },
+  "soundwave_grenade": {
+    "y": 6
+  },
+  "ticking_clock_charm": {
+    "x": 4,
+    "y": 15
+  },
+  "vr_headset": {
+    "x": 2,
+    "y": 7
+  }
+}

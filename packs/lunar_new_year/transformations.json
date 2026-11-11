@@ -1,0 +1,71 @@
+{
+  "bell": {
+    "y": 52
+  },
+  "candle": {
+    "x": 4,
+    "y": 4
+  },
+  "clay_scroll": {
+    "x": 4,
+    "y": 11
+  },
+  "dragon_figurine": {
+    "y": 4
+  },
+  "drum": {
+    "x": 3,
+    "y": 22
+  },
+  "flower": {
+    "y": 9
+  },
+  "lantern": {
+    "y": 13
+  },
+  "lantern_envelope": {
+    "x": 2,
+    "y": 5
+  },
+  "mask": {
+    "x": 4,
+    "y": 23
+  },
+  "ornament": {
+    "x": -9,
+    "y": 52
+  },
+  "paper_dragon": {
+    "x": 28,
+    "y": 34
+  },
+  "scroll": {
+    "x": 1,
+    "y": 31
+  },
+  "silk_ribbon": {
+    "x": 2,
+    "y": 24
+  },
+  "silk_thread": {
+    "x": 1,
+    "y": 75
+  },
+  "statue": {
+    "x": -18,
+    "y": -8
+  },
+  "stone_carving": {
+    "x": 4,
+    "y": 17
+  },
+  "wooden_flute": {
+    "x": 33,
+    "y": -41,
+    "r": -43
+  },
+  "woven_cloth": {
+    "x": -3,
+    "y": 59
+  }
+}

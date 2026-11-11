@@ -1,0 +1,102 @@
+{
+  "clover": {
+    "x": 5,
+    "y": 6
+  },
+  "emerald_wand": {
+    "x": 54,
+    "y": -41,
+    "r": -40
+  },
+  "fourleaf_clover_pin": {
+    "x": 3,
+    "y": 17
+  },
+  "glowing_mossy_stone": {
+    "x": 10,
+    "y": 33
+  },
+  "gold_coin": {
+    "x": 5,
+    "y": 50
+  },
+  "green_beer_mug": {
+    "x": 11,
+    "y": 12
+  },
+  "green_bow_tie": {
+    "x": 10,
+    "y": 64
+  },
+  "green_garland": {
+    "x": 6,
+    "y": 19
+  },
+  "green_mug_with_shamrocks": {
+    "x": 32,
+    "y": 24
+  },
+  "green_ribbon_twig": {
+    "x": 3,
+    "y": 17
+  },
+  "green_suspenders": {
+    "y": 17
+  },
+  "green_thread_pebble": {
+    "x": 10,
+    "y": 42
+  },
+  "green_tinted_stone": {
+    "x": 14,
+    "y": 21
+  },
+  "green_top_hat": {
+    "x": 2,
+    "y": 29
+  },
+  "horseshoe": {
+    "y": 16
+  },
+  "irish_drum": {
+    "x": 2,
+    "y": 8
+  },
+  "leaf_paperweight": {
+    "x": 8,
+    "y": 14
+  },
+  "leprechaun_boots": {
+    "x": 3,
+    "y": 10
+  },
+  "leprechaun_hat": {
+    "x": 4,
+    "y": 35
+  },
+  "mini_harp": {
+    "x": 17,
+    "y": -9
+  },
+  "mossy_bottle_cap": {
+    "x": 13,
+    "y": 81
+  },
+  "mossy_clay_pot": {
+    "x": 2
+  },
+  "pot_of_gold": {
+    "x": 4,
+    "y": 3
+  },
+  "rainbow": {
+    "x": 6,
+    "y": -22,
+    "s": 1.24
+  },
+  "reed_flute": {
+    "x": 9,
+    "y": -37,
+    "r": -45
+  }
+}

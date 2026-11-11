@@ -1,0 +1,161 @@
+{
+  "bamboo_walkway": {
+    "x": -6,
+    "y": 26
+  },
+  "barn": {
+    "x": 6,
+    "y": 3
+  },
+  "bell_tower": {
+    "x": 8,
+    "y": 12
+  },
+  "brick_chimney": {
+    "x": 23,
+    "y": 1
+  },
+  "cinder_path": {
+    "x": 5,
+    "y": 9
+  },
+  "clay_amphitheater": {
+    "x": -116,
+    "y": 77
+  },
+  "clay_roof_ridge": {
+    "x": -5,
+    "y": 13
+  },
+  "concrete_footbridge": {
+    "x": 3,
+    "y": 11
+  },
+  "gazebo": {
+    "x": -2,
+    "y": 13
+  },
+  "glass_greenhouse": {
+    "x": 4,
+    "y": 11
+  },
+  "granary": {
+    "x": -1,
+    "y": 13
+  },
+  "granite_causeway": {
+    "x": 2,
+    "y": 10
+  },
+  "granite_monument": {
+    "x": 2,
+    "y": 17
+  },
+  "granite_staircase": {
+    "x": -32,
+    "y": 30
+  },
+  "iron_lattice_tower": {
+    "x": 3,
+    "y": 10
+  },
+  "lighthouse": {
+    "x": 26,
+    "y": -1
+  },
+  "limestone_ledge": {
+    "x": 1,
+    "y": 10
+  },
+  "log_cabin": {
+    "x": 5,
+    "y": 5
+  },
+  "mosscovered_ledge": {
+    "x": -2,
+    "y": 5
+  },
+  "observation_deck": {
+    "x": 5,
+    "y": 10
+  },
+  "pagoda": {
+    "x": 2,
+    "y": 9
+  },
+  "reed_embankment": {
+    "x": 4,
+    "y": 6
+  },
+  "steel_truss_bridge": {
+    "x": 5,
+    "y": 7
+  },
+  "stone_archway": {
+    "x": 4,
+    "y": 9
+  },
+  "stone_balcony": {
+    "x": 5,
+    "y": 14
+  },
+  "stone_bridge": {
+    "x": 7,
+    "y": 5
+  },
+  "stone_fortification": {
+    "x": 3,
+    "y": 8
+  },
+  "stone_gateway": {
+    "x": 3,
+    "y": 16
+  },
+  "stone_parapet": {
+    "x": 2,
+    "y": 8
+  },
+  "stone_terrace": {
+    "x": -3,
+    "y": 12
+  },
+  "suspension_bridge": {
+    "x": -8,
+    "y": 8
+  },
+  "thickwalled_shelter": {
+    "x": 1,
+    "y": 21
+  },
+  "timber_tunnel": {
+    "x": 5,
+    "y": 8
+  },
+  "treehouse": {
+    "x": 61,
+    "y": -15
+  },
+  "watchtower": {
+    "x": 50,
+    "y": 2
+  },
+  "water_tower": {
+    "x": 10,
+    "y": 5
+  },
+  "windmill": {
+    "x": 7,
+    "y": 7
+  },
+  "wooden_pier": {
+    "x": 4,
+    "y": 15
+  },
+  "wooden_trestle_bridge": {
+    "x": 4,
+    "y": 10
+  },
+  "woven_fence": {
+    "y": 11
+  }
+}

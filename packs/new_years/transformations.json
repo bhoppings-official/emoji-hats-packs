@@ -1,0 +1,87 @@
+{
+  "ball_drop_timer": {
+    "x": 9,
+    "y": -15
+  },
+  "balloon": {
+    "x": 2,
+    "y": 41
+  },
+  "calendar": {
+    "x": 5,
+    "y": 25
+  },
+  "candle_2": {
+    "x": 4,
+    "y": 1
+  },
+  "champagne_bottle": {
+    "x": 4,
+    "y": -5,
+    "r": -43,
+    "s": 0.87
+  },
+  "champagne_cork": {
+    "x": 85,
+    "y": -17
+  },
+  "champagne_flute": {
+    "x": 35,
+    "y": -8
+  },
+  "confetti_cannon": {
+    "x": 6,
+    "y": -24,
+    "r": -45
+  },
+  "confetti_cone": {
+    "x": 104,
+    "y": -11
+  },
+  "confetti_popper": {
+    "x": 94,
+    "y": 5
+  },
+  "confetti_streamer": {
+    "x": 92,
+    "y": 2
+  },
+  "confetti_wand": {
+    "x": 104,
+    "y": -7
+  },
+  "countdown_clock": {
+    "x": 1,
+    "y": 18
+  },
+  "disco_ball": {
+    "x": 3,
+    "y": 8
+  },
+  "firecracker": {
+    "x": 4,
+    "y": 12
+  },
+  "firework_rocket": {
+    "x": -133,
+    "y": 43,
+    "r": 16
+  },
+  "fortune_cookie": {
+    "x": 22,
+    "y": 45
+  },
+  "glasses": {
+    "x": 8,
+    "y": 33,
+    "s": 2.77
+  },
+  "hat_2": {
+    "x": 1,
+    "y": 13
+  },
+  "hat_4": {
+    "x": 3,
+    "y": 37
+  }
+}

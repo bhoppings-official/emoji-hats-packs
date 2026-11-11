@@ -1,0 +1,164 @@
+{
+  "bluetooth_headset": {
+    "x": 24,
+    "y": 102,
+    "r": 101
+  },
+  "d_printer": {
+    "x": 2,
+    "y": 5
+  },
+  "digital_camera": {
+    "x": 9,
+    "y": 8
+  },
+  "drone": {
+    "x": -5,
+    "y": 16
+  },
+  "electric_scooter": {
+    "x": 6,
+    "y": 13
+  },
+  "external_hard_drive": {
+    "x": 8,
+    "y": 17
+  },
+  "fiber_optic_cable": {
+    "x": 94,
+    "y": -14
+  },
+  "gaming_keyboard": {
+    "x": 9,
+    "y": 8
+  },
+  "gaming_mouse": {
+    "x": 1,
+    "y": 99,
+    "s": 0.54
+  },
+  "graphics_card": {
+    "x": -5,
+    "y": 20
+  },
+  "holographic_orb": {
+    "x": 1,
+    "y": 5
+  },
+  "laptop": {
+    "x": 3,
+    "y": 13
+  },
+  "laser_projector": {
+    "x": 33,
+    "y": -5
+  },
+  "mechanical_keyboard": {
+    "x": 4,
+    "y": 12
+  },
+  "microprocessor": {
+    "y": 50,
+    "s": 0.63
+  },
+  "neural_filament": {
+    "y": 11
+  },
+  "neural_pod": {
+    "x": 3,
+    "y": 18
+  },
+  "neural_thread": {
+    "x": -26,
+    "y": -16
+  },
+  "portable_power_bank": {
+    "x": -71,
+    "y": 83
+  },
+  "quantum_resonator": {
+    "x": 2
+  },
+  "robot_vacuum": {
+    "x": 4,
+    "y": 1
+  },
+  "robotic_arm": {
+    "x": -21,
+    "y": -11
+  },
+  "smart_glasses": {
+    "x": 9,
+    "y": 55
+  },
+  "smart_lock": {
+    "x": -1,
+    "y": 141,
+    "s": 0.63
+  },
+  "smart_speaker": {
+    "x": 13,
+    "y": 66,
+    "s": 0.66
+  },
+  "smart_thermostat": {
+    "x": 1,
+    "y": 6
+  },
+  "smart_tv": {
+    "x": 9,
+    "y": -8
+  },
+  "smartphone": {
+    "x": 3,
+    "y": 11
+  },
+  "smartwatch": {
+    "x": -3,
+    "y": 95,
+    "s": 0.72
+  },
+  "solar_charger": {
+    "x": 35,
+    "y": -6
+  },
+  "solid_state_drive": {
+    "x": -10,
+    "y": 64
+  },
+  "tablet": {
+    "x": -1,
+    "y": 21
+  },
+  "thermal_camera": {
+    "x": 9,
+    "y": 18
+  },
+  "thermal_printer": {
+    "x": 13,
+    "y": 45
+  },
+  "usb_flash_drive": {
+    "x": -109,
+    "y": 101
+  },
+  "virtual_reality_treadmill": {
+    "x": 1,
+    "y": 31
+  },
+  "vr_headset": {
+    "x": 4,
+    "y": 65
+  },
+  "wireless_charging_pad": {
+    "x": -4,
+    "y": 23
+  },
+  "wireless_earbuds": {
+    "x": 4,
+    "y": 21
+  },
+  "wireless_router": {
+    "y": 27
+  }
+}

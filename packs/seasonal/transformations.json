@@ -1,0 +1,150 @@
+{
+  "amber_lichencovered_stone": {
+    "x": 3,
+    "y": 34
+  },
+  "blossoming_cherry_stem_2": {
+    "x": -11,
+    "y": 48
+  },
+  "candy_cane": {
+    "x": -76,
+    "y": 17
+  },
+  "corn_husk": {
+    "x": 11,
+    "y": 16
+  },
+  "crimson_berry_cluster": {
+    "x": 7,
+    "y": 21
+  },
+  "crimson_thistle_bloom": {
+    "x": 6,
+    "y": -9
+  },
+  "crisp_autumn_leaf": {
+    "x": 4,
+    "y": 9
+  },
+  "crystalclear_dew_drop": {
+    "x": 86,
+    "y": -17
+  },
+  "dewcovered_fern": {
+    "x": 99,
+    "y": -10
+  },
+  "frostcovered_pinecone": {
+    "x": 11,
+    "y": 26
+  },
+  "frostkissed_thistle": {
+    "y": -13
+  },
+  "frostrimmed_gourd_shell": {
+    "x": 7,
+    "y": 23
+  },
+  "frosty_feather": {
+    "x": 1,
+    "y": 31
+  },
+  "golden_acorn": {
+    "x": 1,
+    "y": 89,
+    "s": 0.63
+  },
+  "gourd_candle": {
+    "x": 12,
+    "y": 32
+  },
+  "harvest_basket": {
+    "x": 3,
+    "y": 22
+  },
+  "hay_bale": {
+    "y": 43
+  },
+  "hollow_gourd": {
+    "x": 2,
+    "y": 20
+  },
+  "hollow_reed_stem_2": {
+    "x": 4,
+    "y": 87,
+    "s": 0.77
+  },
+  "icicle": {
+    "x": 7,
+    "y": 107
+  },
+  "mossdappled_root": {
+    "x": 6,
+    "y": 24
+  },
+  "mossy_log": {
+    "x": -6,
+    "y": 12
+  },
+  "mossy_stone": {
+    "y": 20
+  },
+  "ornamental_gourd": {
+    "x": 4,
+    "y": 24
+  },
+  "petals_in_bloom": {
+    "x": -5,
+    "y": 22
+  },
+  "pinecone": {
+    "x": -5,
+    "y": 38
+  },
+  "pumpkin": {
+    "y": 4
+  },
+  "scarecrow": {
+    "x": 2,
+    "y": 23
+  },
+  "silvery_bark": {
+    "x": 9
+  },
+  "silvery_spiderweb_thread": {
+    "x": 3,
+    "y": 77
+  },
+  "sleigh": {
+    "x": 3,
+    "y": 8
+  },
+  "snow_globe": {
+    "x": 4,
+    "y": 10
+  },
+  "snow_shovel": {
+    "x": 2,
+    "y": 23
+  },
+  "snowdusted_rock": {
+    "x": -2,
+    "y": 24
+  },
+  "stale_pumpkin_rind": {
+    "y": 25
+  },
+  "twisted_root": {
+    "x": 2,
+    "y": 12
+  },
+  "woven_twig": {
+    "x": 4,
+    "y": 35
+  },
+  "wreath": {
+    "x": -3,
+    "y": 52
+  }
+}
