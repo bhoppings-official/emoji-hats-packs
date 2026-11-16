@@ -1,0 +1,180 @@
+{
+ "meta": {
+  "version": 1,
+  "pack": "objects",
+  "image": "atlas.webp",
+  "format": "webp",
+  "hash": "1ba55c0b57",
+  "sourceHash": "b28cb5335ba8c05d9227e53c096e2f661ac30094",
+  "width": 1372,
+  "height": 1176,
+  "size": 192,
+  "padding": 2,
+  "stride": 196,
+  "columns": 7,
+  "rows": 6,
+  "count": 40
+ },
+ "emojis": {
+  "a_metallic_spool": {
+   "x": 2,
+   "y": 2
+  },
+  "a_stone_lantern": {
+   "x": 198,
+   "y": 2
+  },
+  "backpack": {
+   "x": 394,
+   "y": 2
+  },
+  "basket": {
+   "x": 590,
+   "y": 2
+  },
+  "bicycle": {
+   "x": 786,
+   "y": 2
+  },
+  "binoculars": {
+   "x": 982,
+   "y": 2
+  },
+  "bookend": {
+   "x": 1178,
+   "y": 2
+  },
+  "candlestick": {
+   "x": 2,
+   "y": 198
+  },
+  "chair": {
+   "x": 198,
+   "y": 198
+  },
+  "clock": {
+   "x": 394,
+   "y": 198
+  },
+  "compass": {
+   "x": 590,
+   "y": 198
+  },
+  "crystalline_shard": {
+   "x": 786,
+   "y": 198
+  },
+  "doorhandle": {
+   "x": 982,
+   "y": 198
+  },
+  "doorknob": {
+   "x": 1178,
+   "y": 198
+  },
+  "fire_extinguisher": {
+   "x": 2,
+   "y": 394
+  },
+  "goblet": {
+   "x": 198,
+   "y": 394
+  },
+  "hammer": {
+   "x": 394,
+   "y": 394
+  },
+  "helmet": {
+   "x": 590,
+   "y": 394
+  },
+  "ladder": {
+   "x": 786,
+   "y": 394
+  },
+  "lamp": {
+   "x": 982,
+   "y": 394
+  },
+  "lantern": {
+   "x": 1178,
+   "y": 394
+  },
+  "magnetic_orb": {
+   "x": 2,
+   "y": 590
+  },
+  "microscope": {
+   "x": 198,
+   "y": 590
+  },
+  "paperweight": {
+   "x": 394,
+   "y": 590
+  },
+  "scissors": {
+   "x": 590,
+   "y": 590
+  },
+  "sewing_machine": {
+   "x": 786,
+   "y": 590
+  },
+  "sofa": {
+   "x": 982,
+   "y": 590
+  },
+  "spoon": {
+   "x": 1178,
+   "y": 590
+  },
+  "stapler": {
+   "x": 2,
+   "y": 786
+  },
+  "suitcase": {
+   "x": 198,
+   "y": 786
+  },
+  "table": {
+   "x": 394,
+   "y": 786
+  },
+  "teapot": {
+   "x": 590,
+   "y": 786
+  },
+  "telescope": {
+   "x": 786,
+   "y": 786
+  },
+  "toaster": {
+   "x": 982,
+   "y": 786
+  },
+  "typewriter": {
+   "x": 1178,
+   "y": 786
+  },
+  "umbrella": {
+   "x": 2,
+   "y": 982
+  },
+  "vase": {
+   "x": 198,
+   "y": 982
+  },
+  "watering_can": {
+   "x": 394,
+   "y": 982
+  },
+  "wheelbarrow": {
+   "x": 590,
+   "y": 982
+  },
+  "wrench": {
+   "x": 786,
+   "y": 982
+  }
+ }
+}

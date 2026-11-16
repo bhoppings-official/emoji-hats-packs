@@ -1,0 +1,180 @@
+{
+ "meta": {
+  "version": 1,
+  "pack": "egypt",
+  "image": "atlas.webp",
+  "format": "webp",
+  "hash": "de65aac6bc",
+  "sourceHash": "7790bb633712ca1c3403d2b1464877a742055527",
+  "width": 1372,
+  "height": 1176,
+  "size": 192,
+  "padding": 2,
+  "stride": 196,
+  "columns": 7,
+  "rows": 6,
+  "count": 40
+ },
+ "emojis": {
+  "ancient_tool": {
+   "x": 2,
+   "y": 2
+  },
+  "ankh": {
+   "x": 198,
+   "y": 2
+  },
+  "bronze_anklet": {
+   "x": 394,
+   "y": 2
+  },
+  "bronze_dagger": {
+   "x": 590,
+   "y": 2
+  },
+  "bronze_scepter": {
+   "x": 786,
+   "y": 2
+  },
+  "canopic_jar": {
+   "x": 982,
+   "y": 2
+  },
+  "carved_palm_frond": {
+   "x": 1178,
+   "y": 2
+  },
+  "carved_wooden_flute": {
+   "x": 2,
+   "y": 198
+  },
+  "ceremonial_crook": {
+   "x": 198,
+   "y": 198
+  },
+  "clay_pot": {
+   "x": 394,
+   "y": 198
+  },
+  "copper_chisel": {
+   "x": 590,
+   "y": 198
+  },
+  "cracked_pottery_rim": {
+   "x": 786,
+   "y": 198
+  },
+  "desert_beetle_2": {
+   "x": 982,
+   "y": 198
+  },
+  "desert_gourd": {
+   "x": 1178,
+   "y": 198
+  },
+  "desert_lantern": {
+   "x": 2,
+   "y": 394
+  },
+  "dry_palm_frond_2": {
+   "x": 198,
+   "y": 394
+  },
+  "egyptian_scarab_beetle": {
+   "x": 394,
+   "y": 394
+  },
+  "golden_pharaoh_mask": {
+   "x": 590,
+   "y": 394
+  },
+  "golden_sarcophagus": {
+   "x": 786,
+   "y": 394
+  },
+  "hieroglyphic_stone_slab": {
+   "x": 982,
+   "y": 394
+  },
+  "hollow_gourd_2": {
+   "x": 1178,
+   "y": 394
+  },
+  "lotus_column": {
+   "x": 2,
+   "y": 590
+  },
+  "mosscovered_rock": {
+   "x": 198,
+   "y": 590
+  },
+  "mossy_stone_pillar": {
+   "x": 394,
+   "y": 590
+  },
+  "obsidian_amulet": {
+   "x": 590,
+   "y": 590
+  },
+  "papyrus_scroll": {
+   "x": 786,
+   "y": 590
+  },
+  "sandstone_obelisk": {
+   "x": 982,
+   "y": 590
+  },
+  "scarab_pendant": {
+   "x": 1178,
+   "y": 590
+  },
+  "shabti_figurine": {
+   "x": 2,
+   "y": 786
+  },
+  "stone_incense_burner": {
+   "x": 198,
+   "y": 786
+  },
+  "sunbaked_clay_flute": {
+   "x": 394,
+   "y": 786
+  },
+  "sunbaked_clay_shard": {
+   "x": 590,
+   "y": 786
+  },
+  "sunbleached_stone_shard": {
+   "x": 786,
+   "y": 786
+  },
+  "suncracked_clay_vessel_2": {
+   "x": 982,
+   "y": 786
+  },
+  "sunken_papyrus_scroll": {
+   "x": 1178,
+   "y": 786
+  },
+  "sunlit_sandstone_shard": {
+   "x": 2,
+   "y": 982
+  },
+  "sunwarmed_stone_block": {
+   "x": 198,
+   "y": 982
+  },
+  "twisted_vine_root": {
+   "x": 394,
+   "y": 982
+  },
+  "twisted_vine_root_2": {
+   "x": 590,
+   "y": 982
+  },
+  "woven_basket": {
+   "x": 786,
+   "y": 982
+  }
+ }
+}

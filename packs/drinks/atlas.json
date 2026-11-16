@@ -1,0 +1,180 @@
+{
+ "meta": {
+  "version": 1,
+  "pack": "drinks",
+  "image": "atlas.webp",
+  "format": "webp",
+  "hash": "ff382cc22b",
+  "sourceHash": "833ff25f796923af11d4df5d64d26fcb9e711d7d",
+  "width": 1372,
+  "height": 1176,
+  "size": 192,
+  "padding": 2,
+  "stride": 196,
+  "columns": 7,
+  "rows": 6,
+  "count": 40
+ },
+ "emojis": {
+  "bamboo_cup": {
+   "x": 2,
+   "y": 2
+  },
+  "beer_stein": {
+   "x": 198,
+   "y": 2
+  },
+  "ceramic_coffee_mug": {
+   "x": 394,
+   "y": 2
+  },
+  "ceramic_espresso_cup": {
+   "x": 590,
+   "y": 2
+  },
+  "ceramic_mug": {
+   "x": 786,
+   "y": 2
+  },
+  "ceramic_sake_bottle": {
+   "x": 982,
+   "y": 2
+  },
+  "ceramic_teacup": {
+   "x": 1178,
+   "y": 2
+  },
+  "champagne_bottle": {
+   "x": 2,
+   "y": 198
+  },
+  "cocktail_shaker": {
+   "x": 198,
+   "y": 198
+  },
+  "cooler_pouch": {
+   "x": 394,
+   "y": 198
+  },
+  "crystal_tumbler": {
+   "x": 590,
+   "y": 198
+  },
+  "glass_bottle": {
+   "x": 786,
+   "y": 198
+  },
+  "glass_decanter": {
+   "x": 982,
+   "y": 198
+  },
+  "goblet": {
+   "x": 1178,
+   "y": 198
+  },
+  "growler": {
+   "x": 2,
+   "y": 394
+  },
+  "iced_latte": {
+   "x": 198,
+   "y": 394
+  },
+  "juice_box": {
+   "x": 394,
+   "y": 394
+  },
+  "keg": {
+   "x": 590,
+   "y": 394
+  },
+  "martini_glass": {
+   "x": 786,
+   "y": 394
+  },
+  "mason_jar": {
+   "x": 982,
+   "y": 394
+  },
+  "metal_tumbler": {
+   "x": 1178,
+   "y": 394
+  },
+  "milk_carton": {
+   "x": 2,
+   "y": 590
+  },
+  "paper_coffee_cup": {
+   "x": 198,
+   "y": 590
+  },
+  "pitcher": {
+   "x": 394,
+   "y": 590
+  },
+  "plastic_beer_cup": {
+   "x": 590,
+   "y": 590
+  },
+  "plastic_coffee_cup_lid": {
+   "x": 786,
+   "y": 590
+  },
+  "plastic_cup_holder": {
+   "x": 982,
+   "y": 590
+  },
+  "plastic_smoothie_cup": {
+   "x": 1178,
+   "y": 590
+  },
+  "plastic_soda_bottle": {
+   "x": 2,
+   "y": 786
+  },
+  "plastic_water_bottle": {
+   "x": 198,
+   "y": 786
+  },
+  "shot_glass": {
+   "x": 394,
+   "y": 786
+  },
+  "silicone_cup": {
+   "x": 590,
+   "y": 786
+  },
+  "silicone_cup_sleeve": {
+   "x": 786,
+   "y": 786
+  },
+  "silicone_shaker": {
+   "x": 982,
+   "y": 786
+  },
+  "soda_can": {
+   "x": 1178,
+   "y": 786
+  },
+  "teapot": {
+   "x": 2,
+   "y": 982
+  },
+  "thermos": {
+   "x": 198,
+   "y": 982
+  },
+  "travel_mug": {
+   "x": 394,
+   "y": 982
+  },
+  "water_flask": {
+   "x": 590,
+   "y": 982
+  },
+  "wine_glass": {
+   "x": 786,
+   "y": 982
+  }
+ }
+}

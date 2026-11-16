@@ -1,0 +1,180 @@
+{
+ "meta": {
+  "version": 1,
+  "pack": "furniture",
+  "image": "atlas.webp",
+  "format": "webp",
+  "hash": "6a572002c0",
+  "sourceHash": "5b7383e63849a775a08c320ed75fb368f61ccac2",
+  "width": 1372,
+  "height": 1176,
+  "size": 192,
+  "padding": 2,
+  "stride": 196,
+  "columns": 7,
+  "rows": 6,
+  "count": 40
+ },
+ "emojis": {
+  "armchair": {
+   "x": 2,
+   "y": 2
+  },
+  "armoire": {
+   "x": 198,
+   "y": 2
+  },
+  "bar_stool": {
+   "x": 394,
+   "y": 2
+  },
+  "bookshelf": {
+   "x": 590,
+   "y": 2
+  },
+  "bunk_bed": {
+   "x": 786,
+   "y": 2
+  },
+  "canopy_bed": {
+   "x": 982,
+   "y": 2
+  },
+  "captains_bed": {
+   "x": 1178,
+   "y": 2
+  },
+  "chaise_lounge": {
+   "x": 2,
+   "y": 198
+  },
+  "coffee_table": {
+   "x": 198,
+   "y": 198
+  },
+  "console_table": {
+   "x": 394,
+   "y": 198
+  },
+  "curved_armrest": {
+   "x": 590,
+   "y": 198
+  },
+  "curved_table": {
+   "x": 786,
+   "y": 198
+  },
+  "dining_table": {
+   "x": 982,
+   "y": 198
+  },
+  "dresser": {
+   "x": 1178,
+   "y": 198
+  },
+  "end_table": {
+   "x": 2,
+   "y": 394
+  },
+  "folding_stool": {
+   "x": 198,
+   "y": 394
+  },
+  "fourposter_bed": {
+   "x": 394,
+   "y": 394
+  },
+  "headboard": {
+   "x": 590,
+   "y": 394
+  },
+  "loveseat": {
+   "x": 786,
+   "y": 394
+  },
+  "nightstand": {
+   "x": 982,
+   "y": 394
+  },
+  "ottoman": {
+   "x": 1178,
+   "y": 394
+  },
+  "platform_bed": {
+   "x": 2,
+   "y": 590
+  },
+  "recliner": {
+   "x": 198,
+   "y": 590
+  },
+  "ridged_ottoman": {
+   "x": 394,
+   "y": 590
+  },
+  "ridged_shelf": {
+   "x": 590,
+   "y": 590
+  },
+  "rocking_chair": {
+   "x": 786,
+   "y": 590
+  },
+  "sectional_sofa": {
+   "x": 982,
+   "y": 590
+  },
+  "sideboard": {
+   "x": 1178,
+   "y": 590
+  },
+  "slatted_desk": {
+   "x": 2,
+   "y": 786
+  },
+  "slatted_footboard": {
+   "x": 198,
+   "y": 786
+  },
+  "sofa": {
+   "x": 394,
+   "y": 786
+  },
+  "storage_cabinet": {
+   "x": 590,
+   "y": 786
+  },
+  "upholstered_loveseat": {
+   "x": 786,
+   "y": 786
+  },
+  "wardrobe": {
+   "x": 982,
+   "y": 786
+  },
+  "wooden_bench": {
+   "x": 1178,
+   "y": 786
+  },
+  "woven_base": {
+   "x": 2,
+   "y": 982
+  },
+  "woven_base_2": {
+   "x": 198,
+   "y": 982
+  },
+  "woven_chair": {
+   "x": 394,
+   "y": 982
+  },
+  "woven_strip": {
+   "x": 590,
+   "y": 982
+  },
+  "writing_desk": {
+   "x": 786,
+   "y": 982
+  }
+ }
+}

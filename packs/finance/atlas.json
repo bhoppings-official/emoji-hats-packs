@@ -1,0 +1,180 @@
+{
+ "meta": {
+  "version": 1,
+  "pack": "finance",
+  "image": "atlas.webp",
+  "format": "webp",
+  "hash": "526e4a2b77",
+  "sourceHash": "15af03c7d521f91b2dab4b3782a65965cfbab392",
+  "width": 1372,
+  "height": 1176,
+  "size": 192,
+  "padding": 2,
+  "stride": 196,
+  "columns": 7,
+  "rows": 6,
+  "count": 40
+ },
+ "emojis": {
+  "abacus": {
+   "x": 2,
+   "y": 2
+  },
+  "atm_machine": {
+   "x": 198,
+   "y": 2
+  },
+  "banknote": {
+   "x": 394,
+   "y": 2
+  },
+  "banknote_strap": {
+   "x": 590,
+   "y": 2
+  },
+  "bill_counter": {
+   "x": 786,
+   "y": 2
+  },
+  "bond_certificate": {
+   "x": 982,
+   "y": 2
+  },
+  "calculator": {
+   "x": 1178,
+   "y": 2
+  },
+  "cash_box": {
+   "x": 2,
+   "y": 198
+  },
+  "cash_drawer": {
+   "x": 198,
+   "y": 198
+  },
+  "cash_receipt": {
+   "x": 394,
+   "y": 198
+  },
+  "cash_register": {
+   "x": 590,
+   "y": 198
+  },
+  "cashier_drawer_key": {
+   "x": 786,
+   "y": 198
+  },
+  "checkbook": {
+   "x": 982,
+   "y": 198
+  },
+  "coin_counter": {
+   "x": 1178,
+   "y": 198
+  },
+  "coin_roll": {
+   "x": 2,
+   "y": 394
+  },
+  "coin_scale": {
+   "x": 198,
+   "y": 394
+  },
+  "coin_sorter": {
+   "x": 394,
+   "y": 394
+  },
+  "coin_tray": {
+   "x": 590,
+   "y": 394
+  },
+  "credit_card": {
+   "x": 786,
+   "y": 394
+  },
+  "currency_pouch": {
+   "x": 982,
+   "y": 394
+  },
+  "deposit_bag": {
+   "x": 1178,
+   "y": 394
+  },
+  "financial_statement": {
+   "x": 2,
+   "y": 590
+  },
+  "gavel": {
+   "x": 198,
+   "y": 590
+  },
+  "ledger_book": {
+   "x": 394,
+   "y": 590
+  },
+  "ledger_ribbon": {
+   "x": 590,
+   "y": 590
+  },
+  "ledger_seal": {
+   "x": 786,
+   "y": 590
+  },
+  "ledger_strap": {
+   "x": 982,
+   "y": 590
+  },
+  "ledger_tablet": {
+   "x": 1178,
+   "y": 590
+  },
+  "money_bag": {
+   "x": 2,
+   "y": 786
+  },
+  "money_clip": {
+   "x": 198,
+   "y": 786
+  },
+  "money_counterweight": {
+   "x": 394,
+   "y": 786
+  },
+  "mortgage_deed": {
+   "x": 590,
+   "y": 786
+  },
+  "piggy_bank": {
+   "x": 786,
+   "y": 786
+  },
+  "portfolio_briefcase": {
+   "x": 982,
+   "y": 786
+  },
+  "receipt_envelope": {
+   "x": 1178,
+   "y": 786
+  },
+  "safe_deposit_box": {
+   "x": 2,
+   "y": 982
+  },
+  "stock_ticker": {
+   "x": 198,
+   "y": 982
+  },
+  "tax_stamp": {
+   "x": 394,
+   "y": 982
+  },
+  "treasury_chest": {
+   "x": 590,
+   "y": 982
+  },
+  "vault_door": {
+   "x": 786,
+   "y": 982
+  }
+ }
+}

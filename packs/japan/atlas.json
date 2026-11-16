@@ -1,0 +1,104 @@
+{
+ "meta": {
+  "version": 1,
+  "pack": "japan",
+  "image": "atlas.webp",
+  "format": "webp",
+  "hash": "9c2e3e0dd5",
+  "sourceHash": "fdd2c66d5a750df5fa6dfeae41e0af0890ac66f0",
+  "width": 980,
+  "height": 980,
+  "size": 192,
+  "padding": 2,
+  "stride": 196,
+  "columns": 5,
+  "rows": 5,
+  "count": 21
+ },
+ "emojis": {
+  "bamboo_flute": {
+   "x": 2,
+   "y": 2
+  },
+  "ceramic_bowl": {
+   "x": 198,
+   "y": 2
+  },
+  "cherry_blossom_bloom": {
+   "x": 394,
+   "y": 2
+  },
+  "cherry_blossom_petal": {
+   "x": 590,
+   "y": 2
+  },
+  "cherry_blossom_vase": {
+   "x": 786,
+   "y": 2
+  },
+  "daruma_doll": {
+   "x": 2,
+   "y": 198
+  },
+  "dragon_scale": {
+   "x": 198,
+   "y": 198
+  },
+  "folding_fan": {
+   "x": 394,
+   "y": 198
+  },
+  "japanese_maple_leaf": {
+   "x": 590,
+   "y": 198
+  },
+  "kimono_fabric": {
+   "x": 786,
+   "y": 198
+  },
+  "kimono_fabric_2": {
+   "x": 2,
+   "y": 394
+  },
+  "koi_fish_statue": {
+   "x": 198,
+   "y": 394
+  },
+  "lantern_base": {
+   "x": 394,
+   "y": 394
+  },
+  "paper_lantern_frame": {
+   "x": 590,
+   "y": 394
+  },
+  "shuriken": {
+   "x": 786,
+   "y": 394
+  },
+  "silk_kimono_sleeve": {
+   "x": 2,
+   "y": 590
+  },
+  "stone_lantern": {
+   "x": 198,
+   "y": 590
+  },
+  "tea_set": {
+   "x": 394,
+   "y": 590
+  },
+  "torii_gate": {
+   "x": 590,
+   "y": 590
+  },
+  "wood_carving": {
+   "x": 786,
+   "y": 590
+  },
+  "wooden_tray": {
+   "x": 2,
+   "y": 786
+  }
+ }
+}

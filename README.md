@@ -1,6 +1,11 @@
 # emoji-hats-packs
 emoji hat hats
 
+## Building emoji atlases
+
+Run `npm install` once, then `npm run build` to generate or update each pack's
+`atlas.webp` and `atlas.json`. Use `npm run build:force` to rebuild every atlas.
+
 ## Updating the pack list
 
 Run `node generate-pack-list.js` to regenerate `pack_list.json` from the pack

@@ -1,0 +1,104 @@
+{
+ "meta": {
+  "version": 1,
+  "pack": "lunar_new_year",
+  "image": "atlas.webp",
+  "format": "webp",
+  "hash": "222a5a805f",
+  "sourceHash": "a88b537be9d2688053d48ab323fe932960646fec",
+  "width": 980,
+  "height": 980,
+  "size": 192,
+  "padding": 2,
+  "stride": 196,
+  "columns": 5,
+  "rows": 5,
+  "count": 21
+ },
+ "emojis": {
+  "bell": {
+   "x": 2,
+   "y": 2
+  },
+  "candle": {
+   "x": 198,
+   "y": 2
+  },
+  "clay_scroll": {
+   "x": 394,
+   "y": 2
+  },
+  "dragon_figurine": {
+   "x": 590,
+   "y": 2
+  },
+  "drum": {
+   "x": 786,
+   "y": 2
+  },
+  "flower": {
+   "x": 2,
+   "y": 198
+  },
+  "lantern": {
+   "x": 198,
+   "y": 198
+  },
+  "lantern_envelope": {
+   "x": 394,
+   "y": 198
+  },
+  "mask": {
+   "x": 590,
+   "y": 198
+  },
+  "ornament": {
+   "x": 786,
+   "y": 198
+  },
+  "paper_dragon": {
+   "x": 2,
+   "y": 394
+  },
+  "paper_scroll": {
+   "x": 198,
+   "y": 394
+  },
+  "pot": {
+   "x": 394,
+   "y": 394
+  },
+  "red_envelope": {
+   "x": 590,
+   "y": 394
+  },
+  "scroll": {
+   "x": 786,
+   "y": 394
+  },
+  "silk_ribbon": {
+   "x": 2,
+   "y": 590
+  },
+  "silk_thread": {
+   "x": 198,
+   "y": 590
+  },
+  "statue": {
+   "x": 394,
+   "y": 590
+  },
+  "stone_carving": {
+   "x": 590,
+   "y": 590
+  },
+  "wooden_flute": {
+   "x": 786,
+   "y": 590
+  },
+  "woven_cloth": {
+   "x": 2,
+   "y": 786
+  }
+ }
+}

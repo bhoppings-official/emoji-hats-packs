@@ -1,0 +1,136 @@
+{
+ "meta": {
+  "version": 1,
+  "pack": "stinky",
+  "image": "atlas.webp",
+  "format": "webp",
+  "hash": "1b19964530",
+  "sourceHash": "3f05ea7d05dc89390081c894f4ab0a4af81a0503",
+  "width": 1176,
+  "height": 980,
+  "size": 192,
+  "padding": 2,
+  "stride": 196,
+  "columns": 6,
+  "rows": 5,
+  "count": 29
+ },
+ "emojis": {
+  "compost_heap": {
+   "x": 2,
+   "y": 2
+  },
+  "dirty_boot_sole": {
+   "x": 198,
+   "y": 2
+  },
+  "dirty_gym_towel": {
+   "x": 394,
+   "y": 2
+  },
+  "fermented_garlic_clove": {
+   "x": 590,
+   "y": 2
+  },
+  "festered_apple_core": {
+   "x": 786,
+   "y": 2
+  },
+  "moldy_bread_crust": {
+   "x": 982,
+   "y": 2
+  },
+  "moldy_lettuce_leaf": {
+   "x": 2,
+   "y": 198
+  },
+  "moldy_tortilla_chip": {
+   "x": 198,
+   "y": 198
+  },
+  "overcooked_onions": {
+   "x": 394,
+   "y": 198
+  },
+  "refrigerated_fish_pack": {
+   "x": 590,
+   "y": 198
+  },
+  "rotten_banana_peel": {
+   "x": 786,
+   "y": 198
+  },
+  "rotten_cheese_rind": {
+   "x": 982,
+   "y": 198
+  },
+  "rotting_broccoli": {
+   "x": 2,
+   "y": 394
+  },
+  "rotting_cabbage": {
+   "x": 198,
+   "y": 394
+  },
+  "rotting_durian": {
+   "x": 394,
+   "y": 394
+  },
+  "rotting_eggplant": {
+   "x": 590,
+   "y": 394
+  },
+  "rotting_grapefruit": {
+   "x": 786,
+   "y": 394
+  },
+  "rotting_onion": {
+   "x": 982,
+   "y": 394
+  },
+  "rotting_potato": {
+   "x": 2,
+   "y": 590
+  },
+  "rotting_squid_tentacle": {
+   "x": 198,
+   "y": 590
+  },
+  "skunk_carcass": {
+   "x": 394,
+   "y": 590
+  },
+  "smelly_backpack": {
+   "x": 590,
+   "y": 590
+  },
+  "spoiled_yogurt_cup": {
+   "x": 786,
+   "y": 590
+  },
+  "stale_cereal_box": {
+   "x": 982,
+   "y": 590
+  },
+  "stale_fish_guts": {
+   "x": 2,
+   "y": 786
+  },
+  "stale_milk_carton": {
+   "x": 198,
+   "y": 786
+  },
+  "sulfur_chunk": {
+   "x": 394,
+   "y": 786
+  },
+  "sweaty_sock": {
+   "x": 590,
+   "y": 786
+  },
+  "wet_dog_collar": {
+   "x": 786,
+   "y": 786
+  }
+ }
+}

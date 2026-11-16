@@ -1,0 +1,180 @@
+{
+ "meta": {
+  "version": 1,
+  "pack": "china",
+  "image": "atlas.webp",
+  "format": "webp",
+  "hash": "47c265569e",
+  "sourceHash": "a36f17972d513dd1beae9a4098c844205eaa881e",
+  "width": 1372,
+  "height": 1176,
+  "size": 192,
+  "padding": 2,
+  "stride": 196,
+  "columns": 7,
+  "rows": 6,
+  "count": 40
+ },
+ "emojis": {
+  "ancient_pottery": {
+   "x": 2,
+   "y": 2
+  },
+  "bamboo_steamer": {
+   "x": 198,
+   "y": 2
+  },
+  "book": {
+   "x": 394,
+   "y": 2
+  },
+  "bronze_tripod": {
+   "x": 590,
+   "y": 2
+  },
+  "calligraphy_brush": {
+   "x": 786,
+   "y": 2
+  },
+  "ceramic_incense_holder": {
+   "x": 982,
+   "y": 2
+  },
+  "ceramic_teapot": {
+   "x": 1178,
+   "y": 2
+  },
+  "chopsticks": {
+   "x": 2,
+   "y": 198
+  },
+  "clay_bowl": {
+   "x": 198,
+   "y": 198
+  },
+  "clay_vase": {
+   "x": 394,
+   "y": 198
+  },
+  "clock": {
+   "x": 590,
+   "y": 198
+  },
+  "compass": {
+   "x": 786,
+   "y": 198
+  },
+  "dragon_lantern": {
+   "x": 982,
+   "y": 198
+  },
+  "dragon_trap": {
+   "x": 1178,
+   "y": 198
+  },
+  "gong": {
+   "x": 2,
+   "y": 394
+  },
+  "incense_burner": {
+   "x": 198,
+   "y": 394
+  },
+  "jade_bracelet": {
+   "x": 394,
+   "y": 394
+  },
+  "jade_pendant": {
+   "x": 590,
+   "y": 394
+  },
+  "jade_seal": {
+   "x": 786,
+   "y": 394
+  },
+  "lantern_base": {
+   "x": 982,
+   "y": 394
+  },
+  "lion_statue": {
+   "x": 1178,
+   "y": 394
+  },
+  "mountain_peak": {
+   "x": 2,
+   "y": 590
+  },
+  "pagoda": {
+   "x": 198,
+   "y": 590
+  },
+  "paper_fan": {
+   "x": 394,
+   "y": 590
+  },
+  "porcelain_plate": {
+   "x": 590,
+   "y": 590
+  },
+  "porcelain_vase": {
+   "x": 786,
+   "y": 590
+  },
+  "rice_paper": {
+   "x": 982,
+   "y": 590
+  },
+  "rice_sack": {
+   "x": 1178,
+   "y": 590
+  },
+  "rickshaw": {
+   "x": 2,
+   "y": 786
+  },
+  "silk_banner": {
+   "x": 198,
+   "y": 786
+  },
+  "silk_robe": {
+   "x": 394,
+   "y": 786
+  },
+  "silk_scroll": {
+   "x": 590,
+   "y": 786
+  },
+  "silk_thread": {
+   "x": 786,
+   "y": 786
+  },
+  "stone_ingot": {
+   "x": 982,
+   "y": 786
+  },
+  "sword": {
+   "x": 1178,
+   "y": 786
+  },
+  "table": {
+   "x": 2,
+   "y": 982
+  },
+  "tea_kettle": {
+   "x": 198,
+   "y": 982
+  },
+  "terracotta_warrior": {
+   "x": 394,
+   "y": 982
+  },
+  "water_jar": {
+   "x": 590,
+   "y": 982
+  },
+  "wooden_flute": {
+   "x": 786,
+   "y": 982
+  }
+ }
+}

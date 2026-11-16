@@ -1,0 +1,180 @@
+{
+ "meta": {
+  "version": 1,
+  "pack": "france",
+  "image": "atlas.webp",
+  "format": "webp",
+  "hash": "59a20c8122",
+  "sourceHash": "452a338a397c14d2614eaafd697feb88bcbd0a17",
+  "width": 1372,
+  "height": 1176,
+  "size": 192,
+  "padding": 2,
+  "stride": 196,
+  "columns": 7,
+  "rows": 6,
+  "count": 40
+ },
+ "emojis": {
+  "a_bicycle_frame": {
+   "x": 2,
+   "y": 2
+  },
+  "a_bicycle_wheel": {
+   "x": 198,
+   "y": 2
+  },
+  "a_ceramic_teapot": {
+   "x": 394,
+   "y": 2
+  },
+  "a_clay_pot": {
+   "x": 590,
+   "y": 2
+  },
+  "a_fleurdelis": {
+   "x": 786,
+   "y": 2
+  },
+  "a_handcarved_spoon": {
+   "x": 982,
+   "y": 2
+  },
+  "a_lavender_jar": {
+   "x": 1178,
+   "y": 2
+  },
+  "a_leather_satchel": {
+   "x": 2,
+   "y": 198
+  },
+  "a_metal_rod": {
+   "x": 198,
+   "y": 198
+  },
+  "a_porcelain_vase": {
+   "x": 394,
+   "y": 198
+  },
+  "a_rope_basket": {
+   "x": 590,
+   "y": 198
+  },
+  "a_silk_scarf": {
+   "x": 786,
+   "y": 198
+  },
+  "a_stone_bowl": {
+   "x": 982,
+   "y": 198
+  },
+  "a_stone_mortar": {
+   "x": 1178,
+   "y": 198
+  },
+  "a_vintage_baguette": {
+   "x": 2,
+   "y": 394
+  },
+  "a_vintage_pocket_watch": {
+   "x": 198,
+   "y": 394
+  },
+  "a_woven_basket": {
+   "x": 394,
+   "y": 394
+  },
+  "a_wrought_iron_bench": {
+   "x": 590,
+   "y": 394
+  },
+  "a_wrought_iron_fence": {
+   "x": 786,
+   "y": 394
+  },
+  "a_wrought_iron_gate": {
+   "x": 982,
+   "y": 394
+  },
+  "accordion": {
+   "x": 1178,
+   "y": 394
+  },
+  "baguette_basket": {
+   "x": 2,
+   "y": 590
+  },
+  "beret": {
+   "x": 198,
+   "y": 590
+  },
+  "boule_de_petanque": {
+   "x": 394,
+   "y": 590
+  },
+  "brie_wheel": {
+   "x": 590,
+   "y": 590
+  },
+  "butter_churn": {
+   "x": 786,
+   "y": 590
+  },
+  "cafe_table": {
+   "x": 982,
+   "y": 590
+  },
+  "candle_snuffer": {
+   "x": 1178,
+   "y": 590
+  },
+  "cast_iron_skillet": {
+   "x": 2,
+   "y": 786
+  },
+  "copper_saucepan": {
+   "x": 198,
+   "y": 786
+  },
+  "crepe_pan": {
+   "x": 394,
+   "y": 786
+  },
+  "croissant": {
+   "x": 590,
+   "y": 786
+  },
+  "eiffel_tower_figurine": {
+   "x": 786,
+   "y": 786
+  },
+  "french_press": {
+   "x": 982,
+   "y": 786
+  },
+  "gargoyle": {
+   "x": 1178,
+   "y": 786
+  },
+  "guillotine": {
+   "x": 2,
+   "y": 982
+  },
+  "macaron": {
+   "x": 198,
+   "y": 982
+  },
+  "perfume_bottle": {
+   "x": 394,
+   "y": 982
+  },
+  "truffle_slicer": {
+   "x": 590,
+   "y": 982
+  },
+  "wine_bottle": {
+   "x": 786,
+   "y": 982
+  }
+ }
+}

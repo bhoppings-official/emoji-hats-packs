@@ -1,0 +1,112 @@
+{
+ "meta": {
+  "version": 1,
+  "pack": "south_korea",
+  "image": "atlas.webp",
+  "format": "webp",
+  "hash": "6361ba4a45",
+  "sourceHash": "ae79b4c244514764f75f7f5876ea376cba4128c5",
+  "width": 980,
+  "height": 980,
+  "size": 192,
+  "padding": 2,
+  "stride": 196,
+  "columns": 5,
+  "rows": 5,
+  "count": 23
+ },
+ "emojis": {
+  "celadon_vase": {
+   "x": 2,
+   "y": 2
+  },
+  "ginseng_leaf": {
+   "x": 198,
+   "y": 2
+  },
+  "ginseng_root": {
+   "x": 394,
+   "y": 2
+  },
+  "ginseng_tea_leaf": {
+   "x": 590,
+   "y": 2
+  },
+  "hanbok_flower": {
+   "x": 786,
+   "y": 2
+  },
+  "hanbok_hairpin": {
+   "x": 2,
+   "y": 198
+  },
+  "hanbok_jacket": {
+   "x": 198,
+   "y": 198
+  },
+  "hanbok_robe": {
+   "x": 394,
+   "y": 198
+  },
+  "hanbok_sash": {
+   "x": 590,
+   "y": 198
+  },
+  "hanbok_skirt": {
+   "x": 786,
+   "y": 198
+  },
+  "jangdok": {
+   "x": 2,
+   "y": 394
+  },
+  "jangseung": {
+   "x": 198,
+   "y": 394
+  },
+  "kimchi_bowl": {
+   "x": 394,
+   "y": 394
+  },
+  "kimchi_jar": {
+   "x": 590,
+   "y": 394
+  },
+  "kimchi_spoon": {
+   "x": 786,
+   "y": 394
+  },
+  "soju_bottle": {
+   "x": 2,
+   "y": 590
+  },
+  "soju_glass": {
+   "x": 198,
+   "y": 590
+  },
+  "taekwondo_belt": {
+   "x": 394,
+   "y": 590
+  },
+  "taekwondo_glove": {
+   "x": 590,
+   "y": 590
+  },
+  "taekwondo_pole": {
+   "x": 786,
+   "y": 590
+  },
+  "taekwondo_uniform": {
+   "x": 2,
+   "y": 786
+  },
+  "traditional_hanbok": {
+   "x": 198,
+   "y": 786
+  },
+  "traditional_mask": {
+   "x": 394,
+   "y": 786
+  }
+ }
+}

@@ -1,0 +1,108 @@
+{
+ "meta": {
+  "version": 1,
+  "pack": "poop",
+  "image": "atlas.webp",
+  "format": "webp",
+  "hash": "9f0f635e07",
+  "sourceHash": "2934496e6ffc53aed71c5e97264bf64ed1c604d3",
+  "width": 980,
+  "height": 980,
+  "size": 192,
+  "padding": 2,
+  "stride": 196,
+  "columns": 5,
+  "rows": 5,
+  "count": 22
+ },
+ "emojis": {
+  "3d_poo": {
+   "x": 2,
+   "y": 2
+  },
+  "alien_poo": {
+   "x": 198,
+   "y": 2
+  },
+  "cute_poo": {
+   "x": 394,
+   "y": 2
+  },
+  "default_poo": {
+   "x": 590,
+   "y": 2
+  },
+  "drawing_poo": {
+   "x": 786,
+   "y": 2
+  },
+  "flat_poo": {
+   "x": 2,
+   "y": 198
+  },
+  "freaky_ahh_poo": {
+   "x": 198,
+   "y": 198
+  },
+  "funny_cute_poo": {
+   "x": 394,
+   "y": 198
+  },
+  "funny_flat_poo": {
+   "x": 590,
+   "y": 198
+  },
+  "ghost_poo": {
+   "x": 786,
+   "y": 198
+  },
+  "goofy_poo": {
+   "x": 2,
+   "y": 394
+  },
+  "happy_poo": {
+   "x": 198,
+   "y": 394
+  },
+  "og_poo": {
+   "x": 394,
+   "y": 394
+  },
+  "old_poo": {
+   "x": 590,
+   "y": 394
+  },
+  "pixel_poo": {
+   "x": 786,
+   "y": 394
+  },
+  "realist_poo": {
+   "x": 2,
+   "y": 590
+  },
+  "scary_poo": {
+   "x": 198,
+   "y": 590
+  },
+  "soul_stare_poo": {
+   "x": 394,
+   "y": 590
+  },
+  "sticker_poo": {
+   "x": 590,
+   "y": 590
+  },
+  "stupid_poo": {
+   "x": 786,
+   "y": 590
+  },
+  "surprise_poo": {
+   "x": 2,
+   "y": 786
+  },
+  "wet_poo": {
+   "x": 198,
+   "y": 786
+  }
+ }
+}

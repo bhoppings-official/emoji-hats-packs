@@ -1,0 +1,100 @@
+{
+ "meta": {
+  "version": 1,
+  "pack": "mothers_day",
+  "image": "atlas.webp",
+  "format": "webp",
+  "hash": "af8a3ec397",
+  "sourceHash": "8bca1ab5005bfe2494346f55ceebb2ea97aaa366",
+  "width": 980,
+  "height": 784,
+  "size": 192,
+  "padding": 2,
+  "stride": 196,
+  "columns": 5,
+  "rows": 4,
+  "count": 20
+ },
+ "emojis": {
+  "colored_paper_fan": {
+   "x": 2,
+   "y": 2
+  },
+  "embroidered_handkerchief": {
+   "x": 198,
+   "y": 2
+  },
+  "fabric_bookmark": {
+   "x": 394,
+   "y": 2
+  },
+  "fabric_pouch": {
+   "x": 590,
+   "y": 2
+  },
+  "flower_arrangement": {
+   "x": 786,
+   "y": 2
+  },
+  "handmade_greeting_card": {
+   "x": 2,
+   "y": 198
+  },
+  "heartshaped_locket": {
+   "x": 198,
+   "y": 198
+  },
+  "jewelry_box": {
+   "x": 394,
+   "y": 198
+  },
+  "lavender_soap": {
+   "x": 590,
+   "y": 198
+  },
+  "mini_potted_plant": {
+   "x": 786,
+   "y": 198
+  },
+  "miniature_lantern": {
+   "x": 2,
+   "y": 394
+  },
+  "painted_ceramic_bowl": {
+   "x": 198,
+   "y": 394
+  },
+  "personalized_keychain": {
+   "x": 394,
+   "y": 394
+  },
+  "photo_frame": {
+   "x": 590,
+   "y": 394
+  },
+  "scented_candle": {
+   "x": 786,
+   "y": 394
+  },
+  "silk_scarf": {
+   "x": 2,
+   "y": 590
+  },
+  "small_vase": {
+   "x": 198,
+   "y": 590
+  },
+  "stitched_blanket": {
+   "x": 394,
+   "y": 590
+  },
+  "tea_cup_set": {
+   "x": 590,
+   "y": 590
+  },
+  "wooden_figurine": {
+   "x": 786,
+   "y": 590
+  }
+ }
+}

@@ -1,0 +1,148 @@
+{
+ "meta": {
+  "version": 1,
+  "pack": "st_patricks_day",
+  "image": "atlas.webp",
+  "format": "webp",
+  "hash": "dc275b72ed",
+  "sourceHash": "49a3a0ee36b9dcbf3d9b60b65f0e6b7a2af9de22",
+  "width": 1176,
+  "height": 1176,
+  "size": 192,
+  "padding": 2,
+  "stride": 196,
+  "columns": 6,
+  "rows": 6,
+  "count": 32
+ },
+ "emojis": {
+  "clover": {
+   "x": 2,
+   "y": 2
+  },
+  "emerald_wand": {
+   "x": 198,
+   "y": 2
+  },
+  "fourleaf_clover_pin": {
+   "x": 394,
+   "y": 2
+  },
+  "glowing_mossy_stone": {
+   "x": 590,
+   "y": 2
+  },
+  "gold_coin": {
+   "x": 786,
+   "y": 2
+  },
+  "green_beer_mug": {
+   "x": 982,
+   "y": 2
+  },
+  "green_bow_tie": {
+   "x": 2,
+   "y": 198
+  },
+  "green_cauldron": {
+   "x": 198,
+   "y": 198
+  },
+  "green_garland": {
+   "x": 394,
+   "y": 198
+  },
+  "green_mug_with_shamrocks": {
+   "x": 590,
+   "y": 198
+  },
+  "green_ribbon_twig": {
+   "x": 786,
+   "y": 198
+  },
+  "green_suspenders": {
+   "x": 982,
+   "y": 198
+  },
+  "green_syrup_bottle": {
+   "x": 2,
+   "y": 394
+  },
+  "green_thread_pebble": {
+   "x": 198,
+   "y": 394
+  },
+  "green_tinted_stone": {
+   "x": 394,
+   "y": 394
+  },
+  "green_top_hat": {
+   "x": 590,
+   "y": 394
+  },
+  "horseshoe": {
+   "x": 786,
+   "y": 394
+  },
+  "irish_drum": {
+   "x": 982,
+   "y": 394
+  },
+  "leaf_paperweight": {
+   "x": 2,
+   "y": 590
+  },
+  "leprechaun_boots": {
+   "x": 198,
+   "y": 590
+  },
+  "leprechaun_figurine": {
+   "x": 394,
+   "y": 590
+  },
+  "leprechaun_hat": {
+   "x": 590,
+   "y": 590
+  },
+  "mini_harp": {
+   "x": 786,
+   "y": 590
+  },
+  "mossy_bottle_cap": {
+   "x": 982,
+   "y": 590
+  },
+  "mossy_clay_pot": {
+   "x": 2,
+   "y": 786
+  },
+  "pot_of_gold": {
+   "x": 198,
+   "y": 786
+  },
+  "rainbow": {
+   "x": 394,
+   "y": 786
+  },
+  "reed_flute": {
+   "x": 590,
+   "y": 786
+  },
+  "shamrock": {
+   "x": 786,
+   "y": 786
+  },
+  "shamrock_flute": {
+   "x": 982,
+   "y": 786
+  },
+  "shamrock_keychain": {
+   "x": 2,
+   "y": 982
+  },
+  "shamrock_lantern": {
+   "x": 198,
+   "y": 982
+  }
+ }
+}

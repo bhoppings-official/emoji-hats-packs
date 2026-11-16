@@ -1,0 +1,180 @@
+{
+ "meta": {
+  "version": 1,
+  "pack": "food",
+  "image": "atlas.webp",
+  "format": "webp",
+  "hash": "222ba9f770",
+  "sourceHash": "14d5344a741914f30a396abe873c2a5e01b9be25",
+  "width": 1372,
+  "height": 1176,
+  "size": 192,
+  "padding": 2,
+  "stride": 196,
+  "columns": 7,
+  "rows": 6,
+  "count": 40
+ },
+ "emojis": {
+  "apple_pie": {
+   "x": 2,
+   "y": 2
+  },
+  "bagel": {
+   "x": 198,
+   "y": 2
+  },
+  "banana": {
+   "x": 394,
+   "y": 2
+  },
+  "blueberry_tart": {
+   "x": 590,
+   "y": 2
+  },
+  "burrito": {
+   "x": 786,
+   "y": 2
+  },
+  "buttery_corn_pudding": {
+   "x": 982,
+   "y": 2
+  },
+  "charred_garlic_cloves": {
+   "x": 1178,
+   "y": 2
+  },
+  "charred_jalapeno_slices": {
+   "x": 2,
+   "y": 198
+  },
+  "cheddar_cheese_block": {
+   "x": 198,
+   "y": 198
+  },
+  "cherry_tomato": {
+   "x": 394,
+   "y": 198
+  },
+  "chocolate_brownie": {
+   "x": 590,
+   "y": 198
+  },
+  "chocolate_croissant": {
+   "x": 786,
+   "y": 198
+  },
+  "coconut_milk_dessert": {
+   "x": 982,
+   "y": 198
+  },
+  "creamy_avocado_mousse": {
+   "x": 1178,
+   "y": 198
+  },
+  "crisp_apple_ribbons": {
+   "x": 2,
+   "y": 394
+  },
+  "crushed_mint_leaves": {
+   "x": 198,
+   "y": 394
+  },
+  "crusty_tortilla": {
+   "x": 394,
+   "y": 394
+  },
+  "fermented_mango_chunks": {
+   "x": 590,
+   "y": 394
+  },
+  "fermented_peach_compote": {
+   "x": 786,
+   "y": 394
+  },
+  "freshly_ground_cumin_powder": {
+   "x": 982,
+   "y": 394
+  },
+  "freshly_sliced_cucumber": {
+   "x": 1178,
+   "y": 394
+  },
+  "gingerbread_cookie": {
+   "x": 2,
+   "y": 590
+  },
+  "grilled_salmon": {
+   "x": 198,
+   "y": 590
+  },
+  "grilled_zucchini": {
+   "x": 394,
+   "y": 590
+  },
+  "molten_chocolate_truffle": {
+   "x": 590,
+   "y": 590
+  },
+  "pickled_fennel_spears": {
+   "x": 786,
+   "y": 590
+  },
+  "pineapple": {
+   "x": 982,
+   "y": 590
+  },
+  "pretzel": {
+   "x": 1178,
+   "y": 590
+  },
+  "roast_turkey": {
+   "x": 2,
+   "y": 786
+  },
+  "roasted_chickpeas": {
+   "x": 198,
+   "y": 786
+  },
+  "savory_herbinfused_oil": {
+   "x": 394,
+   "y": 786
+  },
+  "sourdough_bread": {
+   "x": 590,
+   "y": 786
+  },
+  "spiced_carrot_ribbons": {
+   "x": 786,
+   "y": 786
+  },
+  "spicy_mango_salsa": {
+   "x": 982,
+   "y": 786
+  },
+  "steamed_artichoke_hearts": {
+   "x": 1178,
+   "y": 786
+  },
+  "strawberry_crumble": {
+   "x": 2,
+   "y": 982
+  },
+  "sweet_fig_jam": {
+   "x": 198,
+   "y": 982
+  },
+  "tangy_lemon_curd": {
+   "x": 394,
+   "y": 982
+  },
+  "toasted_sesame_seeds": {
+   "x": 590,
+   "y": 982
+  },
+  "wild_thyme_sprigs": {
+   "x": 786,
+   "y": 982
+  }
+ }
+}

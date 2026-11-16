@@ -1,0 +1,180 @@
+{
+ "meta": {
+  "version": 1,
+  "pack": "christmas",
+  "image": "atlas.webp",
+  "format": "webp",
+  "hash": "8a167f047a",
+  "sourceHash": "d75e8560f402676df90ce882794ba604633447b0",
+  "width": 1372,
+  "height": 1176,
+  "size": 192,
+  "padding": 2,
+  "stride": 196,
+  "columns": 7,
+  "rows": 6,
+  "count": 40
+ },
+ "emojis": {
+  "bell": {
+   "x": 2,
+   "y": 2
+  },
+  "boot": {
+   "x": 198,
+   "y": 2
+  },
+  "bottle": {
+   "x": 394,
+   "y": 2
+  },
+  "candle": {
+   "x": 590,
+   "y": 2
+  },
+  "candy_cane": {
+   "x": 786,
+   "y": 2
+  },
+  "christmas_lights": {
+   "x": 982,
+   "y": 2
+  },
+  "christmas_tree": {
+   "x": 1178,
+   "y": 2
+  },
+  "christmas_village": {
+   "x": 2,
+   "y": 198
+  },
+  "clock": {
+   "x": 198,
+   "y": 198
+  },
+  "cookie": {
+   "x": 394,
+   "y": 198
+  },
+  "feather": {
+   "x": 590,
+   "y": 198
+  },
+  "fireplace": {
+   "x": 786,
+   "y": 198
+  },
+  "frost_trail": {
+   "x": 982,
+   "y": 198
+  },
+  "frost_trail_2": {
+   "x": 1178,
+   "y": 198
+  },
+  "garland": {
+   "x": 2,
+   "y": 394
+  },
+  "gingerbread_house": {
+   "x": 198,
+   "y": 394
+  },
+  "hat": {
+   "x": 394,
+   "y": 394
+  },
+  "holly": {
+   "x": 590,
+   "y": 394
+  },
+  "lantern": {
+   "x": 786,
+   "y": 394
+  },
+  "mittens": {
+   "x": 982,
+   "y": 394
+  },
+  "nutcracker": {
+   "x": 1178,
+   "y": 394
+  },
+  "ornament": {
+   "x": 2,
+   "y": 590
+  },
+  "pinecone": {
+   "x": 198,
+   "y": 590
+  },
+  "present": {
+   "x": 394,
+   "y": 590
+  },
+  "reindeer": {
+   "x": 590,
+   "y": 590
+  },
+  "rope": {
+   "x": 786,
+   "y": 590
+  },
+  "santa_figurine": {
+   "x": 982,
+   "y": 590
+  },
+  "scarf": {
+   "x": 1178,
+   "y": 590
+  },
+  "sled": {
+   "x": 2,
+   "y": 786
+  },
+  "sled_runner": {
+   "x": 198,
+   "y": 786
+  },
+  "snow_globe": {
+   "x": 394,
+   "y": 786
+  },
+  "snowdrift": {
+   "x": 590,
+   "y": 786
+  },
+  "snowflake": {
+   "x": 786,
+   "y": 786
+  },
+  "snowman": {
+   "x": 982,
+   "y": 786
+  },
+  "stocking": {
+   "x": 1178,
+   "y": 786
+  },
+  "toy_soldier": {
+   "x": 2,
+   "y": 982
+  },
+  "tree_topper": {
+   "x": 198,
+   "y": 982
+  },
+  "wooden_sleigh": {
+   "x": 394,
+   "y": 982
+  },
+  "wrapping_paper": {
+   "x": 590,
+   "y": 982
+  },
+  "wreath": {
+   "x": 786,
+   "y": 982
+  }
+ }
+}

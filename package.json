@@ -1,0 +1,11 @@
+{
+  "name": "emoji-hats-packs",
+  "private": true,
+  "scripts": {
+    "build": "node build-atlas.cjs",
+    "build:force": "node build-atlas.cjs --force"
+  },
+  "dependencies": {
+    "sharp": "^0.35.5"
+  }
+}

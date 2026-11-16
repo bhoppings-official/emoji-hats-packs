@@ -1,0 +1,196 @@
+{
+ "meta": {
+  "version": 1,
+  "pack": "birthday",
+  "image": "atlas.webp",
+  "format": "webp",
+  "hash": "00cedff310",
+  "sourceHash": "df51398ab007608f3e27a57ca8f5c77036476ce4",
+  "width": 1372,
+  "height": 1372,
+  "size": 192,
+  "padding": 2,
+  "stride": 196,
+  "columns": 7,
+  "rows": 7,
+  "count": 44
+ },
+ "emojis": {
+  "balloon": {
+   "x": 2,
+   "y": 2
+  },
+  "balloon_pump": {
+   "x": 198,
+   "y": 2
+  },
+  "bell": {
+   "x": 394,
+   "y": 2
+  },
+  "birthday": {
+   "x": 590,
+   "y": 2
+  },
+  "birthday_balloon_weight": {
+   "x": 786,
+   "y": 2
+  },
+  "birthday_banner": {
+   "x": 982,
+   "y": 2
+  },
+  "birthday_candle_holder": {
+   "x": 1178,
+   "y": 2
+  },
+  "birthday_card": {
+   "x": 2,
+   "y": 198
+  },
+  "birthday_centerpiece": {
+   "x": 198,
+   "y": 198
+  },
+  "birthday_chair": {
+   "x": 394,
+   "y": 198
+  },
+  "birthday_crown": {
+   "x": 590,
+   "y": 198
+  },
+  "birthday_cupcake_stand": {
+   "x": 786,
+   "y": 198
+  },
+  "birthday_figurine": {
+   "x": 982,
+   "y": 198
+  },
+  "birthday_garland": {
+   "x": 1178,
+   "y": 198
+  },
+  "birthday_mug": {
+   "x": 2,
+   "y": 394
+  },
+  "birthday_pillow": {
+   "x": 198,
+   "y": 394
+  },
+  "birthday_plate": {
+   "x": 394,
+   "y": 394
+  },
+  "birthday_sign": {
+   "x": 590,
+   "y": 394
+  },
+  "birthday_tablecloth": {
+   "x": 786,
+   "y": 394
+  },
+  "birthday_tiara": {
+   "x": 982,
+   "y": 394
+  },
+  "book": {
+   "x": 1178,
+   "y": 394
+  },
+  "bookmark_2": {
+   "x": 2,
+   "y": 590
+  },
+  "bunting": {
+   "x": 198,
+   "y": 590
+  },
+  "cake": {
+   "x": 394,
+   "y": 590
+  },
+  "cake_topper": {
+   "x": 590,
+   "y": 590
+  },
+  "candle": {
+   "x": 786,
+   "y": 590
+  },
+  "confetti": {
+   "x": 982,
+   "y": 590
+  },
+  "cup": {
+   "x": 1178,
+   "y": 590
+  },
+  "cupcake": {
+   "x": 2,
+   "y": 786
+  },
+  "flower": {
+   "x": 198,
+   "y": 786
+  },
+  "gift": {
+   "x": 394,
+   "y": 786
+  },
+  "hat": {
+   "x": 590,
+   "y": 786
+  },
+  "music_box": {
+   "x": 786,
+   "y": 786
+  },
+  "necklace": {
+   "x": 982,
+   "y": 786
+  },
+  "party_blower": {
+   "x": 1178,
+   "y": 786
+  },
+  "party_favor_bag": {
+   "x": 2,
+   "y": 982
+  },
+  "party_horn": {
+   "x": 198,
+   "y": 982
+  },
+  "party_popper": {
+   "x": 394,
+   "y": 982
+  },
+  "photo_frame": {
+   "x": 590,
+   "y": 982
+  },
+  "pinata": {
+   "x": 786,
+   "y": 982
+  },
+  "present_box": {
+   "x": 982,
+   "y": 982
+  },
+  "ribbon": {
+   "x": 1178,
+   "y": 982
+  },
+  "streamer": {
+   "x": 2,
+   "y": 1178
+  },
+  "toy": {
+   "x": 198,
+   "y": 1178
+  }
+ }
+}

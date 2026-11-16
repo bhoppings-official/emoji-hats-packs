@@ -1,0 +1,180 @@
+{
+ "meta": {
+  "version": 1,
+  "pack": "containers",
+  "image": "atlas.webp",
+  "format": "webp",
+  "hash": "3d160879b5",
+  "sourceHash": "7c3373b484536178eaba48fa7f7197ab9d8e14ca",
+  "width": 1372,
+  "height": 1176,
+  "size": 192,
+  "padding": 2,
+  "stride": 196,
+  "columns": 7,
+  "rows": 6,
+  "count": 40
+ },
+ "emojis": {
+  "aluminum_can": {
+   "x": 2,
+   "y": 2
+  },
+  "brass_urn": {
+   "x": 198,
+   "y": 2
+  },
+  "bronze_amphora": {
+   "x": 394,
+   "y": 2
+  },
+  "canvas_duffel": {
+   "x": 590,
+   "y": 2
+  },
+  "cardboard_box": {
+   "x": 786,
+   "y": 2
+  },
+  "ceramic_jug": {
+   "x": 982,
+   "y": 2
+  },
+  "ceramic_pot": {
+   "x": 1178,
+   "y": 2
+  },
+  "clay_vessel": {
+   "x": 2,
+   "y": 198
+  },
+  "copper_kettle": {
+   "x": 198,
+   "y": 198
+  },
+  "fabric_tote": {
+   "x": 394,
+   "y": 198
+  },
+  "glass_jar": {
+   "x": 590,
+   "y": 198
+  },
+  "glass_tube": {
+   "x": 786,
+   "y": 198
+  },
+  "glass_vial": {
+   "x": 982,
+   "y": 198
+  },
+  "iron_lockbox": {
+   "x": 1178,
+   "y": 198
+  },
+  "lacquered_casket": {
+   "x": 2,
+   "y": 394
+  },
+  "leather_case": {
+   "x": 198,
+   "y": 394
+  },
+  "metal_canister": {
+   "x": 394,
+   "y": 394
+  },
+  "metal_flask": {
+   "x": 590,
+   "y": 394
+  },
+  "metal_toolbox": {
+   "x": 786,
+   "y": 394
+  },
+  "oak_barrel": {
+   "x": 982,
+   "y": 394
+  },
+  "paper_envelope": {
+   "x": 1178,
+   "y": 394
+  },
+  "plastic_barrel": {
+   "x": 2,
+   "y": 590
+  },
+  "plastic_bucket": {
+   "x": 198,
+   "y": 590
+  },
+  "plastic_container": {
+   "x": 394,
+   "y": 590
+  },
+  "plastic_tub": {
+   "x": 590,
+   "y": 590
+  },
+  "porcelain_canister": {
+   "x": 786,
+   "y": 590
+  },
+  "rubber_bin": {
+   "x": 982,
+   "y": 590
+  },
+  "silicone_pouch": {
+   "x": 1178,
+   "y": 590
+  },
+  "steel_canteen": {
+   "x": 2,
+   "y": 786
+  },
+  "steel_drum": {
+   "x": 198,
+   "y": 786
+  },
+  "stone_chest": {
+   "x": 394,
+   "y": 786
+  },
+  "stone_pouch": {
+   "x": 590,
+   "y": 786
+  },
+  "straw_container": {
+   "x": 786,
+   "y": 786
+  },
+  "tin_shell": {
+   "x": 982,
+   "y": 786
+  },
+  "wicker_basket": {
+   "x": 1178,
+   "y": 786
+  },
+  "wooden_box": {
+   "x": 2,
+   "y": 982
+  },
+  "wooden_crate": {
+   "x": 198,
+   "y": 982
+  },
+  "woven_bag": {
+   "x": 394,
+   "y": 982
+  },
+  "woven_pouch": {
+   "x": 590,
+   "y": 982
+  },
+  "woven_sack": {
+   "x": 786,
+   "y": 982
+  }
+ }
+}

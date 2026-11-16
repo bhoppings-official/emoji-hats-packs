@@ -1,0 +1,180 @@
+{
+ "meta": {
+  "version": 1,
+  "pack": "hobbies",
+  "image": "atlas.webp",
+  "format": "webp",
+  "hash": "070aeb611a",
+  "sourceHash": "4f7d2ff809fb97b1ac45fd997a81dc6ca080c35d",
+  "width": 1372,
+  "height": 1176,
+  "size": 192,
+  "padding": 2,
+  "stride": 196,
+  "columns": 7,
+  "rows": 6,
+  "count": 40
+ },
+ "emojis": {
+  "accordion": {
+   "x": 2,
+   "y": 2
+  },
+  "airbrush": {
+   "x": 198,
+   "y": 2
+  },
+  "beater_2": {
+   "x": 394,
+   "y": 2
+  },
+  "binoculars": {
+   "x": 590,
+   "y": 2
+  },
+  "birdhouse": {
+   "x": 786,
+   "y": 2
+  },
+  "camera_tripod": {
+   "x": 982,
+   "y": 2
+  },
+  "chessboard": {
+   "x": 1178,
+   "y": 2
+  },
+  "compass": {
+   "x": 2,
+   "y": 198
+  },
+  "crochet_ball": {
+   "x": 198,
+   "y": 198
+  },
+  "dartboard": {
+   "x": 394,
+   "y": 198
+  },
+  "drum_set": {
+   "x": 590,
+   "y": 198
+  },
+  "easel": {
+   "x": 786,
+   "y": 198
+  },
+  "fishing_net": {
+   "x": 982,
+   "y": 198
+  },
+  "fishing_rod": {
+   "x": 1178,
+   "y": 198
+  },
+  "flashlight": {
+   "x": 2,
+   "y": 394
+  },
+  "garden_trowel": {
+   "x": 198,
+   "y": 394
+  },
+  "gardening_gloves": {
+   "x": 394,
+   "y": 394
+  },
+  "guitar": {
+   "x": 590,
+   "y": 394
+  },
+  "harp": {
+   "x": 786,
+   "y": 394
+  },
+  "juggling_clubs": {
+   "x": 982,
+   "y": 394
+  },
+  "kayak": {
+   "x": 1178,
+   "y": 394
+  },
+  "knitting_needles": {
+   "x": 2,
+   "y": 590
+  },
+  "longboard": {
+   "x": 198,
+   "y": 590
+  },
+  "microscope": {
+   "x": 394,
+   "y": 590
+  },
+  "model_train": {
+   "x": 590,
+   "y": 590
+  },
+  "origami_paper": {
+   "x": 786,
+   "y": 590
+  },
+  "paintbrush": {
+   "x": 982,
+   "y": 590
+  },
+  "pottery_wheel": {
+   "x": 1178,
+   "y": 590
+  },
+  "roller_skates": {
+   "x": 2,
+   "y": 786
+  },
+  "scrapbook": {
+   "x": 198,
+   "y": 786
+  },
+  "scuba_fins": {
+   "x": 394,
+   "y": 786
+  },
+  "sewing_machine": {
+   "x": 590,
+   "y": 786
+  },
+  "sketchpad": {
+   "x": 786,
+   "y": 786
+  },
+  "sketchpad_4": {
+   "x": 982,
+   "y": 786
+  },
+  "soccer_ball": {
+   "x": 1178,
+   "y": 786
+  },
+  "stamp_album": {
+   "x": 2,
+   "y": 982
+  },
+  "table_tennis_paddle": {
+   "x": 198,
+   "y": 982
+  },
+  "telescope": {
+   "x": 394,
+   "y": 982
+  },
+  "wooden_spoon": {
+   "x": 590,
+   "y": 982
+  },
+  "yoyo": {
+   "x": 786,
+   "y": 982
+  }
+ }
+}

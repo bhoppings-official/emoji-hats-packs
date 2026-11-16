@@ -1,0 +1,180 @@
+{
+ "meta": {
+  "version": 1,
+  "pack": "toys",
+  "image": "atlas.webp",
+  "format": "webp",
+  "hash": "02613344e9",
+  "sourceHash": "398436bb0cc947dee86a17360459ff533c161b31",
+  "width": 1372,
+  "height": 1176,
+  "size": 192,
+  "padding": 2,
+  "stride": 196,
+  "columns": 7,
+  "rows": 6,
+  "count": 40
+ },
+ "emojis": {
+  "action_figure": {
+   "x": 2,
+   "y": 2
+  },
+  "balloon_animal": {
+   "x": 198,
+   "y": 2
+  },
+  "balloon_animal_2": {
+   "x": 394,
+   "y": 2
+  },
+  "building_blocks": {
+   "x": 590,
+   "y": 2
+  },
+  "car_toy_2": {
+   "x": 786,
+   "y": 2
+  },
+  "carrot_puppet_2": {
+   "x": 982,
+   "y": 2
+  },
+  "doll": {
+   "x": 1178,
+   "y": 2
+  },
+  "fishing_rod": {
+   "x": 2,
+   "y": 198
+  },
+  "jump_rope": {
+   "x": 198,
+   "y": 198
+  },
+  "marble_maze": {
+   "x": 394,
+   "y": 198
+  },
+  "puzzle_box_2": {
+   "x": 590,
+   "y": 198
+  },
+  "puzzle_cube": {
+   "x": 786,
+   "y": 198
+  },
+  "puzzle_ring": {
+   "x": 982,
+   "y": 198
+  },
+  "puzzle_ring_2": {
+   "x": 1178,
+   "y": 198
+  },
+  "rc_race_car": {
+   "x": 2,
+   "y": 394
+  },
+  "remote_control": {
+   "x": 198,
+   "y": 394
+  },
+  "remote_control_2": {
+   "x": 394,
+   "y": 394
+  },
+  "rope_toy": {
+   "x": 590,
+   "y": 394
+  },
+  "rubber_duck": {
+   "x": 786,
+   "y": 394
+  },
+  "spinning_top": {
+   "x": 982,
+   "y": 394
+  },
+  "stuffed_dinosaur": {
+   "x": 1178,
+   "y": 394
+  },
+  "stuffed_fox_2": {
+   "x": 2,
+   "y": 590
+  },
+  "teddy_bear": {
+   "x": 198,
+   "y": 590
+  },
+  "toy_airplane": {
+   "x": 394,
+   "y": 590
+  },
+  "toy_boat": {
+   "x": 590,
+   "y": 590
+  },
+  "toy_car": {
+   "x": 786,
+   "y": 590
+  },
+  "toy_castle": {
+   "x": 982,
+   "y": 590
+  },
+  "toy_crane": {
+   "x": 1178,
+   "y": 590
+  },
+  "toy_drum": {
+   "x": 2,
+   "y": 786
+  },
+  "toy_hat": {
+   "x": 198,
+   "y": 786
+  },
+  "toy_hat_2": {
+   "x": 394,
+   "y": 786
+  },
+  "toy_helicopter": {
+   "x": 590,
+   "y": 786
+  },
+  "toy_piano": {
+   "x": 786,
+   "y": 786
+  },
+  "toy_robot": {
+   "x": 982,
+   "y": 786
+  },
+  "toy_submarine": {
+   "x": 1178,
+   "y": 786
+  },
+  "toy_sword_2": {
+   "x": 2,
+   "y": 982
+  },
+  "toy_truck": {
+   "x": 198,
+   "y": 982
+  },
+  "train_set": {
+   "x": 394,
+   "y": 982
+  },
+  "water_gun": {
+   "x": 590,
+   "y": 982
+  },
+  "yoyo": {
+   "x": 786,
+   "y": 982
+  }
+ }
+}

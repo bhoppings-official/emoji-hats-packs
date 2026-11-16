@@ -1,0 +1,180 @@
+{
+ "meta": {
+  "version": 1,
+  "pack": "new_years",
+  "image": "atlas.webp",
+  "format": "webp",
+  "hash": "f92da9ce66",
+  "sourceHash": "52458578cbff0ea987c1644cbc0ca9d2e6731d68",
+  "width": 1372,
+  "height": 1176,
+  "size": 192,
+  "padding": 2,
+  "stride": 196,
+  "columns": 7,
+  "rows": 6,
+  "count": 40
+ },
+ "emojis": {
+  "ball_drop_timer": {
+   "x": 2,
+   "y": 2
+  },
+  "balloon": {
+   "x": 198,
+   "y": 2
+  },
+  "calendar": {
+   "x": 394,
+   "y": 2
+  },
+  "candle_2": {
+   "x": 590,
+   "y": 2
+  },
+  "champagne_bottle": {
+   "x": 786,
+   "y": 2
+  },
+  "champagne_bucket": {
+   "x": 982,
+   "y": 2
+  },
+  "champagne_cork": {
+   "x": 1178,
+   "y": 2
+  },
+  "champagne_flute": {
+   "x": 2,
+   "y": 198
+  },
+  "confetti_cannon": {
+   "x": 198,
+   "y": 198
+  },
+  "confetti_cone": {
+   "x": 394,
+   "y": 198
+  },
+  "confetti_popper": {
+   "x": 590,
+   "y": 198
+  },
+  "confetti_streamer": {
+   "x": 786,
+   "y": 198
+  },
+  "confetti_wand": {
+   "x": 982,
+   "y": 198
+  },
+  "countdown_clock": {
+   "x": 1178,
+   "y": 198
+  },
+  "disco_ball": {
+   "x": 2,
+   "y": 394
+  },
+  "firecracker": {
+   "x": 198,
+   "y": 394
+  },
+  "firework_rocket": {
+   "x": 394,
+   "y": 394
+  },
+  "fortune_cookie": {
+   "x": 590,
+   "y": 394
+  },
+  "glasses": {
+   "x": 786,
+   "y": 394
+  },
+  "hat_2": {
+   "x": 982,
+   "y": 394
+  },
+  "hat_4": {
+   "x": 1178,
+   "y": 394
+  },
+  "hourglass": {
+   "x": 2,
+   "y": 590
+  },
+  "lantern_string": {
+   "x": 198,
+   "y": 590
+  },
+  "mittens_3": {
+   "x": 394,
+   "y": 590
+  },
+  "new_year_banner": {
+   "x": 590,
+   "y": 590
+  },
+  "noisemaker": {
+   "x": 786,
+   "y": 590
+  },
+  "paper_fan": {
+   "x": 982,
+   "y": 590
+  },
+  "party_blower": {
+   "x": 1178,
+   "y": 590
+  },
+  "party_hat_3": {
+   "x": 2,
+   "y": 786
+  },
+  "party_hat_4": {
+   "x": 198,
+   "y": 786
+  },
+  "party_horn": {
+   "x": 394,
+   "y": 786
+  },
+  "reindeer_antler": {
+   "x": 590,
+   "y": 786
+  },
+  "scarf": {
+   "x": 786,
+   "y": 786
+  },
+  "scarf_2": {
+   "x": 982,
+   "y": 786
+  },
+  "snow_globe_3": {
+   "x": 1178,
+   "y": 786
+  },
+  "sparkler": {
+   "x": 2,
+   "y": 982
+  },
+  "streamer": {
+   "x": 198,
+   "y": 982
+  },
+  "streamer_wand": {
+   "x": 394,
+   "y": 982
+  },
+  "table_centerpiece": {
+   "x": 590,
+   "y": 982
+  },
+  "tiara": {
+   "x": 786,
+   "y": 982
+  }
+ }
+}

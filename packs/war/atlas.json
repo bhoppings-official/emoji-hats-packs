@@ -1,0 +1,104 @@
+{
+ "meta": {
+  "version": 1,
+  "pack": "war",
+  "image": "atlas.webp",
+  "format": "webp",
+  "hash": "f1087af3bb",
+  "sourceHash": "240aec65fce0dced7314e0f9d9a84c32ad332753",
+  "width": 980,
+  "height": 980,
+  "size": 192,
+  "padding": 2,
+  "stride": 196,
+  "columns": 5,
+  "rows": 5,
+  "count": 21
+ },
+ "emojis": {
+  "ballista": {
+   "x": 2,
+   "y": 2
+  },
+  "battleaxe": {
+   "x": 198,
+   "y": 2
+  },
+  "bayonet": {
+   "x": 394,
+   "y": 2
+  },
+  "catapult": {
+   "x": 590,
+   "y": 2
+  },
+  "chariot": {
+   "x": 786,
+   "y": 2
+  },
+  "combat_boots": {
+   "x": 2,
+   "y": 198
+  },
+  "crossbow": {
+   "x": 198,
+   "y": 198
+  },
+  "grenade": {
+   "x": 394,
+   "y": 198
+  },
+  "helmet": {
+   "x": 590,
+   "y": 198
+  },
+  "howitzer": {
+   "x": 786,
+   "y": 198
+  },
+  "landmine": {
+   "x": 2,
+   "y": 394
+  },
+  "machine_gun": {
+   "x": 198,
+   "y": 394
+  },
+  "mortar": {
+   "x": 394,
+   "y": 394
+  },
+  "rifle": {
+   "x": 590,
+   "y": 394
+  },
+  "shield": {
+   "x": 786,
+   "y": 394
+  },
+  "speartip": {
+   "x": 2,
+   "y": 590
+  },
+  "sword": {
+   "x": 198,
+   "y": 590
+  },
+  "tank": {
+   "x": 394,
+   "y": 590
+  },
+  "torpedo": {
+   "x": 590,
+   "y": 590
+  },
+  "trenchknife": {
+   "x": 786,
+   "y": 590
+  },
+  "warship": {
+   "x": 2,
+   "y": 786
+  }
+ }
+}

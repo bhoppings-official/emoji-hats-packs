@@ -1,0 +1,180 @@
+{
+ "meta": {
+  "version": 1,
+  "pack": "thanksgiving",
+  "image": "atlas.webp",
+  "format": "webp",
+  "hash": "cf5392ed48",
+  "sourceHash": "cd3eac4fcb418100221f14fd8ad714919110ed93",
+  "width": 1372,
+  "height": 1176,
+  "size": 192,
+  "padding": 2,
+  "stride": 196,
+  "columns": 7,
+  "rows": 6,
+  "count": 40
+ },
+ "emojis": {
+  "acorn": {
+   "x": 2,
+   "y": 2
+  },
+  "autumn_blanket": {
+   "x": 198,
+   "y": 2
+  },
+  "basket": {
+   "x": 394,
+   "y": 2
+  },
+  "blanket": {
+   "x": 590,
+   "y": 2
+  },
+  "blanket_2": {
+   "x": 786,
+   "y": 2
+  },
+  "bottle": {
+   "x": 982,
+   "y": 2
+  },
+  "bread": {
+   "x": 1178,
+   "y": 2
+  },
+  "butter_dish": {
+   "x": 2,
+   "y": 198
+  },
+  "candle": {
+   "x": 198,
+   "y": 198
+  },
+  "carving_knife": {
+   "x": 394,
+   "y": 198
+  },
+  "cinnamon_stick": {
+   "x": 590,
+   "y": 198
+  },
+  "cloth": {
+   "x": 786,
+   "y": 198
+  },
+  "corn_cob": {
+   "x": 982,
+   "y": 198
+  },
+  "cornucopia": {
+   "x": 1178,
+   "y": 198
+  },
+  "cranberry_sauce_dish": {
+   "x": 2,
+   "y": 394
+  },
+  "feather": {
+   "x": 198,
+   "y": 394
+  },
+  "firestarter": {
+   "x": 394,
+   "y": 394
+  },
+  "gravy_boat": {
+   "x": 590,
+   "y": 394
+  },
+  "jar": {
+   "x": 786,
+   "y": 394
+  },
+  "leaf": {
+   "x": 982,
+   "y": 394
+  },
+  "mashed_potato_bowl": {
+   "x": 1178,
+   "y": 394
+  },
+  "napkin": {
+   "x": 2,
+   "y": 590
+  },
+  "pecan_pie": {
+   "x": 198,
+   "y": 590
+  },
+  "pie_server": {
+   "x": 394,
+   "y": 590
+  },
+  "pilgrim_hat": {
+   "x": 590,
+   "y": 590
+  },
+  "pot": {
+   "x": 786,
+   "y": 590
+  },
+  "pumpkin": {
+   "x": 982,
+   "y": 590
+  },
+  "pumpkin_carving_tools": {
+   "x": 1178,
+   "y": 590
+  },
+  "pumpkin_pie": {
+   "x": 2,
+   "y": 786
+  },
+  "roasting_fork": {
+   "x": 198,
+   "y": 786
+  },
+  "roasting_pan": {
+   "x": 394,
+   "y": 786
+  },
+  "scarf": {
+   "x": 590,
+   "y": 786
+  },
+  "spice": {
+   "x": 786,
+   "y": 786
+  },
+  "spoon": {
+   "x": 982,
+   "y": 786
+  },
+  "stuffing": {
+   "x": 1178,
+   "y": 786
+  },
+  "table_centerpiece": {
+   "x": 2,
+   "y": 982
+  },
+  "turkey": {
+   "x": 198,
+   "y": 982
+  },
+  "turkey_baster": {
+   "x": 394,
+   "y": 982
+  },
+  "twig": {
+   "x": 590,
+   "y": 982
+  },
+  "wishbone": {
+   "x": 786,
+   "y": 982
+  }
+ }
+}

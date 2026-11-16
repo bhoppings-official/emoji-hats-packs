@@ -1,0 +1,180 @@
+{
+ "meta": {
+  "version": 1,
+  "pack": "environmental",
+  "image": "atlas.webp",
+  "format": "webp",
+  "hash": "6bcf76247f",
+  "sourceHash": "87a703b99fc46cb4af12c09e7fdb0933275d01fb",
+  "width": 1372,
+  "height": 1176,
+  "size": 192,
+  "padding": 2,
+  "stride": 196,
+  "columns": 7,
+  "rows": 6,
+  "count": 40
+ },
+ "emojis": {
+  "air_quality_monitor": {
+   "x": 2,
+   "y": 2
+  },
+  "bamboo": {
+   "x": 198,
+   "y": 2
+  },
+  "bat_house": {
+   "x": 394,
+   "y": 2
+  },
+  "beehive": {
+   "x": 590,
+   "y": 2
+  },
+  "bird_nest": {
+   "x": 786,
+   "y": 2
+  },
+  "birdhouse": {
+   "x": 982,
+   "y": 2
+  },
+  "compost_bin": {
+   "x": 1178,
+   "y": 2
+  },
+  "compost_tumbler": {
+   "x": 2,
+   "y": 198
+  },
+  "coral_fragment": {
+   "x": 198,
+   "y": 198
+  },
+  "dam_structure": {
+   "x": 394,
+   "y": 198
+  },
+  "erosion_control_mat": {
+   "x": 590,
+   "y": 198
+  },
+  "fallen_branch": {
+   "x": 786,
+   "y": 198
+  },
+  "fossil": {
+   "x": 982,
+   "y": 198
+  },
+  "garden_hose": {
+   "x": 1178,
+   "y": 198
+  },
+  "geothermal_vent": {
+   "x": 2,
+   "y": 394
+  },
+  "greenhouse": {
+   "x": 198,
+   "y": 394
+  },
+  "hedgerow": {
+   "x": 394,
+   "y": 394
+  },
+  "leaf_litter": {
+   "x": 590,
+   "y": 394
+  },
+  "log_pile": {
+   "x": 786,
+   "y": 394
+  },
+  "moss": {
+   "x": 982,
+   "y": 394
+  },
+  "mudflats": {
+   "x": 1178,
+   "y": 394
+  },
+  "nesting_box": {
+   "x": 2,
+   "y": 590
+  },
+  "pollutant": {
+   "x": 198,
+   "y": 590
+  },
+  "rain_barrel": {
+   "x": 394,
+   "y": 590
+  },
+  "rain_gauge": {
+   "x": 590,
+   "y": 590
+  },
+  "rainforest_canopy": {
+   "x": 786,
+   "y": 590
+  },
+  "recycling_bin": {
+   "x": 982,
+   "y": 590
+  },
+  "sapling": {
+   "x": 1178,
+   "y": 590
+  },
+  "soil_microbe": {
+   "x": 2,
+   "y": 786
+  },
+  "solar_panel": {
+   "x": 198,
+   "y": 786
+  },
+  "tree_root": {
+   "x": 394,
+   "y": 786
+  },
+  "tree_stump": {
+   "x": 590,
+   "y": 786
+  },
+  "water_filter": {
+   "x": 786,
+   "y": 786
+  },
+  "watering_can": {
+   "x": 982,
+   "y": 786
+  },
+  "watering_trough": {
+   "x": 1178,
+   "y": 786
+  },
+  "weather_vane": {
+   "x": 2,
+   "y": 982
+  },
+  "wetland_boardwalk": {
+   "x": 198,
+   "y": 982
+  },
+  "wind_chime": {
+   "x": 394,
+   "y": 982
+  },
+  "wind_sock": {
+   "x": 590,
+   "y": 982
+  },
+  "wind_turbine": {
+   "x": 786,
+   "y": 982
+  }
+ }
+}

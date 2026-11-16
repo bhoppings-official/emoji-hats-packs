@@ -1,0 +1,180 @@
+{
+ "meta": {
+  "version": 1,
+  "pack": "gaming",
+  "image": "atlas.webp",
+  "format": "webp",
+  "hash": "a91fb1e056",
+  "sourceHash": "52bf9021dde30934e24a5ee9c8836ead8d9643e1",
+  "width": 1372,
+  "height": 1176,
+  "size": 192,
+  "padding": 2,
+  "stride": 196,
+  "columns": 7,
+  "rows": 6,
+  "count": 40
+ },
+ "emojis": {
+  "arcade_cabinet": {
+   "x": 2,
+   "y": 2
+  },
+  "console": {
+   "x": 198,
+   "y": 2
+  },
+  "controller": {
+   "x": 394,
+   "y": 2
+  },
+  "game_cartridge": {
+   "x": 590,
+   "y": 2
+  },
+  "game_disc": {
+   "x": 786,
+   "y": 2
+  },
+  "gaming_capture_card": {
+   "x": 982,
+   "y": 2
+  },
+  "gaming_chair": {
+   "x": 1178,
+   "y": 2
+  },
+  "gaming_console_stand": {
+   "x": 2,
+   "y": 198
+  },
+  "gaming_controller_charging_dock": {
+   "x": 198,
+   "y": 198
+  },
+  "gaming_desk": {
+   "x": 394,
+   "y": 198
+  },
+  "gaming_desk_mat": {
+   "x": 590,
+   "y": 198
+  },
+  "gaming_dice": {
+   "x": 786,
+   "y": 198
+  },
+  "gaming_figurine": {
+   "x": 982,
+   "y": 198
+  },
+  "gaming_figurine_display_case": {
+   "x": 1178,
+   "y": 198
+  },
+  "gaming_handheld": {
+   "x": 2,
+   "y": 394
+  },
+  "gaming_headset": {
+   "x": 198,
+   "y": 394
+  },
+  "gaming_headset_holder": {
+   "x": 394,
+   "y": 394
+  },
+  "gaming_headset_stand": {
+   "x": 590,
+   "y": 394
+  },
+  "gaming_keyboard": {
+   "x": 786,
+   "y": 394
+  },
+  "gaming_keyboard_wrist_rest": {
+   "x": 982,
+   "y": 394
+  },
+  "gaming_laptop": {
+   "x": 1178,
+   "y": 394
+  },
+  "gaming_locker": {
+   "x": 2,
+   "y": 590
+  },
+  "gaming_monitor": {
+   "x": 198,
+   "y": 590
+  },
+  "gaming_mouse": {
+   "x": 394,
+   "y": 590
+  },
+  "gaming_mouse_pad": {
+   "x": 590,
+   "y": 590
+  },
+  "gaming_projector": {
+   "x": 786,
+   "y": 590
+  },
+  "gaming_router": {
+   "x": 982,
+   "y": 590
+  },
+  "gaming_sd_card": {
+   "x": 1178,
+   "y": 590
+  },
+  "gaming_shelf": {
+   "x": 2,
+   "y": 786
+  },
+  "gaming_speaker": {
+   "x": 198,
+   "y": 786
+  },
+  "gaming_steering_wheel": {
+   "x": 394,
+   "y": 786
+  },
+  "gaming_thumb_grip": {
+   "x": 590,
+   "y": 786
+  },
+  "gaming_token": {
+   "x": 786,
+   "y": 786
+  },
+  "gaming_tower_pc": {
+   "x": 982,
+   "y": 786
+  },
+  "joystick": {
+   "x": 1178,
+   "y": 786
+  },
+  "kinetic_dice_tower": {
+   "x": 2,
+   "y": 982
+  },
+  "laser_dart_launcher": {
+   "x": 198,
+   "y": 982
+  },
+  "soundwave_grenade": {
+   "x": 394,
+   "y": 982
+  },
+  "ticking_clock_charm": {
+   "x": 590,
+   "y": 982
+  },
+  "vr_headset": {
+   "x": 786,
+   "y": 982
+  }
+ }
+}

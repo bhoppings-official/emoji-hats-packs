@@ -1,0 +1,144 @@
+{
+ "meta": {
+  "version": 1,
+  "pack": "nature",
+  "image": "atlas.webp",
+  "format": "webp",
+  "hash": "f43a8bff99",
+  "sourceHash": "5d3c98af28f969707f3984d8395243550f4711e5",
+  "width": 1176,
+  "height": 1176,
+  "size": 192,
+  "padding": 2,
+  "stride": 196,
+  "columns": 6,
+  "rows": 6,
+  "count": 31
+ },
+ "emojis": {
+  "acorn": {
+   "x": 2,
+   "y": 2
+  },
+  "bark_fragment": {
+   "x": 198,
+   "y": 2
+  },
+  "bumpy_log": {
+   "x": 394,
+   "y": 2
+  },
+  "cactus_spine": {
+   "x": 590,
+   "y": 2
+  },
+  "caterpillar": {
+   "x": 786,
+   "y": 2
+  },
+  "cracked_shell": {
+   "x": 982,
+   "y": 2
+  },
+  "curved_leaf": {
+   "x": 2,
+   "y": 198
+  },
+  "damp_root": {
+   "x": 198,
+   "y": 198
+  },
+  "dewkissed_blade": {
+   "x": 394,
+   "y": 198
+  },
+  "driftwood": {
+   "x": 590,
+   "y": 198
+  },
+  "fern_frond": {
+   "x": 786,
+   "y": 198
+  },
+  "fuzzy_bloom": {
+   "x": 982,
+   "y": 198
+  },
+  "glistening_lichen": {
+   "x": 2,
+   "y": 394
+  },
+  "hidden_frond": {
+   "x": 198,
+   "y": 394
+  },
+  "hollow_stem": {
+   "x": 394,
+   "y": 394
+  },
+  "lichen": {
+   "x": 590,
+   "y": 394
+  },
+  "morning_dew": {
+   "x": 786,
+   "y": 394
+  },
+  "moss": {
+   "x": 982,
+   "y": 394
+  },
+  "mossy_root": {
+   "x": 2,
+   "y": 590
+  },
+  "oak_leaf": {
+   "x": 198,
+   "y": 590
+  },
+  "pinecone": {
+   "x": 394,
+   "y": 590
+  },
+  "river_stone": {
+   "x": 590,
+   "y": 590
+  },
+  "sand_dune": {
+   "x": 786,
+   "y": 590
+  },
+  "shadowed_petal": {
+   "x": 982,
+   "y": 590
+  },
+  "silken_thread": {
+   "x": 2,
+   "y": 786
+  },
+  "stinging_pod": {
+   "x": 198,
+   "y": 786
+  },
+  "twisted_root": {
+   "x": 394,
+   "y": 786
+  },
+  "twisted_vine": {
+   "x": 590,
+   "y": 786
+  },
+  "waterfall": {
+   "x": 786,
+   "y": 786
+  },
+  "waving_frond": {
+   "x": 982,
+   "y": 786
+  },
+  "wildflower": {
+   "x": 2,
+   "y": 982
+  }
+ }
+}

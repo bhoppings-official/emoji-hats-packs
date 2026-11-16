@@ -1,0 +1,180 @@
+{
+ "meta": {
+  "version": 1,
+  "pack": "tools",
+  "image": "atlas.webp",
+  "format": "webp",
+  "hash": "7180cb44f5",
+  "sourceHash": "d568cc88a8faa537e47ab76e109001886bf98360",
+  "width": 1372,
+  "height": 1176,
+  "size": 192,
+  "padding": 2,
+  "stride": 196,
+  "columns": 7,
+  "rows": 6,
+  "count": 40
+ },
+ "emojis": {
+  "anvil": {
+   "x": 2,
+   "y": 2
+  },
+  "axe": {
+   "x": 198,
+   "y": 2
+  },
+  "bolt_cutter": {
+   "x": 394,
+   "y": 2
+  },
+  "caliper": {
+   "x": 590,
+   "y": 2
+  },
+  "chisel": {
+   "x": 786,
+   "y": 2
+  },
+  "clamp": {
+   "x": 982,
+   "y": 2
+  },
+  "crowbar": {
+   "x": 1178,
+   "y": 2
+  },
+  "drill": {
+   "x": 2,
+   "y": 198
+  },
+  "file": {
+   "x": 198,
+   "y": 198
+  },
+  "folding_brace": {
+   "x": 394,
+   "y": 198
+  },
+  "folding_rod": {
+   "x": 590,
+   "y": 198
+  },
+  "grinder": {
+   "x": 786,
+   "y": 198
+  },
+  "hammer": {
+   "x": 982,
+   "y": 198
+  },
+  "hand_plane": {
+   "x": 1178,
+   "y": 198
+  },
+  "handsaw": {
+   "x": 2,
+   "y": 394
+  },
+  "hook": {
+   "x": 198,
+   "y": 394
+  },
+  "jackhammer": {
+   "x": 394,
+   "y": 394
+  },
+  "knob": {
+   "x": 590,
+   "y": 394
+  },
+  "ladder": {
+   "x": 786,
+   "y": 394
+  },
+  "level": {
+   "x": 982,
+   "y": 394
+  },
+  "lever": {
+   "x": 1178,
+   "y": 394
+  },
+  "measuring_tape": {
+   "x": 2,
+   "y": 590
+  },
+  "pickaxe": {
+   "x": 198,
+   "y": 590
+  },
+  "pipe_cutter": {
+   "x": 394,
+   "y": 590
+  },
+  "pliers": {
+   "x": 590,
+   "y": 590
+  },
+  "rake": {
+   "x": 786,
+   "y": 590
+  },
+  "saw": {
+   "x": 982,
+   "y": 590
+  },
+  "scraping_blade": {
+   "x": 1178,
+   "y": 590
+  },
+  "screwdriver": {
+   "x": 2,
+   "y": 786
+  },
+  "shovel": {
+   "x": 198,
+   "y": 786
+  },
+  "sledgehammer": {
+   "x": 394,
+   "y": 786
+  },
+  "soldering_iron": {
+   "x": 590,
+   "y": 786
+  },
+  "spanner": {
+   "x": 786,
+   "y": 786
+  },
+  "striking_mallet": {
+   "x": 982,
+   "y": 786
+  },
+  "tap": {
+   "x": 1178,
+   "y": 786
+  },
+  "tensioner": {
+   "x": 2,
+   "y": 982
+  },
+  "trowel": {
+   "x": 198,
+   "y": 982
+  },
+  "vise": {
+   "x": 394,
+   "y": 982
+  },
+  "wheelbarrow": {
+   "x": 590,
+   "y": 982
+  },
+  "wrench": {
+   "x": 786,
+   "y": 982
+  }
+ }
+}

@@ -1,0 +1,180 @@
+{
+ "meta": {
+  "version": 1,
+  "pack": "buildings",
+  "image": "atlas.webp",
+  "format": "webp",
+  "hash": "a1cc08ca9b",
+  "sourceHash": "c9eeb920b7cfd95c4403ae3c81d7b467303ca86d",
+  "width": 1372,
+  "height": 1176,
+  "size": 192,
+  "padding": 2,
+  "stride": 196,
+  "columns": 7,
+  "rows": 6,
+  "count": 40
+ },
+ "emojis": {
+  "apartment_complex": {
+   "x": 2,
+   "y": 2
+  },
+  "archery_range": {
+   "x": 198,
+   "y": 2
+  },
+  "barn": {
+   "x": 394,
+   "y": 2
+  },
+  "bridge": {
+   "x": 590,
+   "y": 2
+  },
+  "building": {
+   "x": 786,
+   "y": 2
+  },
+  "bungalow": {
+   "x": 982,
+   "y": 2
+  },
+  "casino": {
+   "x": 1178,
+   "y": 2
+  },
+  "cathedral": {
+   "x": 2,
+   "y": 198
+  },
+  "church": {
+   "x": 198,
+   "y": 198
+  },
+  "clock_face": {
+   "x": 394,
+   "y": 198
+  },
+  "clock_tower": {
+   "x": 590,
+   "y": 198
+  },
+  "cottage": {
+   "x": 786,
+   "y": 198
+  },
+  "elevated_garden": {
+   "x": 982,
+   "y": 198
+  },
+  "elevated_plaza": {
+   "x": 1178,
+   "y": 198
+  },
+  "elevated_walkway": {
+   "x": 2,
+   "y": 394
+  },
+  "factory": {
+   "x": 198,
+   "y": 394
+  },
+  "fire_station": {
+   "x": 394,
+   "y": 394
+  },
+  "fort": {
+   "x": 590,
+   "y": 394
+  },
+  "garage": {
+   "x": 786,
+   "y": 394
+  },
+  "gazebo": {
+   "x": 982,
+   "y": 394
+  },
+  "greenhouse": {
+   "x": 1178,
+   "y": 394
+  },
+  "hangar": {
+   "x": 2,
+   "y": 590
+  },
+  "hospital": {
+   "x": 198,
+   "y": 590
+  },
+  "library": {
+   "x": 394,
+   "y": 590
+  },
+  "lighthouse": {
+   "x": 590,
+   "y": 590
+  },
+  "monastery": {
+   "x": 786,
+   "y": 590
+  },
+  "motel": {
+   "x": 982,
+   "y": 590
+  },
+  "observatory": {
+   "x": 1178,
+   "y": 590
+  },
+  "office_complex": {
+   "x": 2,
+   "y": 786
+  },
+  "pagoda": {
+   "x": 198,
+   "y": 786
+  },
+  "restaurant": {
+   "x": 394,
+   "y": 786
+  },
+  "school": {
+   "x": 590,
+   "y": 786
+  },
+  "skyscraper": {
+   "x": 786,
+   "y": 786
+  },
+  "stadium": {
+   "x": 982,
+   "y": 786
+  },
+  "synagogue": {
+   "x": 1178,
+   "y": 786
+  },
+  "tower": {
+   "x": 2,
+   "y": 982
+  },
+  "townhouse": {
+   "x": 198,
+   "y": 982
+  },
+  "villa": {
+   "x": 394,
+   "y": 982
+  },
+  "warehouse": {
+   "x": 590,
+   "y": 982
+  },
+  "wind_chime": {
+   "x": 786,
+   "y": 982
+  }
+ }
+}

@@ -1,0 +1,212 @@
+{
+ "meta": {
+  "version": 1,
+  "pack": "emotions",
+  "image": "atlas.webp",
+  "format": "webp",
+  "hash": "1d82988e82",
+  "sourceHash": "f84c475f004c996a6cb92ad27421304e841733d6",
+  "width": 1372,
+  "height": 1372,
+  "size": 192,
+  "padding": 2,
+  "stride": 196,
+  "columns": 7,
+  "rows": 7,
+  "count": 48
+ },
+ "emojis": {
+  "a_bent_blade": {
+   "x": 2,
+   "y": 2
+  },
+  "a_bent_fork": {
+   "x": 198,
+   "y": 2
+  },
+  "a_bent_hinge": {
+   "x": 394,
+   "y": 2
+  },
+  "a_bent_spoon": {
+   "x": 590,
+   "y": 2
+  },
+  "a_bent_wire": {
+   "x": 786,
+   "y": 2
+  },
+  "a_coiled_vine": {
+   "x": 982,
+   "y": 2
+  },
+  "a_cracked_mirror": {
+   "x": 1178,
+   "y": 2
+  },
+  "a_cracked_mirror_2": {
+   "x": 2,
+   "y": 198
+  },
+  "a_cracked_shell": {
+   "x": 198,
+   "y": 198
+  },
+  "a_cracked_teacup": {
+   "x": 394,
+   "y": 198
+  },
+  "a_fading_glow": {
+   "x": 590,
+   "y": 198
+  },
+  "a_fading_glow_2": {
+   "x": 786,
+   "y": 198
+  },
+  "a_flickering_lantern": {
+   "x": 982,
+   "y": 198
+  },
+  "a_flickering_thread": {
+   "x": 1178,
+   "y": 198
+  },
+  "a_fluttering_tassel": {
+   "x": 2,
+   "y": 394
+  },
+  "a_frayed_net": {
+   "x": 198,
+   "y": 394
+  },
+  "a_frayed_ribbon": {
+   "x": 394,
+   "y": 394
+  },
+  "a_frayed_rope": {
+   "x": 590,
+   "y": 394
+  },
+  "a_frayed_strap": {
+   "x": 786,
+   "y": 394
+  },
+  "a_frayed_string": {
+   "x": 982,
+   "y": 394
+  },
+  "a_frozen_drop": {
+   "x": 1178,
+   "y": 394
+  },
+  "a_frozen_drop_2": {
+   "x": 2,
+   "y": 590
+  },
+  "a_glowing_heartbeat": {
+   "x": 198,
+   "y": 590
+  },
+  "a_glowing_heartbeat_2": {
+   "x": 394,
+   "y": 590
+  },
+  "a_hollow_stone": {
+   "x": 590,
+   "y": 590
+  },
+  "a_muffled_chime": {
+   "x": 786,
+   "y": 590
+  },
+  "a_shadowed_root": {
+   "x": 982,
+   "y": 590
+  },
+  "a_silent_breath": {
+   "x": 1178,
+   "y": 590
+  },
+  "a_silent_breath_2": {
+   "x": 2,
+   "y": 786
+  },
+  "a_smoldering_ember": {
+   "x": 198,
+   "y": 786
+  },
+  "a_smoldering_ember_2": {
+   "x": 394,
+   "y": 786
+  },
+  "a_smudged_cloth": {
+   "x": 590,
+   "y": 786
+  },
+  "a_spinning_veil": {
+   "x": 786,
+   "y": 786
+  },
+  "a_splintered_board": {
+   "x": 982,
+   "y": 786
+  },
+  "a_suspended_mist": {
+   "x": 1178,
+   "y": 786
+  },
+  "a_suspended_mist_2": {
+   "x": 2,
+   "y": 982
+  },
+  "a_tangled_puzzle": {
+   "x": 198,
+   "y": 982
+  },
+  "a_torn_curtain": {
+   "x": 394,
+   "y": 982
+  },
+  "a_torn_glove": {
+   "x": 590,
+   "y": 982
+  },
+  "a_torn_sleeve": {
+   "x": 786,
+   "y": 982
+  },
+  "a_trembling_leaf": {
+   "x": 982,
+   "y": 982
+  },
+  "a_trembling_leaf_2": {
+   "x": 1178,
+   "y": 982
+  },
+  "a_warped_hinge": {
+   "x": 2,
+   "y": 1178
+  },
+  "a_warped_key": {
+   "x": 198,
+   "y": 1178
+  },
+  "a_warped_tile": {
+   "x": 394,
+   "y": 1178
+  },
+  "image": {
+   "x": 590,
+   "y": 1178
+  },
+  "image_2": {
+   "x": 786,
+   "y": 1178
+  },
+  "image_3": {
+   "x": 982,
+   "y": 1178
+  }
+ }
+}

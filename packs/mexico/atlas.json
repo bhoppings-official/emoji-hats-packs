@@ -1,0 +1,104 @@
+{
+ "meta": {
+  "version": 1,
+  "pack": "mexico",
+  "image": "atlas.webp",
+  "format": "webp",
+  "hash": "b14cb750b2",
+  "sourceHash": "4b0ad6e1e41f19bfc3d1a4f3a95f0a32bde6a60a",
+  "width": 980,
+  "height": 980,
+  "size": 192,
+  "padding": 2,
+  "stride": 196,
+  "columns": 5,
+  "rows": 5,
+  "count": 21
+ },
+ "emojis": {
+  "cactus_sculpture": {
+   "x": 2,
+   "y": 2
+  },
+  "ceramic_vase": {
+   "x": 198,
+   "y": 2
+  },
+  "churro": {
+   "x": 394,
+   "y": 2
+  },
+  "clay_bowl": {
+   "x": 590,
+   "y": 2
+  },
+  "clay_flute": {
+   "x": 786,
+   "y": 2
+  },
+  "clay_jug": {
+   "x": 2,
+   "y": 198
+  },
+  "clay_pot": {
+   "x": 198,
+   "y": 198
+  },
+  "marijuana_leaf": {
+   "x": 394,
+   "y": 198
+  },
+  "metal_drum": {
+   "x": 590,
+   "y": 198
+  },
+  "molkito_jar": {
+   "x": 786,
+   "y": 198
+  },
+  "rope_bracelet": {
+   "x": 2,
+   "y": 394
+  },
+  "serpiente_figurine": {
+   "x": 198,
+   "y": 394
+  },
+  "sombrero": {
+   "x": 394,
+   "y": 394
+  },
+  "stone_axe": {
+   "x": 590,
+   "y": 394
+  },
+  "stone_flute": {
+   "x": 786,
+   "y": 394
+  },
+  "stone_whistle": {
+   "x": 2,
+   "y": 590
+  },
+  "tequila_bottle": {
+   "x": 198,
+   "y": 590
+  },
+  "wooden_flute": {
+   "x": 394,
+   "y": 590
+  },
+  "woven_basket": {
+   "x": 590,
+   "y": 590
+  },
+  "woven_cloth": {
+   "x": 786,
+   "y": 590
+  },
+  "woven_strap": {
+   "x": 2,
+   "y": 786
+  }
+ }
+}

@@ -1,0 +1,24 @@
+{
+ "meta": {
+  "version": 1,
+  "pack": "example",
+  "image": "atlas.webp",
+  "format": "webp",
+  "hash": "0aef0f25b4",
+  "sourceHash": "3c6dabacf5d3f48dbed91a66b450de1cee1532ed",
+  "width": 196,
+  "height": 196,
+  "size": 192,
+  "padding": 2,
+  "stride": 196,
+  "columns": 1,
+  "rows": 1,
+  "count": 1
+ },
+ "emojis": {
+  "wine_glass": {
+   "x": 2,
+   "y": 2
+  }
+ }
+}

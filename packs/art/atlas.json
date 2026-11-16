@@ -1,0 +1,216 @@
+{
+ "meta": {
+  "version": 1,
+  "pack": "art",
+  "image": "atlas.webp",
+  "format": "webp",
+  "hash": "537df8b406",
+  "sourceHash": "ad3c1fab31e0923abc4629832a53ad11ebebe8d5",
+  "width": 1372,
+  "height": 1372,
+  "size": 192,
+  "padding": 2,
+  "stride": 196,
+  "columns": 7,
+  "rows": 7,
+  "count": 49
+ },
+ "emojis": {
+  "armature": {
+   "x": 2,
+   "y": 2
+  },
+  "artificial_flower": {
+   "x": 198,
+   "y": 2
+  },
+  "bronze_relief": {
+   "x": 394,
+   "y": 2
+  },
+  "bronze_statue": {
+   "x": 590,
+   "y": 2
+  },
+  "calligraphy_pen": {
+   "x": 786,
+   "y": 2
+  },
+  "canvas": {
+   "x": 982,
+   "y": 2
+  },
+  "carved_mask": {
+   "x": 1178,
+   "y": 2
+  },
+  "ceramic_bowl": {
+   "x": 2,
+   "y": 198
+  },
+  "ceramic_mug": {
+   "x": 198,
+   "y": 198
+  },
+  "ceramic_pitcher": {
+   "x": 394,
+   "y": 198
+  },
+  "ceramic_platter": {
+   "x": 590,
+   "y": 198
+  },
+  "ceramic_tile": {
+   "x": 786,
+   "y": 198
+  },
+  "ceramic_vase": {
+   "x": 982,
+   "y": 198
+  },
+  "charcoal_pencil": {
+   "x": 1178,
+   "y": 198
+  },
+  "charcoal_stick": {
+   "x": 2,
+   "y": 394
+  },
+  "chisel": {
+   "x": 198,
+   "y": 394
+  },
+  "clay_amphora": {
+   "x": 394,
+   "y": 394
+  },
+  "clay_bust": {
+   "x": 590,
+   "y": 394
+  },
+  "clay_figurine": {
+   "x": 786,
+   "y": 394
+  },
+  "clay_tablet": {
+   "x": 982,
+   "y": 394
+  },
+  "color_wheel": {
+   "x": 1178,
+   "y": 394
+  },
+  "easel": {
+   "x": 2,
+   "y": 590
+  },
+  "etching_plate": {
+   "x": 198,
+   "y": 590
+  },
+  "figurine": {
+   "x": 394,
+   "y": 590
+  },
+  "fresco": {
+   "x": 590,
+   "y": 590
+  },
+  "glass_paperweight": {
+   "x": 786,
+   "y": 590
+  },
+  "image": {
+   "x": 982,
+   "y": 590
+  },
+  "inkstone": {
+   "x": 1178,
+   "y": 590
+  },
+  "lithograph_stone": {
+   "x": 2,
+   "y": 786
+  },
+  "marble_bust": {
+   "x": 198,
+   "y": 786
+  },
+  "marble_pedestal": {
+   "x": 394,
+   "y": 786
+  },
+  "mosaic_tile": {
+   "x": 590,
+   "y": 786
+  },
+  "oil_pastel": {
+   "x": 786,
+   "y": 786
+  },
+  "origami_crane": {
+   "x": 982,
+   "y": 786
+  },
+  "paint_tube": {
+   "x": 1178,
+   "y": 786
+  },
+  "paintbrush": {
+   "x": 2,
+   "y": 982
+  },
+  "palette_knife": {
+   "x": 198,
+   "y": 982
+  },
+  "paper_fan": {
+   "x": 394,
+   "y": 982
+  },
+  "pigment_jar": {
+   "x": 590,
+   "y": 982
+  },
+  "pottery_wheel": {
+   "x": 786,
+   "y": 982
+  },
+  "printing_press": {
+   "x": 982,
+   "y": 982
+  },
+  "sculpture": {
+   "x": 1178,
+   "y": 982
+  },
+  "sketchbook": {
+   "x": 2,
+   "y": 1178
+  },
+  "spray_paint_can": {
+   "x": 198,
+   "y": 1178
+  },
+  "stained_glass_panel": {
+   "x": 394,
+   "y": 1178
+  },
+  "tapestry": {
+   "x": 590,
+   "y": 1178
+  },
+  "watercolor_pan": {
+   "x": 786,
+   "y": 1178
+  },
+  "woodcut_block": {
+   "x": 982,
+   "y": 1178
+  },
+  "wooden_frame": {
+   "x": 1178,
+   "y": 1178
+  }
+ }
+}

@@ -1,0 +1,180 @@
+{
+ "meta": {
+  "version": 1,
+  "pack": "structures",
+  "image": "atlas.webp",
+  "format": "webp",
+  "hash": "571e4be4df",
+  "sourceHash": "d26f051d2b2c8286e1f634da6b58de7234291a8a",
+  "width": 1372,
+  "height": 1176,
+  "size": 192,
+  "padding": 2,
+  "stride": 196,
+  "columns": 7,
+  "rows": 6,
+  "count": 40
+ },
+ "emojis": {
+  "bamboo_walkway": {
+   "x": 2,
+   "y": 2
+  },
+  "barn": {
+   "x": 198,
+   "y": 2
+  },
+  "bell_tower": {
+   "x": 394,
+   "y": 2
+  },
+  "brick_chimney": {
+   "x": 590,
+   "y": 2
+  },
+  "cinder_path": {
+   "x": 786,
+   "y": 2
+  },
+  "clay_amphitheater": {
+   "x": 982,
+   "y": 2
+  },
+  "clay_roof_ridge": {
+   "x": 1178,
+   "y": 2
+  },
+  "concrete_footbridge": {
+   "x": 2,
+   "y": 198
+  },
+  "gazebo": {
+   "x": 198,
+   "y": 198
+  },
+  "glass_greenhouse": {
+   "x": 394,
+   "y": 198
+  },
+  "granary": {
+   "x": 590,
+   "y": 198
+  },
+  "granite_causeway": {
+   "x": 786,
+   "y": 198
+  },
+  "granite_monument": {
+   "x": 982,
+   "y": 198
+  },
+  "granite_staircase": {
+   "x": 1178,
+   "y": 198
+  },
+  "iron_lattice_tower": {
+   "x": 2,
+   "y": 394
+  },
+  "lighthouse": {
+   "x": 198,
+   "y": 394
+  },
+  "limestone_ledge": {
+   "x": 394,
+   "y": 394
+  },
+  "log_cabin": {
+   "x": 590,
+   "y": 394
+  },
+  "mosscovered_ledge": {
+   "x": 786,
+   "y": 394
+  },
+  "observation_deck": {
+   "x": 982,
+   "y": 394
+  },
+  "pagoda": {
+   "x": 1178,
+   "y": 394
+  },
+  "reed_embankment": {
+   "x": 2,
+   "y": 590
+  },
+  "steel_truss_bridge": {
+   "x": 198,
+   "y": 590
+  },
+  "stone_archway": {
+   "x": 394,
+   "y": 590
+  },
+  "stone_balcony": {
+   "x": 590,
+   "y": 590
+  },
+  "stone_bridge": {
+   "x": 786,
+   "y": 590
+  },
+  "stone_fortification": {
+   "x": 982,
+   "y": 590
+  },
+  "stone_gateway": {
+   "x": 1178,
+   "y": 590
+  },
+  "stone_parapet": {
+   "x": 2,
+   "y": 786
+  },
+  "stone_terrace": {
+   "x": 198,
+   "y": 786
+  },
+  "suspension_bridge": {
+   "x": 394,
+   "y": 786
+  },
+  "thickwalled_shelter": {
+   "x": 590,
+   "y": 786
+  },
+  "timber_tunnel": {
+   "x": 786,
+   "y": 786
+  },
+  "treehouse": {
+   "x": 982,
+   "y": 786
+  },
+  "watchtower": {
+   "x": 1178,
+   "y": 786
+  },
+  "water_tower": {
+   "x": 2,
+   "y": 982
+  },
+  "windmill": {
+   "x": 198,
+   "y": 982
+  },
+  "wooden_pier": {
+   "x": 394,
+   "y": 982
+  },
+  "wooden_trestle_bridge": {
+   "x": 590,
+   "y": 982
+  },
+  "woven_fence": {
+   "x": 786,
+   "y": 982
+  }
+ }
+}

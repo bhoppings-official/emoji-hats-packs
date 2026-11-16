@@ -1,0 +1,116 @@
+{
+ "meta": {
+  "version": 1,
+  "pack": "halloween",
+  "image": "atlas.webp",
+  "format": "webp",
+  "hash": "953e307ee3",
+  "sourceHash": "34f33bad86071f17e659e441c584eaf4fec126d8",
+  "width": 980,
+  "height": 980,
+  "size": 192,
+  "padding": 2,
+  "stride": 196,
+  "columns": 5,
+  "rows": 5,
+  "count": 24
+ },
+ "emojis": {
+  "bats": {
+   "x": 2,
+   "y": 2
+  },
+  "black_cat_plush": {
+   "x": 198,
+   "y": 2
+  },
+  "bones": {
+   "x": 394,
+   "y": 2
+  },
+  "candy_corn": {
+   "x": 590,
+   "y": 2
+  },
+  "cauldron": {
+   "x": 786,
+   "y": 2
+  },
+  "coffin": {
+   "x": 2,
+   "y": 198
+  },
+  "costume_pieces": {
+   "x": 198,
+   "y": 198
+  },
+  "ghost_figurine": {
+   "x": 394,
+   "y": 198
+  },
+  "goblin_hats": {
+   "x": 590,
+   "y": 198
+  },
+  "gravestone": {
+   "x": 786,
+   "y": 198
+  },
+  "graveyard_signs": {
+   "x": 2,
+   "y": 394
+  },
+  "jackolantern": {
+   "x": 198,
+   "y": 394
+  },
+  "lanterns": {
+   "x": 394,
+   "y": 394
+  },
+  "pumpkin": {
+   "x": 590,
+   "y": 394
+  },
+  "scarecrow": {
+   "x": 786,
+   "y": 394
+  },
+  "scarves": {
+   "x": 2,
+   "y": 590
+  },
+  "skull_candle": {
+   "x": 198,
+   "y": 590
+  },
+  "spider_traps": {
+   "x": 394,
+   "y": 590
+  },
+  "spider_webs": {
+   "x": 590,
+   "y": 590
+  },
+  "spiders": {
+   "x": 786,
+   "y": 590
+  },
+  "tombstone": {
+   "x": 2,
+   "y": 786
+  },
+  "trickortreat_bags": {
+   "x": 198,
+   "y": 786
+  },
+  "witch_broom": {
+   "x": 394,
+   "y": 786
+  },
+  "witch_hats": {
+   "x": 590,
+   "y": 786
+  }
+ }
+}

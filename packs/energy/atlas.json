@@ -1,0 +1,180 @@
+{
+ "meta": {
+  "version": 1,
+  "pack": "energy",
+  "image": "atlas.webp",
+  "format": "webp",
+  "hash": "fa7d4aeb17",
+  "sourceHash": "6d9c2f36c201512924b67a6d692c899984aed1b9",
+  "width": 1372,
+  "height": 1176,
+  "size": 192,
+  "padding": 2,
+  "stride": 196,
+  "columns": 7,
+  "rows": 6,
+  "count": 40
+ },
+ "emojis": {
+  "arc_welder": {
+   "x": 2,
+   "y": 2
+  },
+  "battery": {
+   "x": 198,
+   "y": 2
+  },
+  "biofuel_stove": {
+   "x": 394,
+   "y": 2
+  },
+  "capacitor": {
+   "x": 590,
+   "y": 2
+  },
+  "compressor": {
+   "x": 786,
+   "y": 2
+  },
+  "crystalline_flux": {
+   "x": 982,
+   "y": 2
+  },
+  "dynamo": {
+   "x": 1178,
+   "y": 2
+  },
+  "electric_generator": {
+   "x": 2,
+   "y": 198
+  },
+  "energy_conduit": {
+   "x": 198,
+   "y": 198
+  },
+  "energy_crystal": {
+   "x": 394,
+   "y": 198
+  },
+  "energy_meter": {
+   "x": 590,
+   "y": 198
+  },
+  "energy_sphere": {
+   "x": 786,
+   "y": 198
+  },
+  "energy_torch": {
+   "x": 982,
+   "y": 198
+  },
+  "flux_regulator": {
+   "x": 1178,
+   "y": 198
+  },
+  "flywheel": {
+   "x": 2,
+   "y": 394
+  },
+  "fuel_pellet": {
+   "x": 198,
+   "y": 394
+  },
+  "fuel_rod": {
+   "x": 394,
+   "y": 394
+  },
+  "fusion_reactor": {
+   "x": 590,
+   "y": 394
+  },
+  "gasoline_canister": {
+   "x": 786,
+   "y": 394
+  },
+  "geothermal_pump": {
+   "x": 982,
+   "y": 394
+  },
+  "glowstick": {
+   "x": 1178,
+   "y": 394
+  },
+  "heat_lamp": {
+   "x": 2,
+   "y": 590
+  },
+  "hydroelectric_generator": {
+   "x": 198,
+   "y": 590
+  },
+  "hydrogen_tank": {
+   "x": 394,
+   "y": 590
+  },
+  "kinetic_thread": {
+   "x": 590,
+   "y": 590
+  },
+  "light_prism": {
+   "x": 786,
+   "y": 590
+  },
+  "nuclear_core": {
+   "x": 982,
+   "y": 590
+  },
+  "oil_drum": {
+   "x": 1178,
+   "y": 590
+  },
+  "plasma_coil": {
+   "x": 2,
+   "y": 786
+  },
+  "power_cell": {
+   "x": 198,
+   "y": 786
+  },
+  "power_transformer": {
+   "x": 394,
+   "y": 786
+  },
+  "radiant_coil": {
+   "x": 590,
+   "y": 786
+  },
+  "radiant_heater": {
+   "x": 786,
+   "y": 786
+  },
+  "solar_ember": {
+   "x": 982,
+   "y": 786
+  },
+  "solar_panel": {
+   "x": 1178,
+   "y": 786
+  },
+  "steam_engine": {
+   "x": 2,
+   "y": 982
+  },
+  "thermal_bloom": {
+   "x": 198,
+   "y": 982
+  },
+  "thermal_filament": {
+   "x": 394,
+   "y": 982
+  },
+  "wind_sock": {
+   "x": 590,
+   "y": 982
+  },
+  "wind_turbine": {
+   "x": 786,
+   "y": 982
+  }
+ }
+}

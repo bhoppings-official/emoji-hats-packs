@@ -1,0 +1,180 @@
+{
+ "meta": {
+  "version": 1,
+  "pack": "technology",
+  "image": "atlas.webp",
+  "format": "webp",
+  "hash": "2f41c12158",
+  "sourceHash": "5398d573f18d6492e408a89e4a25ce1032b55299",
+  "width": 1372,
+  "height": 1176,
+  "size": 192,
+  "padding": 2,
+  "stride": 196,
+  "columns": 7,
+  "rows": 6,
+  "count": 40
+ },
+ "emojis": {
+  "bluetooth_headset": {
+   "x": 2,
+   "y": 2
+  },
+  "d_printer": {
+   "x": 198,
+   "y": 2
+  },
+  "digital_camera": {
+   "x": 394,
+   "y": 2
+  },
+  "drone": {
+   "x": 590,
+   "y": 2
+  },
+  "electric_scooter": {
+   "x": 786,
+   "y": 2
+  },
+  "external_hard_drive": {
+   "x": 982,
+   "y": 2
+  },
+  "fiber_optic_cable": {
+   "x": 1178,
+   "y": 2
+  },
+  "gaming_keyboard": {
+   "x": 2,
+   "y": 198
+  },
+  "gaming_mouse": {
+   "x": 198,
+   "y": 198
+  },
+  "graphics_card": {
+   "x": 394,
+   "y": 198
+  },
+  "holographic_orb": {
+   "x": 590,
+   "y": 198
+  },
+  "laptop": {
+   "x": 786,
+   "y": 198
+  },
+  "laser_projector": {
+   "x": 982,
+   "y": 198
+  },
+  "mechanical_keyboard": {
+   "x": 1178,
+   "y": 198
+  },
+  "microprocessor": {
+   "x": 2,
+   "y": 394
+  },
+  "neural_filament": {
+   "x": 198,
+   "y": 394
+  },
+  "neural_pod": {
+   "x": 394,
+   "y": 394
+  },
+  "neural_thread": {
+   "x": 590,
+   "y": 394
+  },
+  "portable_power_bank": {
+   "x": 786,
+   "y": 394
+  },
+  "quantum_resonator": {
+   "x": 982,
+   "y": 394
+  },
+  "robot_vacuum": {
+   "x": 1178,
+   "y": 394
+  },
+  "robotic_arm": {
+   "x": 2,
+   "y": 590
+  },
+  "smart_glasses": {
+   "x": 198,
+   "y": 590
+  },
+  "smart_lock": {
+   "x": 394,
+   "y": 590
+  },
+  "smart_speaker": {
+   "x": 590,
+   "y": 590
+  },
+  "smart_thermostat": {
+   "x": 786,
+   "y": 590
+  },
+  "smart_tv": {
+   "x": 982,
+   "y": 590
+  },
+  "smartphone": {
+   "x": 1178,
+   "y": 590
+  },
+  "smartwatch": {
+   "x": 2,
+   "y": 786
+  },
+  "solar_charger": {
+   "x": 198,
+   "y": 786
+  },
+  "solid_state_drive": {
+   "x": 394,
+   "y": 786
+  },
+  "tablet": {
+   "x": 590,
+   "y": 786
+  },
+  "thermal_camera": {
+   "x": 786,
+   "y": 786
+  },
+  "thermal_printer": {
+   "x": 982,
+   "y": 786
+  },
+  "usb_flash_drive": {
+   "x": 1178,
+   "y": 786
+  },
+  "virtual_reality_treadmill": {
+   "x": 2,
+   "y": 982
+  },
+  "vr_headset": {
+   "x": 198,
+   "y": 982
+  },
+  "wireless_charging_pad": {
+   "x": 394,
+   "y": 982
+  },
+  "wireless_earbuds": {
+   "x": 590,
+   "y": 982
+  },
+  "wireless_router": {
+   "x": 786,
+   "y": 982
+  }
+ }
+}
