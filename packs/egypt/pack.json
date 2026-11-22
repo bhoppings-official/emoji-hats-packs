@@ -2,6 +2,6 @@
     "title": "Egypt",
     "description": "Ankhs, scarabs and sun-baked ruins from the banks of the Nile and the edge of the desert.",
     "llm_description": "an ancient Egyptian pack of artifacts, hieroglyph carvings, desert relics, pharaonic treasures and tomb objects; mysterious, weathered, sun-baked and ancient",
-    "icon": "emojis/golden_pharaoh_mask.png",
+    "icon": "icon.png",
     "tags": ["ancient", "history", "desert"]
 }

@@ -2,6 +2,6 @@
     "title": "Christmas",
     "description": "Jingle bells, roaring fireplaces and a jolly hat for every naughty-or-nice occasion.",
     "llm_description": "a Christmas pack of holiday decorations, winter scenes, gifts and festive characters; warm, cozy, nostalgic and sugar-sweet with a touch of kitsch",
-    "icon": "emojis/christmas_tree.png",
+    "icon": "icon.png",
     "tags": ["holiday", "winter", "festive"]
 }
