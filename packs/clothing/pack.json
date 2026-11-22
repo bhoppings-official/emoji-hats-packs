@@ -2,6 +2,6 @@
     "title": "Clothing",
     "description": "From tailored blazers to pirate hats, everything a well-dressed emoji wears.",
     "llm_description": "a wardrobe pack of everyday clothing, outerwear, formalwear, accessories and cultural garments; stylish, fashionable and occasionally eccentric",
-    "icon": "icon.png",
+    "icon": "emojis/shirt.png",
     "tags": ["fashion", "wardrobe", "style"]
 }

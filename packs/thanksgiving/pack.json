@@ -2,6 +2,6 @@
     "title": "Thanksgiving",
     "description": "Roast turkey, pumpkin pie and a cornucopia of autumn, all ready for the big feast.",
     "llm_description": "a harvest feast pack of roast turkey, pies, side dishes, autumn textiles, pumpkins, cornucopias and carving tools; warm, rustic, abundant and family-table cozy",
-    "icon": "icon.png",
+    "icon": "emojis/turkey.png",
     "tags": ["holiday", "autumn", "feast"]
 }

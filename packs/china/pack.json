@@ -2,6 +2,6 @@
     "title": "China",
     "description": "Dragons, dynasties, dumplings and dragon-trimmed silk, straight from an imperial courtyard.",
     "llm_description": "an East Asian and Chinese-inspired pack of dragons, porcelain, silk, tea wares, martial arts gear and classical scholar tools; elegant, imperial, ornate and historical",
-    "icon": "icon.png",
+    "icon": "emojis/dragon_lantern.png",
     "tags": ["culture", "history", "imperial"]
 }

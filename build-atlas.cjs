@@ -7,9 +7,10 @@
  *   ./packs/<name>/atlas.webp   one sprite sheet with every emoji of the pack
  *   ./packs/<name>/atlas.json   where each emoji sits in that sheet + sheet metadata
  *
- * The PNGs stay untouched: they are the masters. Each one is shrunk to fit inside a
- * SIZE x SIZE cell (aspect ratio kept, centred, transparent padding), converted to 8-bit
- * and placed on a grid. Packs whose PNGs didn't change since the last build are skipped.
+ * Before packing, each pack's PNGs are normalized in place (trimmed and renamed).
+ * Each one is then shrunk to fit inside a SIZE x SIZE cell (aspect ratio kept, centred,
+ * transparent padding), converted to 8-bit and placed on a grid. Packs whose PNGs didn't
+ * change since the last build are skipped.
  *
  * Usage (from the repo root)
  *   npm run build                     build every pack that changed
@@ -32,6 +33,7 @@ const fs = require('fs/promises');
 const path = require('path');
 const crypto = require('crypto');
 const os = require('os');
+const { execFileSync } = require('child_process');
 const sharp = require('sharp');
 
 const ROOT = __dirname;
@@ -85,6 +87,20 @@ async function listPngs(pack) {
     seen.set(name, f);
   }
   return files;
+}
+
+async function normalizeEmojis(pack) {
+  const emojiDir = path.join(PACKS_DIR, pack, 'emojis');
+  let files;
+  try {
+    files = await fs.readdir(emojiDir);
+  } catch (err) {
+    if (err.code === 'ENOENT') return;
+    throw err;
+  }
+  if (!files.some(f => /\.png$/i.test(f))) return;
+
+  execFileSync('bash', [path.join(ROOT, 'normalize-emojis.sh'), emojiDir], { stdio: 'inherit' });
 }
 
 // hash of every input byte + every setting that changes the output: unchanged = skip the pack
@@ -158,6 +174,7 @@ async function main() {
 
   for (const pack of packs) {
     try {
+      await normalizeEmojis(pack);
       const files = await listPngs(pack);
       if (!files.length) continue;                                // not a pack (no emojis/ folder or no PNGs)
       const sourceHash = await hashSource(pack, files);

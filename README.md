@@ -3,8 +3,10 @@ emoji hat hats
 
 ## Building emoji atlases
 
-Run `npm install` once, then `npm run build` to generate or update each pack's
-`atlas.webp` and `atlas.json`. Use `npm run build:force` to rebuild every atlas.
+Run `npm install` once and install ImageMagick (`magick` or `convert`), then
+`npm run build` to normalize each pack's emoji PNGs and generate or update its
+`atlas.webp` and `atlas.json`. Normalization trims image edges and renames
+files in place. Use `npm run build:force` to rebuild every atlas.
 
 ## Updating the pack list
 

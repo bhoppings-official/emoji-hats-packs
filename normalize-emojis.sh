@@ -59,16 +59,28 @@ for file in "${files[@]}"; do
     done
   fi
 
-  trimmed=$(mktemp "$directory/.normalize-emojis.XXXXXXXX.png")
-  if ! "${image_tool[@]}" "$file" -trim +repage "$trimmed"; then
-    rm -f -- "$trimmed"
-    printf 'Error: could not trim PNG: %s\n' "$file" >&2
-    exit 1
-  fi
-  if ! mv -- "$trimmed" "$file"; then
-    rm -f -- "$trimmed"
-    printf 'Error: could not replace PNG: %s\n' "$file" >&2
-    exit 1
+  trimmed_changed=0
+  pixel_colors=$("${image_tool[@]}" "$file" -format '%k' info:)
+  # A single-color image has no foreground for ImageMagick to trim to.
+  if [[ "$pixel_colors" -gt 1 ]]; then
+    original_geometry=$("${image_tool[@]}" "$file" -format '%wx%h' info:)
+    trimmed=$(mktemp "$directory/.normalize-emojis.XXXXXXXX.png")
+    if ! "${image_tool[@]}" "$file" -trim +repage "$trimmed"; then
+      rm -f -- "$trimmed"
+      printf 'Error: could not trim PNG: %s\n' "$file" >&2
+      exit 1
+    fi
+    trimmed_geometry=$("${image_tool[@]}" "$trimmed" -format '%wx%h' info:)
+    if [[ "$original_geometry" != "$trimmed_geometry" ]]; then
+      if ! mv -- "$trimmed" "$file"; then
+        rm -f -- "$trimmed"
+        printf 'Error: could not replace PNG: %s\n' "$file" >&2
+        exit 1
+      fi
+      trimmed_changed=1
+    else
+      rm -f -- "$trimmed"
+    fi
   fi
 
   if [[ "$target" != "$file" ]]; then
@@ -77,7 +89,9 @@ for file in "${files[@]}"; do
       exit 1
     fi
     printf 'Renamed: %q -> %q\n' "$file" "$target"
-  else
+  elif [[ "$trimmed_changed" -eq 1 ]]; then
     printf 'Trimmed: %q\n' "$file"
+  else
+    printf 'Unchanged: %q\n' "$file"
   fi
 done
